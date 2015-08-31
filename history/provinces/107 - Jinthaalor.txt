@@ -1,0 +1,15 @@
+# 107 - Jintha'alor
+
+# County Title
+title = c_jinthaalor
+
+# Settlements
+max_settlements = 7
+b_jinthaalor = temple
+
+culture = witherbark
+religion = loa
+
+# History
+
+

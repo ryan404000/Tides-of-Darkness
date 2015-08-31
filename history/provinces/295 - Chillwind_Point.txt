@@ -1,0 +1,15 @@
+# 295 - Chillwind Point
+
+# County Title
+title = c_chillwind_point
+
+# Settlements
+max_settlements = 4
+
+b_chillwind_point = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

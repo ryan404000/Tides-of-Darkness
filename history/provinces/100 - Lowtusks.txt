@@ -1,0 +1,14 @@
+# 100 - Lowtusks
+
+# County Title
+title = c_lowtusks
+
+# Settlements
+max_settlements = 5
+b_lowtusks = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

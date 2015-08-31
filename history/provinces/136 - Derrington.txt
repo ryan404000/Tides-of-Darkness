@@ -1,0 +1,15 @@
+# 136 - Derrington
+
+# County Title
+title = c_derrington
+
+# Settlements
+max_settlements = 5
+
+b_derrington = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

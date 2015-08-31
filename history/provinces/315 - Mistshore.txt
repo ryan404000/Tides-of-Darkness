@@ -1,0 +1,15 @@
+# 315 - Mistshore
+
+# County Title
+title = c_mistshore
+
+# Settlements
+max_settlements = 4
+b_mistshore = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+

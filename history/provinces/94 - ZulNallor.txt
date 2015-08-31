@@ -1,0 +1,14 @@
+# 94 - Zul'Nallor
+
+# County Title
+title = c_zulnallor
+
+# Settlements
+max_settlements = 5
+b_zulnallor = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

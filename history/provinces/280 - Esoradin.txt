@@ -1,0 +1,24 @@
+# 280 - Esoradin
+
+# County Title
+title = c_esoradin
+
+# Settlements
+max_settlements = 4
+
+b_esoradin = city
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+4000.5.3 = {
+
+	b_esoradin = fp_mansion_1
+	b_esoradin = ct_wall_2
+	b_esoradin = ct_port_1
+	b_esoradin = ct_wall_q_2
+	
+}

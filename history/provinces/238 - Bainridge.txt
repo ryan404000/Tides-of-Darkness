@@ -1,0 +1,15 @@
+# 238 - Bainridge
+
+# County Title
+title = c_bainridge
+
+# Settlements
+max_settlements = 4
+b_bainridge = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

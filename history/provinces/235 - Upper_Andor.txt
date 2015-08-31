@@ -1,0 +1,14 @@
+# 235 - Upper Andor
+
+# County Title
+title = c_upper_andor
+
+# Settlements
+max_settlements = 5
+b_upper_andor = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

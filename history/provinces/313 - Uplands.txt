@@ -1,0 +1,14 @@
+# 313 - Uplands
+
+# County Title
+title = c_uplands
+
+# Settlements
+max_settlements = 4
+b_uplands = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

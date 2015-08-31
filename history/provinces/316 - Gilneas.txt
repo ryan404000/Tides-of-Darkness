@@ -1,0 +1,15 @@
+# 316 - Gilneas
+
+# County Title
+title = c_gilneas
+
+# Settlements
+max_settlements = 7
+b_gilneas = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History
+

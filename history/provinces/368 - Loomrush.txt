@@ -1,0 +1,15 @@
+# 368 - Loomrush
+
+# County Title
+title = c_loomrush
+
+# Settlements
+max_settlements = 5
+b_loomrush = castle
+
+# Misc
+culture = gilnean
+religion = church_of_the_holy_light
+
+# History
+

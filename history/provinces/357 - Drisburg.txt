@@ -1,0 +1,14 @@
+# 357 - Drisburg
+
+# County Title
+title = c_drisburg
+
+# Settlements
+max_settlements = 5
+b_drisburg = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

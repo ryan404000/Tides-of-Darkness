@@ -1,0 +1,13 @@
+# 312 - Dandred's Fold
+# County Title
+title = c_dandreds_fold
+
+# Settlements
+max_settlements = 5
+b_dandreds_fold = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,14 @@
+# 358 - Kul Ithor
+
+# County Title
+title = c_kul_ithor
+
+# Settlements
+max_settlements = 4
+b_kul_ithor = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

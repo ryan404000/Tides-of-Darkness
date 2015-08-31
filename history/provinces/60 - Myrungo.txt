@@ -1,0 +1,14 @@
+# 60 - Myrungo
+
+# County Title
+title = c_myrungo
+
+# Settlements
+max_settlements = 3
+b_myrungo = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

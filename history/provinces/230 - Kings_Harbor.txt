@@ -1,0 +1,16 @@
+# 230 - King's Harbor
+
+# County Title
+title = c_kings_harbor
+
+# Settlements
+max_settlements = 5
+b_kings_harbor = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+
+# History
+

@@ -1,0 +1,14 @@
+# 212 - Gardenfield
+
+# County Title
+title = c_gardenfield
+
+# Settlements
+max_settlements = 5
+b_gardenfield = castle
+
+#Misc
+religion = loa
+culture = amani
+
+# History

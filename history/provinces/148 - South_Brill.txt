@@ -1,0 +1,14 @@
+# 148 - South Brill
+
+# County Title
+title = c_south_brill
+
+# Settlements
+max_settlements = 6
+b_south_brill = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

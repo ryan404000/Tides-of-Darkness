@@ -1,0 +1,14 @@
+# 318 - Deepmoor
+
+# County Title
+title = c_deepmoor
+
+# Settlements
+max_settlements = 3
+b_deepmoor = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

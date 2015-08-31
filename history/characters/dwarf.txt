@@ -1,0 +1,72 @@
+230 = {
+	name="Brann"   #King of Khaz Modan
+	dynasty=6061     #Bronzebeard Clan  
+	dna="mwegwssxrho"
+	properties="aj00gb00000"
+	martial=17
+	diplomacy=11
+	intrigue=8
+	stewardship=10
+	learning=14
+	religion="church_of_the_holy_light"
+	culture="bronzebeard"
+	add_trait="ambitious"
+	add_trait="diligent"
+	add_trait="proud"
+	add_trait="just"
+	add_trait="brave"
+	add_trait="temperate"
+	add_trait="patient"
+	add_trait="brilliant_strategist"
+	add_trait="trickster"
+	add_trait="inspiring_leader"
+	father=232
+	3966.4.19 = {
+		birth="3966.4.19"
+	}
+	3979.1.1 = {
+		give_nickname=nick_the_great
+	}
+	3979.1.1 = {
+		add_claim=k_khaz_modan
+	}
+	4001.1.1 = {
+		wealth=1600
+		}
+	4200.2.14 = {
+		death="4200.2.14"
+		death_reason= death_illness
+		}
+	}
+	
+	232 = {
+	name="Bronn"   #King of Khaz Modan
+	dynasty=6061     #Bronzebeard Clan  
+	dna="mwegwssxrho"
+	properties="aj00gb00000"
+	martial=17
+	diplomacy=11
+	intrigue=8
+	stewardship=10
+	learning=14
+	religion="church_of_the_holy_light"
+	culture="bronzebeard"
+	add_trait="ambitious"
+	add_trait="diligent"
+	add_trait="proud"
+	add_trait="just"
+	add_trait="brave"
+	add_trait="temperate"
+	add_trait="patient"
+	add_trait="brilliant_strategist"
+	add_trait="trickster"
+	add_trait="inspiring_leader"
+	3835.4.19 = {
+		birth ="3925.4.19"
+	}
+	
+	3967.2.15 = {
+		death = "3967.2.15"
+		death_reason = death_illness
+	}
+	}

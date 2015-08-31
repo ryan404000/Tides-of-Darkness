@@ -1,0 +1,14 @@
+# 338 - Bitehold
+
+# County Title
+title = c_bitehold
+
+# Settlements
+max_settlements = 4
+b_bitehold = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

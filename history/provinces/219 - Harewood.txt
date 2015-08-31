@@ -1,0 +1,13 @@
+# 219 - Harewood
+
+# County Title
+title = c_harewood
+
+# Settlements
+max_settlements = 4
+b_harewood = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+# History

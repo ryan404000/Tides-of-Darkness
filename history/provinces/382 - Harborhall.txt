@@ -1,0 +1,14 @@
+# 382 - Harborhall
+
+# County Title
+title = c_harborhall
+
+# Settlements
+max_settlements = 4
+b_harborhall = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

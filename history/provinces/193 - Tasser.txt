@@ -1,0 +1,14 @@
+# 193 - Tasser
+
+# County Title
+title = c_tasser
+
+# Settlements
+max_settlements = 5
+b_tasser = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

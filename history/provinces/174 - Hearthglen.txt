@@ -1,0 +1,15 @@
+# 174 - Hearthglen
+
+# County Title
+title = c_hearthglen
+
+# Settlements
+max_settlements = 6
+b_hearthglen = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

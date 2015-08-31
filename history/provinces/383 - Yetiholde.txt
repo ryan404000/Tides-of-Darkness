@@ -1,0 +1,14 @@
+# 383 - Yetiholde
+
+# County Title
+title = c_yetiholde
+
+# Settlements
+max_settlements = 3
+b_yetiholde = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

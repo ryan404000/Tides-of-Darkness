@@ -1,0 +1,15 @@
+# 123 - Balnir
+
+# County Title
+title = c_balnir
+
+# Settlements
+max_settlements = 6
+b_balnir = city
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

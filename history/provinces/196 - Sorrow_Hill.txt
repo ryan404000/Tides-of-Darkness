@@ -1,0 +1,13 @@
+# 196 - Sorrow Hill
+
+# County Title
+title = c_sorrow_hill
+
+# Settlements
+max_settlements = 5
+b_sorrow_hill = castle
+
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

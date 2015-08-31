@@ -1,0 +1,14 @@
+# 233 - Andorhal
+
+# County Title
+title = c_andorhal
+
+# Settlements
+max_settlements = 6
+b_andorhal = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

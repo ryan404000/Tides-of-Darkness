@@ -1,0 +1,14 @@
+# 150 - Westaeron
+
+# County Title
+title = c_westaeron
+
+# Settlements
+max_settlements = 5
+b_westaeron = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

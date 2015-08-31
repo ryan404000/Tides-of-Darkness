@@ -1,0 +1,18 @@
+# 118 - Light's Rest
+
+# County Title
+title = c_lights_rest
+
+# Settlements
+max_settlements = 6
+b_lights_rest = temple
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+
+
+
+

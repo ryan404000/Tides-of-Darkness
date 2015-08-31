@@ -1,0 +1,14 @@
+# 108 - Zeb'Ongo
+
+# County Title
+title = c_zebongo
+
+# Settlements
+max_settlements = 4
+b_zebongo = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

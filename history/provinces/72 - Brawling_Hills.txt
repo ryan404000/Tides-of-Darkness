@@ -1,0 +1,13 @@
+# 72 - Brawling Hills
+
+# County Title
+title = c_brawling_hills
+
+# Settlements
+max_settlements = 5
+b_brawling_hills = castle
+
+# Misc
+culture = amani
+religion = loa
+# History

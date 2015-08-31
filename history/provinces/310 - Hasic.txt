@@ -1,0 +1,14 @@
+# 310 - Hasic
+
+# County Title
+title = c_hasic
+
+# Settlements
+max_settlements = 5
+b_hasic = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,14 @@
+# 24 Shalandis
+
+# County Title
+title = c_shalandis
+
+# Settlements
+max_settlements = 3
+b_shalandis = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

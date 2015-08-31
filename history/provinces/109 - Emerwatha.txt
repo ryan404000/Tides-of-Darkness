@@ -1,0 +1,14 @@
+# 109 - Emer'watha
+
+# County Title
+title = c_emerwatha
+
+# Settlements
+max_settlements = 4
+b_emerwatha = castle
+
+culture = witherbark
+religion = loa
+
+# History
+

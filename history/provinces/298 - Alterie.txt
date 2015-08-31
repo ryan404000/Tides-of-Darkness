@@ -1,0 +1,14 @@
+# 298 - Alterie
+
+# County Title
+title = c_alterie
+
+# Settlements
+max_settlements = 3
+b_alterie = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

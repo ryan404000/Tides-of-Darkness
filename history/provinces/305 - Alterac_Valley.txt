@@ -1,0 +1,14 @@
+# 305 - Alterac Valley
+
+# County Title
+title = c_alterac_valley
+
+# Settlements
+max_settlements = 4
+b_alterac_valley = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

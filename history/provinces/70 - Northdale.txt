@@ -1,0 +1,15 @@
+# 70 - Northdale
+
+# County Title
+title = c_northdale
+
+# Settlements
+max_settlements = 6
+b_northdale = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History
+ 

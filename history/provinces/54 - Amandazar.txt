@@ -1,0 +1,14 @@
+# 54 - Amandazar
+
+# County Title
+title = c_amandazar
+
+# Settlements
+max_settlements = 5
+b_amandazar = castle
+
+# Misc
+culture = amani
+religion = belore
+
+# History

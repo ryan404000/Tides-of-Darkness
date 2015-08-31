@@ -1,0 +1,17 @@
+# 256 - Arathifold
+
+# County Title
+title = c_arathifold
+
+# Settlements
+max_settlements = 5
+b_arathifold = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+
+

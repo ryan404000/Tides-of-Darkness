@@ -1,0 +1,14 @@
+# 309 - Southshore
+
+# County Title
+title = c_southshore
+
+# Settlements
+max_settlements = 6
+b_southshore = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

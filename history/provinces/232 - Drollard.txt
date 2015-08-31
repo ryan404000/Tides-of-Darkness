@@ -1,0 +1,14 @@
+# 232 - Drollard
+
+# County Title
+title = c_drollard
+
+# Settlements
+max_settlements = 2
+b_drollard = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

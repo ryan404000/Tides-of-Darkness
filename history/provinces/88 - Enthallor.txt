@@ -1,0 +1,16 @@
+# 88 - Enthallor
+
+# County Title
+title = c_enthallor
+
+# Settlements
+max_settlements = 4
+b_enthallor = temple
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+

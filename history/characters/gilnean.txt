@@ -1,0 +1,699 @@
+104 = {
+	name="Aderic"
+	dynasty=267    #Greymane
+	religion="old_ways"
+	culture="gilnean"
+	add_trait="proud"
+	add_trait="strong"
+	father=105
+	
+	5661.4.19 = {
+		birth="5661.4.19"
+	}
+	5680.3.20 = {
+		add_claim = k_gilneas
+	}
+	5681.1.1 = {
+		wealth=200
+	}
+}
+105 = {
+	name="Morth"    #death
+	dynasty=267    #Greymane
+	religion="old_ways"
+	culture="gilnean"
+	
+	5630.9.12 = {
+		birth="5630.9.12"
+	}
+	5679.3.2 = {
+		death="5679.3.2"
+	}
+}
+106 = {
+	name="Archibald"
+	dynasty=267    #Greymane
+	religion="old_ways"
+	culture="gilnean"
+	
+	3967.1.28 = {
+		birth="3967.1.28"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+108 = {
+	name="Genn"
+	dynasty=269    #Godwynn
+	religion="old_ways"
+	culture="gilnean"
+	father=109
+	
+	3974.8.2 = {
+		birth="3974.8.2"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+109 = {
+	name="Genn"    #death
+	dynasty=269    #Godwynn
+	religion="old_ways"
+	culture="gilnean"
+	
+	3950.12.23 = {
+		birth="3950.12.23"
+	}
+	3994.7.5 = {
+		death="3994.7.5"
+	}
+}
+110 = {
+	name="Murdock"
+	dynasty=269    #Godwynn
+	religion="old_ways"
+	culture="gilnean"
+	father=109
+	
+	3971.9.30 = {
+		birth="3971.9.30"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+111 = {
+	name="William"
+	dynasty=270    #Ashbury
+	religion="old_ways"
+	culture="gilnean"
+	father=112
+	
+	3976.1.23 = {
+		birth="3976.1.23"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+112 = {
+	name="Genn"    #death
+	dynasty=270   #Ashbury
+	religion="old_ways"
+	culture="gilnean"
+	
+	3934.4.4 = {
+		birth="3934.4.4"
+	}
+	3991.11.15 = {
+		death="3991.11.15"
+	}
+}
+113 = {
+	name="Gilmore"
+	dynasty=270    #Ashbury
+	religion="old_ways"
+	culture="gilnean"
+	father=112
+	
+	3974.8.20 = {
+		birth="3974.8.20"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+114 = {
+	name="Valic"
+	dynasty=270    #Ashbury
+	religion="old_ways"
+	culture="gilnean"
+	father=112
+	
+	3969.7.2 = {
+		birth="3969.7.2"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+115 = {
+	name="Gerard"
+	dynasty=271    #Walden
+	religion="old_ways"
+	culture="gilnean"
+	father=117
+	
+	3983.3.22 = {
+		birth="3983.3.22"
+	}
+	4001.1.1 = {
+		wealth=60
+	}
+}
+116 = {
+	name="Beauregard"
+	dynasty=271    #Walden
+	religion="old_ways"
+	culture="gilnean"
+	father=117
+	
+	3979.6.8 = {
+		birth="3979.6.8"
+	}
+	4001.1.1 = {
+		wealth=230
+	}
+}
+117 = {
+	name="Beauregard"    #death
+	dynasty=271    #Walden
+	religion="old_ways"
+	culture="gilnean"
+	
+	3944.1.8 = {
+		birth="3944.1.8"
+	}	
+	3987.12.15 = {
+		death="3987.12.15"
+	}
+}
+118 = {
+	name="Gillie"
+	female=yes
+	dynasty=270    #Ashbury
+	religion="old_ways"
+	culture="gilnean"
+	father=112
+	
+	3971.3.20 = {
+		birth="3971.3.20"
+	}
+	4001.1.1 = {
+		wealth=10
+	}
+}
+119 = {
+	name="Adrian"
+	dynasty=279   #Seastone
+	religion="old_ways"
+	culture="gilnean"
+	
+	3967.4.18 = {
+		birth="3967.4.18 "
+	}
+	4001.1.1 = {
+		wealth=30
+	}
+}
+120 = {
+	name="Skarvald"
+	dynasty=276    #Bardhelm
+	religion="old_ways"
+	culture="gilnean"
+	
+	3982.2.6 = {
+		birth="3982.2.6"
+	}
+	4001.1.1 = {
+		wealth=30
+	}
+}
+121 = {
+	name="Melledar"
+	dynasty=281    #Turling
+	religion="old_ways"
+	culture="gilnean"
+	father=123
+	
+	3975.5.23 = {
+		birth="3975.5.23"
+	}
+	4001.1.1 = {
+		wealth=30
+	}
+}
+122 = {
+	name="Gregor"
+	dynasty=281    #Turling
+	religion="old_ways"
+	culture="gilnean"
+	father=123
+	
+	3977.8.28 = {
+		birth="3977.8.28"
+	}
+	4001.1.1 = {
+		wealth=55
+	}
+}
+123 = {
+	name="Gregor"
+	dynasty=281    #Turling
+	religion="old_ways"
+	culture="gilnean"
+	
+	3947.9.10 = {
+		birth="3947.9.10"
+	}
+	3984.1.2 = {
+		death="3984.1.2"
+	}
+}
+124 = {
+    name="Augustus"
+	dynasty=273     #Silverlaine
+    martial=12
+    diplomacy=10
+    intrigue=8
+    stewardship=7
+    learning=7
+    religion="old_ways"
+    culture="gilnean"
+	father=126
+    add_trait="falconer"
+    add_trait="greedy"
+    add_trait="patient"
+    add_trait="humble"
+	add_trait="brave"
+	add_trait="midas_touched"
+    3970.5.13={
+         birth="3970.5.13"
+    }
+    3987.1.1 = {
+		add_spouse=125
+	}
+	4001.1.1 = {
+		wealth=350
+	}
+}
+125 = {
+    name="Priea"
+	female=yes
+	dynasty=287     #Donstur
+    martial=5
+    diplomacy=9
+    intrigue=13
+    stewardship=4
+    learning=5
+    religion="old_ways"
+    culture="gilnean"
+    add_trait="diligent"
+    add_trait="ambitious"
+    add_trait="envious"
+	add_trait="strong"
+	add_trait="thrifty_clerk"
+    3970.5.13={
+         birth="3970.5.13"
+    }
+}
+126 = {
+	name="Augustus"
+	dynasty=273    #Silverlaine
+	religion="old_ways"
+	culture="gilnean"
+	father=127
+	
+	3949.3.14 = {
+		birth="3949.3.14"
+	}
+	3987.8.8 = {
+		death="3987.8.8"
+	}
+}
+127 = {
+	name="Augustus"
+	dynasty=273    #Silverlaine
+	religion="old_ways"
+	culture="gilnean"
+	
+	3931.5.15 = {
+		birth="3931.5.15"
+	}
+	3957.11.1 = {
+		death="3957.11.1"
+	}
+}
+128 = {
+	name="Godfrey"
+	dynasty=285    #Botterdon
+	religion="old_ways"
+	culture="gilnean"
+	
+	3967.8.15 = {
+		birth="3967.8.15"
+	}
+	4001.1.1 = {
+		wealth=50
+	}
+}
+129 = {
+	name="Birchard"
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	father=134
+	
+	3969.1.15 = {
+		birth="3969.1.15"
+	}
+	3986.1.1 = {
+		add_claim=c_beren
+	}
+	4001.1.1 = {
+		wealth=150
+	}
+}
+130 = {
+	name="Darius"
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	father=134
+	
+	3967.9.15 = {
+		birth="3967.9.15"
+	}
+	3986.1.1 = {
+		add_claim=d_ambermill
+		add_claim=c_beren
+		add_claim=c_ambermill
+		add_claim=c_everskill
+	}
+	4001.1.1 = {
+		wealth=50
+	}
+}
+131 = {
+	name="Remington"
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	father=134
+	
+	3973.3.15 = {
+		birth="3973.3.15"
+	}
+	3986.1.1 = {
+		add_claim=d_ambermill
+		add_claim=c_beren
+		add_claim=c_everskill
+	}
+	4001.1.1 = {
+		wealth=50
+	}
+}
+132 = {
+	name="Maudria"    
+	female=yes
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	father=134
+	
+	3976.11.15 = {
+		birth="3976.11.15"
+	}
+	3986.1.1 = {
+		add_claim=d_ambermill
+		add_claim=c_beren
+		add_claim=c_ambermill
+		add_claim=c_everskill
+	}
+	4001.1.1 = {
+		wealth=12
+	}
+}
+133 = {
+	name="Cristine"    
+	female=yes
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	father=134
+	
+	3979.11.1 = {
+		birth="3979.11.1"
+	}
+	3986.1.1 = {
+		add_claim=d_ambermill
+		add_claim=c_beren
+		add_claim=c_ambermill
+		add_claim=c_everskill
+	}
+	4001.1.1 = {
+		wealth=12
+	}
+}
+134 = {
+	name="Birchard"   #death
+	dynasty=6016    #Ambermiller
+	religion="old_ways"
+	culture="gilnean"
+	
+	3941.1.15 = {
+		birth="3941.1.15"
+	}
+	3986.1.1 = {
+		death="3986.1.1"
+	}
+}
+135 = {
+	name="Baylor"   #death
+	dynasty=525   #Morris
+	religion="old_ways"
+	culture="gilnean"
+	
+	3921.1.9 = {
+		birth="3921.1.9"
+	}
+	3980.6.1 = {
+		death="3980.6.1"
+	}
+}
+138 = {
+	name="Electria"
+	female=yes
+	dynasty=267    #Greymane
+	religion="old_ways"
+	culture="gilnean"
+	father=105
+	
+	3975.5.2 = {
+		birth="3975.5.2"
+	}
+	4001.1.1 = {
+		wealth=12
+	}
+}
+139 = {
+	name="Aisely"
+	female=yes
+	religion="old_ways"
+	culture="gilnean"
+	
+	3968.1.1 = {
+		birth="3968.1.1"
+	}
+	4001.1.1 = {
+		wealth=45
+	}
+}
+143 = {
+	name="Alasandra"                           #FREE DAUGHTER
+	female=yes
+	dynasty=579   #Abbendis
+	religion="old_ways"
+	culture="gilnean"
+	father=140
+	
+	3975.10.2 = {
+		birth="3975.10.2"
+	}
+	4001.1.1 = {
+		wealth=8
+	}
+}
+145 = {
+	name="Luther"   #death
+	dynasty=579   #Abbendis
+	religion="old_ways"
+	culture="gilnean"
+	father=146
+	
+	3850.4.9 = {
+		birth="3850.4.9"
+	}
+	3908.2.1 = {
+		death="3908.2.1"
+	}
+}
+146 = {
+	name="Lutheri"   #death
+	dynasty=579   #Abbendis
+	religion="old_ways"
+	culture="gilnean"
+	
+	3829.12.9 = {
+		birth="3829.12.9"
+	}
+	3881.6.1 = {
+		death="3881.6.1"
+	}
+}
+149 = {
+	name="Renault"  #Bishop of the Sephlucher
+	religion="old_ways"
+	culture="gilnean"
+	learning=12
+	add_trait="scholar"
+    add_trait="humble"
+    add_trait="patient"
+	add_trait="kind"
+	add_trait="scholarly_theologian"
+	
+	3978.10.4 = {
+		birth="3978.10.4"
+	}
+	4001.1.1 = {
+		wealth=80
+	}
+}
+107 = {
+	name="Tybalt"
+	dynasty=6062    #Grayblade
+	religion="old_ways"
+	culture="gilnean"
+	add_trait = strong
+	add_trait = proud
+	add_trait = quick
+	add_trait = wroth
+	
+	5659.10.2 = {
+		birth="5659.10.2"
+	}
+	5659.5.3 = {
+		add_claim = d_theheadlands
+	}
+	5681.1.1 = {
+		wealth=50
+	}
+}
+270 = {
+	name="Jon" 
+	dynasty=6062    
+	religion="old_ways"
+	culture="gilnean"
+	
+	3980.12.23 = {
+		birth="3980.12.23"
+	}
+}
+271 = {
+	name="Edmund"
+	dynasty=6064    #Emerson
+	religion="old_ways"
+	culture="gilnean"
+	
+	5661.4.19 = {
+		birth="5661.4.19"
+	}
+	5680.3.20 = {
+		add_claim = d_emberstone
+	}
+}
+272 = {
+	name="Edmund"
+	dynasty=6067    #Pierce
+	religion="old_ways"
+	culture="gilnean"
+	
+	5661.4.19 = {
+		birth="5661.4.19"
+	}
+	5680.3.20 = {
+		add_claim = d_eaststorm
+	}
+}
+298 = {
+	name="Renault"
+	dynasty=6069    #Jameson
+	religion="old_ways"
+	culture="gilnean"
+	
+	5665.4.19 = {
+		birth="5665.4.19"
+	}
+	5680.3.20 = {
+		add_claim = c_wellwick
+	}
+}
+299 = {
+	name="Joshua"
+	dynasty=6071    #Littlewood
+	religion="old_ways"
+	culture="gilnean"
+	
+	5665.4.19 = {
+		birth="5665.4.19"
+	}
+	5680.3.20 = {
+		add_claim = c_birchrock
+	}
+}
+302 = {
+	name="Jessica"
+	female=yes
+	dynasty=6071    #Littlewood
+	religion="old_ways"
+	culture="gilnean"
+	
+	5657.4.19 = {
+		birth="5657.4.19"
+	}
+	5680.3.20 = {
+		add_claim = c_gilneawood
+	}
+}
+303 = {
+	name="Charles"
+	dynasty=6072    #Emberstone
+	religion="old_ways"
+	culture="gilnean"
+	
+	5661.4.19 = {
+		birth="5661.4.19"
+	}
+	5680.3.20 = {
+		add_claim = c_garnetwash
+		add_claim = c_northgate
+	}
+}
+}
+304 = {
+	name="Martin"
+	dynasty=6072    #Underwood
+	religion="old_ways"
+	culture="gilnean"
+	
+	5662.4.19 = {
+		birth="5662.4.19"
+	}
+	5680.3.20 = {
+		add_claim = c_archell
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+

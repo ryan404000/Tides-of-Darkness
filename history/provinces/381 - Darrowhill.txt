@@ -1,0 +1,14 @@
+# 381 - Darrowhill
+
+# County Title
+title = c_darrowhill
+
+# Settlements
+max_settlements = 4
+b_darrowhill = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

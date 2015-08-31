@@ -1,0 +1,14 @@
+# 227 - Stoneshroud
+
+# County Title
+title = c_stoneshroud
+
+# Settlements
+max_settlements = 3
+b_stoneshroud = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

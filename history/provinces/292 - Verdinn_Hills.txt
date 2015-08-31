@@ -1,0 +1,16 @@
+# 292 - Verdinn Hills
+
+# County Title
+title = c_verdinn_hills
+
+# Settlements
+max_settlements = 3
+
+b_verdinn_hills = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+
+# History

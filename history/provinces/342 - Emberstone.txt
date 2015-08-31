@@ -1,0 +1,14 @@
+# 342 - Emberstone
+
+# County Title
+title = c_emberstone
+
+# Settlements
+max_settlements = 5
+b_emberstone = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

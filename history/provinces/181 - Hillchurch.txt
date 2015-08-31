@@ -1,0 +1,14 @@
+# 181 - Hillchurch
+
+# County Title
+title = c_hillchurch
+
+# Settlements
+max_settlements = 3
+b_hillchurch = castle
+
+
+culture = amani
+religion = loa
+
+# History

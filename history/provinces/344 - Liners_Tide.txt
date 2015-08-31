@@ -1,0 +1,14 @@
+# 344 - Liners Tide
+
+# County Title
+title = c_liners_tide
+
+# Settlements
+max_settlements = 4
+b_liners_tide = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

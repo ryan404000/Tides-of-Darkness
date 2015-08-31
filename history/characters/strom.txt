@@ -1,0 +1,1559 @@
+1 = {
+	name="Thoradin"   #Duke of Strom, Duke of Arathor
+	dynasty=189     #Lothar  
+	dna="mwegwssxrho"
+	properties="aj00gb00000"
+	martial=13
+	diplomacy=15
+	intrigue=10
+	stewardship=10
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="ambitious"
+	add_trait="diligent"
+	add_trait="proud"
+	add_trait="just"
+	add_trait="brave"
+	add_trait="temperate"
+	add_trait="patient"
+	add_trait="brilliant_strategist"
+	add_trait="trickster"
+	add_trait="inspiring_leader"
+	father=18
+    mother=19
+	3966.4.19 = {
+		birth="3966.4.19"
+	}
+	3983.1.1 = {
+		add_spouse=2
+	}
+	4000.1.1 = {
+		give_nickname=nick_the_great
+	}
+	4000.1.1 = {
+		add_claim=e_arathi_empire
+	}
+	4001.1.1 = {
+		wealth=1600
+		}
+	4080.1.1 = {
+		death = "4080.1.1"
+		death_reason = death_illness
+		}
+	}	
+3 = {
+    name="Joradin"  #Duke of Faldir
+	dynasty=189     #Lothar
+    martial=7
+    diplomacy=12
+    intrigue=7
+    stewardship=14
+    learning=8
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="lisp"
+    add_trait="gardener"
+    add_trait="diligent"
+	add_trait="quick"
+	add_trait="kind"
+	add_trait="gregarious"
+    add_trait="fortune_builder"
+    father=1
+    mother=2
+    3983.9.18={
+         birth="3983.9.18"
+    }
+	3999.4.1 = {
+		add_spouse=70
+	}
+    4001.1.1 = {
+		wealth=340
+		}
+}
+4 = {
+    name="Thorvald" #Duke of Esoradin
+	dynasty=189     #Lothar
+    martial=14
+    diplomacy=6
+    intrigue=5
+    stewardship=10
+    learning=8
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="fair"
+    add_trait="greedy"
+    add_trait="temperate"
+    add_trait="slothful"
+	add_trait="cruel"
+	add_trait="brilliant_strategist"
+    father=1
+    mother=2
+    3984.8.19={
+         birth="3984.8.19"
+    }
+	4001.1.1 = {
+		wealth=340
+	}
+}
+7 = {
+    name="Fahrad"  #Lord of Equindare
+	dynasty=190     #Estrand
+    martial=11
+    diplomacy=4
+    intrigue=4
+    stewardship=6
+    learning=7
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="duelist"
+    add_trait="diligent"
+    add_trait="charitable"
+    add_trait="greedy"
+	add_trait="tough_soldier"
+    father=14
+    mother=15
+    3981.5.10={
+         birth="3981.5.10"
+    }
+    3999.10.21 = {
+		add_spouse=8
+	}
+	4001.1.1 = {
+		wealth=210
+		employer = 1
+		give_job_title = job_chaplin
+	}
+}
+8 = {
+    name="Hildria"
+    female=yes
+	dynasty=339     #Nevlin
+    martial=3
+    diplomacy=6
+    intrigue=4
+    stewardship=4
+    learning=5
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="poet"
+    add_trait="lustful"
+    add_trait="charitable"
+	add_trait="amateurish_plotter"
+    father=10
+    mother=11
+    3982.1.10={
+         birth="3982.1.10"
+    }
+}
+9 = {
+    name="Fahrad"
+	dynasty=190     #Estrand
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    father=7
+    mother=8
+    4000.8.1={
+         birth="4000.8.1"
+    }
+}
+10 = {
+    name="Tundred" #Lord of Ridingplains
+	dynasty=339     #Nevlin
+    martial=7
+    diplomacy=4
+    intrigue=8
+    stewardship=5
+    learning=3
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="gardener"
+    add_trait="lustful"
+    add_trait="shy"
+	add_trait="kind"
+	add_trait="underhanded_rogue"
+    3960.12.3={
+         birth="3960.12.3"
+    }
+    3980.10.4 = {
+		add_spouse=11
+		}
+    4000.1.1 = {
+		employer=7
+}
+}
+11 = {
+    name="Dendri"
+    female=yes
+	dynasty=381    #Nord
+    martial=2
+    diplomacy=6
+    intrigue=5
+    stewardship=4
+    learning=5
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="clubfooted"
+    add_trait="kind"
+    add_trait="gregarious"
+	add_trait="naive_appeaser"
+    3962.3.30={
+         birth="3962.3.30"
+    }
+}
+12 = {
+    name="Tundren"
+	dynasty=339   #Nevlin
+    martial=5
+    diplomacy=2
+    intrigue=3
+    stewardship=4
+    learning=2
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="brave"
+	add_trait="harelip"
+    father=10
+    mother=11
+    3988.9.14={
+         birth="3988.9.14"
+    }
+}
+13 = {
+    name="Byreld"
+	dynasty=339   #Nevlin
+    martial=1
+    diplomacy=2
+    intrigue=2
+    stewardship=3
+    learning=1
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="humble"
+	add_trait="temperate"
+    father=10
+    mother=11
+    3990.3.3={
+         birth="3990.3.3"
+    }
+}
+14 = {
+    name="Forrald"	#Duke of Ridinglands
+	dynasty=190    #Estrand
+    martial=10
+    diplomacy=5
+    intrigue=5
+    stewardship=2
+    learning=2
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="gregarious"
+    add_trait="brave"
+	add_trait="kind"
+	add_trait="charitable"
+	add_trait="misguided_warrior"
+    3953.5.13={
+         birth="3953.5.13"
+    }
+    3970.3.8={
+        add_spouse=15
+    }
+    3998.11.3 = {
+		death="3998.11.3"
+}
+}
+17 = {
+    name="Myriolda" #FREE DAUGHTER
+    female=yes
+	dynasty=190   #Estrand
+	martial=1
+    diplomacy=9
+    intrigue=5
+    stewardship=7
+    learning=2
+    religion="church_of_the_holy_light"
+    culture="stromic"
+	add_trait="twin"
+	add_trait="humble"
+	add_trait="greedy"
+	add_trait="thrifty_clerk"
+	father=14
+    mother=15
+    3972.8.13={
+         birth="3972.8.13"
+    }
+}
+18= {
+	name="Thorvyll"    #Ruled the Kingdom of Arathor the Duchy of Arathor and Great and Low Arathor and stromicfold
+	# AKA: Thorvyll 'the Cruel'
+	dynasty=189     #Lothar
+	martial=14
+	diplomacy=1
+	intrigue=5
+	stewardship=2
+	learning=1
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="ambitious"
+	add_trait="just"
+	add_trait="chaste"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="misguided_warrior"
+	add_trait="experimenter"
+	3916.10.12 = {
+		birth="3916.10.12"
+	}
+	3934.7.21 = {
+		add_spouse=19
+	}
+	3975.1.1 = {
+		give_nickname=nick_the_cruel
+	}
+	3989.11.6 = {
+		death="3989.11.6"
+	}
+}
+26= {
+	name="Tyralion" #death Once Ruled Northfold
+	dynasty=199     #Wrynn 
+	martial=12
+	diplomacy=11
+	intrigue=4
+	stewardship=4
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="diligent"
+	add_trait="patient"
+	add_trait="hunter"
+	add_trait="wroth"
+	add_trait="grey_eminence"
+	add_trait="brave"
+	father=20
+	3910.7.14 = {
+		birth="3910.7.14"
+		}
+	3971.2.8 = {
+		death="3971.2.8"
+		}
+	}
+27= {
+	name="Tyralion"  #Duke of Northfold
+	dynasty=199     #Wrynn
+	martial=9
+	diplomacy=9
+	intrigue=7
+	stewardship=11
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="diligent"
+	add_trait="rough_terrain_leader"
+	add_trait="duelist"
+	add_trait="shy"
+	add_trait="brilliant_strategist"
+	add_trait="brave"
+	father=26
+	3945.12.19 = {
+		birth="3945.12.19"
+		}
+	3966.4.1 = {
+		add_spouse=29
+		}
+	3971.2.8 = {
+		add_claim=c_thalstads_hold
+		}
+	4001.1.1 = {
+		wealth=460
+	}
+}
+28= {
+	name="Elarth"  #Lord of Thedge
+	dynasty=199     #Wrynn
+	martial=9
+	diplomacy=5
+	intrigue=8
+	stewardship=12
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="humble"
+	add_trait="gregarious"
+	add_trait="cynical"
+	add_trait="intricate_webweaver"
+	add_trait="deceitful"
+	father=26
+	3950.8.6 = {
+		birth="3950.8.6"
+	}
+	3970.6.23 = {
+		add_spouse=32
+	}
+	3971.2.8 = {
+		add_claim=d_thalstads_hold
+		add_claim=c_hence
+		}
+	4001.1.1 = {
+		wealth=220
+	}
+}
+29= {
+	name="Dacia"
+	female=yes
+	dynasty=193     #Trollbane
+	martial=5
+	diplomacy=5
+	intrigue=14
+	stewardship=8
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="legit_bastard"
+	add_trait="genius"
+	add_trait="mystic"
+	add_trait="shy"
+	add_trait="patient"
+	add_trait="intricate_webweaver"
+	add_trait="deceitful"
+	father=30
+	mother=31
+	3949.11.1 = {
+		birth="3949.11.1"
+		}
+	}
+30= {
+	name="Bronald"
+	dynasty=193     #Trollbane
+	martial=15
+	diplomacy=3
+	intrigue=4
+	stewardship=4
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="quick"
+	add_trait="hunter"
+	add_trait="legit_bastard"
+	add_trait="wroth"
+	add_trait="skilled_tactician"
+	add_trait="deceitful"
+	father=22
+	3919.3.15 = {
+		birth="3919.3.15"
+		}
+	3962.2.3 = {
+		add_spouse=31
+		}
+	3971.6.18 = {
+		death="3971.6.18"
+		}
+	}
+31= {
+	name="Nimea"
+	female=yes
+	martial=2
+	diplomacy=10
+	intrigue=2
+	stewardship=6
+	learning=1
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="content"
+	add_trait="honest"
+	add_trait="proud"
+	add_trait="thrifty_clerk"
+	3933.8.21 = {
+		birth="3933.8.21"
+		}
+	3971.6.18 = {
+		death="3971.6.18"
+		}
+	}
+32= {
+	name="Byjara"
+	female=yes
+	dynasty=314     #Hemdall
+	martial=3
+	diplomacy=7
+	intrigue=10
+	stewardship=3
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="humble"
+	add_trait="mystic"
+	add_trait="gregarious"
+	add_trait="gluttonous"
+	add_trait="flamboyant_schemer"
+
+	3952.12.3 = {
+		birth="3952.12.3"
+		}
+	3970.1.1 = {
+		add_claim=c_thedge
+	}
+	}
+33= {
+	name="Tyralius"
+	dynasty=199     #Wrynn
+	martial=12
+	diplomacy=5
+	intrigue=5
+	stewardship=6
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="diligent"
+	add_trait="just"
+	add_trait="wroth"
+	add_trait="gregarious"
+	add_trait="skilled_tactician"
+	add_trait="brave"
+	father=27
+	mother=29
+	3967.8.25 = {
+		birth="3967.8.25"
+		}
+	3988.11.8 = {
+		add_spouse=37
+		}
+	4001.1.1 = {
+		wealth=25
+	}
+	}
+34= {
+	name="Kahlrad"
+	dynasty=199     #Wrynn
+	martial=7
+	diplomacy=11
+	intrigue=6
+	stewardship=7
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="scholar"
+	add_trait="diligent"
+	add_trait="humble"
+	add_trait="arbitrary"
+	add_trait="charismatic_negotiator"
+	add_trait="stressed"
+	father=27
+	mother=29
+	3972.10.14 = {
+		birth="3972.10.14"
+		}
+	3988.11.8 = {
+		add_spouse=42
+		}
+	4001.1.1 = {
+		wealth=12
+	}
+	}
+35= {
+	name="Kanton"
+	dynasty=199     #Wrynn
+	martial=11
+	diplomacy=10
+	intrigue=8
+	stewardship=4
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="poet"
+	add_trait="kind"
+	add_trait="humble"
+	add_trait="content"
+	add_trait="scholarly_theologian"
+	father=27
+	mother=29
+	3975.2.15 = {
+		birth="3975.2.15"
+		}
+	3992.1.2 = {
+		add_spouse=16
+	}
+	}
+36= {
+	name="Thorvyll"
+	dynasty=199     #Wrynn
+	martial=15
+	diplomacy=7
+	intrigue=3
+	stewardship=6
+	learning=6
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="duelist"
+	add_trait="charitable"
+	add_trait="gluttonous"
+	add_trait="cruel"
+	add_trait="ambitious"
+	add_trait="brilliant_strategist"
+	father=27
+	mother=29
+	3983.6.6 = {
+		birth="3983.6.6"
+		}
+	}
+37= {
+	name="Myredi"
+	female=yes
+	dynasty=201     #Thesslocke
+	martial=8
+	diplomacy=11
+	intrigue=15
+	stewardship=9
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="scholar"
+	add_trait="greedy"
+	add_trait="stutter"
+	add_trait="kind"
+	add_trait="trusting"
+	add_trait="elusive_shadow"
+	father=38
+	3971.11.6 = {
+		birth="3971.11.6"
+		}
+	3990.9.22 = {
+		add_claim=c_equindare
+		add_claim=c_ridingplains
+	}
+	}
+38= {
+	name="Owayn"    #Ruled Horsedare and Ridingplains
+	dynasty=201     #Thesslocke    
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=6
+	learning=16
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="genius"
+	add_trait="ugly"
+	add_trait="hedonist"
+	add_trait="gluttonous"
+	add_trait="trusting"
+	add_trait="mastermind_theologian"
+	3951.1.8 = {
+		birth="3951.1.8"
+		}
+	3990.9.22 = {
+		death="3990.9.22"
+		}
+	}
+39= {
+	name="Evand"
+	dynasty=201     #Thesslocke
+	martial=4
+	diplomacy=14
+	intrigue=6
+	stewardship=12
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="gardener"
+	add_trait="temperate"
+	add_trait="fair"
+	add_trait="homosexual"
+	add_trait="shy"
+	add_trait="fortune_builder"
+	father=38
+	3971.11.6 = {
+		birth="3971.11.6"
+		}
+	3990.9.22 = {
+		add_claim=c_ridingplains
+	}
+	3992.5.10 = {
+		add_spouse=48
+		}
+	4001.1.1 = {
+		wealth=42
+	}
+	}	
+40= {
+	name="Tyralion"
+	dynasty=199     #Wrynn
+	martial=4
+	diplomacy=2
+	intrigue=3
+	stewardship=3
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="kind"
+	add_trait="craven"
+	father=33
+	mother=37
+	3991.6.19 = {
+		birth="3991.6.19"
+		}
+		}
+41= {
+	name="Tyrallor"
+	dynasty=199     #Wrynn
+	martial=2
+	diplomacy=1
+	intrigue=1
+	stewardship=2
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="deceitful"
+	father=33
+	mother=37
+	3996.8.1 = {
+		birth="3996.8.1"
+		}
+	}
+43= {
+	name="Mirallia"    #FREE DAUGHTER
+	female=yes
+	dynasty=199     #Wrynn
+	martial=13
+	diplomacy=4
+	intrigue=7
+	stewardship=7
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="humble"
+	add_trait="gregarious"
+	add_trait="falconer"
+	add_trait="cynical"
+	add_trait="skilled_tactician"
+	father=28
+	mother=32
+	3975.3.12 = {
+		birth="3975.3.12"
+		}
+	}
+44= {
+	name="Elforth"
+	dynasty=199     #Wrynn
+	martial=9
+	diplomacy=14
+	intrigue=6
+	stewardship=5
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="charitable"
+	add_trait="humble"
+	add_trait="temperate"
+	add_trait="gardener"
+	add_trait="gregarious"
+	add_trait="grey_eminence"
+	father=28
+	mother=32
+	3977.1.30 = {
+		birth="3977.1.30"
+	}
+	}
+45= {
+	name="Varia"
+	female=yes
+	dynasty=199     #Wrynn
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=5
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="fair"
+	add_trait="humble"
+	add_trait="shy"
+	add_trait="brave"
+	father=34
+	mother=42
+	3992.9.4 = {
+		birth="3992.9.4"
+	}
+	}
+46= {
+	name="Owayn"
+	dynasty=199     #Wrynn
+	martial=3
+	diplomacy=1
+	intrigue=3
+	stewardship=4
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="clubfooted"
+	add_trait="wroth"
+	add_trait="cynical"
+	father=35
+	mother=16
+	3994.3.10 = {
+		birth="3994.3.10"
+	}
+	}
+47= {
+	name="Kayrdia"
+	female=yes
+	dynasty=199     #Wrynn
+	martial=1
+	diplomacy=1
+	intrigue=1
+	stewardship=1
+	learning=1
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="weak"
+	father=35
+	mother=16
+	3999.8.4 = {
+		birth="3999.8.4"
+	}
+	}
+54= {
+	name="Agan" 
+	dynasty=204    #Vallis
+	martial=15
+	diplomacy=8
+	intrigue=11
+	stewardship=8
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="skilled_tactician"
+	add_trait="cruel"
+	add_trait="wroth"
+	add_trait="envious"
+	add_trait="harelip"
+	add_trait="scarred"
+	father=51
+	mother=52
+	3971.8.8 = {
+		birth="3971.8.8"
+	}
+	}
+58= {
+	name="Arthorian"
+	dynasty=204    #Vallis
+	martial=7
+	diplomacy=4
+	intrigue=6
+	stewardship=4
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="charitable"
+	add_trait="envious"
+	add_trait="wroth"
+	add_trait="cynical"
+	father=51
+	mother=52
+	3986.11.2 = {
+		birth="3986.11.2"
+	}
+	}
+76= {
+	name="Ignaeus" #Duke of Southfold
+	dynasty=193     #Trollbane
+	martial=17
+	diplomacy=10
+	intrigue=5
+	stewardship=6
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="hunter"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="brilliant_strategist"
+	add_trait="cynical"
+	add_trait="patient"
+	add_trait="just"
+	add_trait="scarred"
+	add_trait="flanker"
+	add_trait="experimenter"
+	father=30
+	mother=31
+	3962.12.1 = {
+		birth="3962.12.1"
+		}
+	3981.4.13 = {
+		add_spouse=77
+		}
+	4001.1.1 = {
+		wealth=780
+		}
+	}
+78= {
+	name="Trelane"
+	dynasty=193     #Trollbane
+	martial=11
+	diplomacy=14
+	intrigue=12
+	stewardship=5
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="falconer"
+	add_trait="deceitful"
+	add_trait="elusive_shadow"
+	add_trait="cynical"
+	add_trait="patient"
+	add_trait="proud"
+	add_trait="just"
+	father=76
+	mother=77
+	3982.10.11 = {
+		birth="3982.10.11"
+		}
+	4001.1.1 = {
+		wealth=230
+		}
+	}
+79= {
+	name="Ignaeus"
+	dynasty=193     #Trollbane
+	martial=6
+	diplomacy=10
+	intrigue=7
+	stewardship=11
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="quick"
+	add_trait="humble"
+	add_trait="lisp"
+	add_trait="charismatic_negotiator"
+	add_trait="wroth"
+	add_trait="honest"
+	father=76
+	mother=77
+	3983.8.2 = {
+		birth="3983.8.2"
+		}
+		}
+80= {
+	name="Thoradin"
+	dynasty=193     #Trollbane
+	martial=2
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="envious"
+	add_trait="brave"
+	add_trait="strong"
+	add_trait="cynical"
+	father=76
+	mother=77
+	3987.12.20 = {
+		birth="3987.12.20"
+		}
+		}
+81= {
+	name="Varold"
+	dynasty=193     #Trollbane
+	martial=2
+	diplomacy=3
+	intrigue=4
+	stewardship=3
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="quick"
+	add_trait="humble"
+	add_trait="gluttonous"
+	add_trait="cruel"
+	father=76
+	mother=77
+	3990.3.12 = {
+		birth="3990.3.12"
+		}
+		}
+82= {
+	name="Hilda"
+	female=yes
+	dynasty=193     #Trollbane
+	martial=2
+	diplomacy=3
+	intrigue=1
+	stewardship=3
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="cynical"
+	add_trait="patient"
+	father=76
+	mother=77
+	3995.5.1 = {
+		birth="3995.5.1"
+		}
+		}
+83= {
+	name="Ermenia"
+	female=yes
+	dynasty=193     #Trollbane
+	martial=2
+	diplomacy=3
+	intrigue=1
+	stewardship=3
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="charitable"
+	father=76
+	mother=77
+	3997.9.3 = {
+		birth="3997.9.3"
+		}
+	}
+174 = {
+    name="Senturus" #Archbishop of the church_of_the_holy_light of Light
+    martial=4
+    diplomacy=7
+    intrigue=4
+    stewardship=6
+    learning=17
+    religion="church_of_the_holy_light"
+    culture="stromic"
+    add_trait="patient"
+    add_trait="poet"
+    add_trait="cynical"
+	add_trait="kind"
+	add_trait="mastermind_theologian"
+    3968.6.3={
+         birth="3968.6.3"
+    }
+	4001.1.1 = {
+		wealth=310
+	}
+}
+205= {
+	name="Gwythia"
+	female=yes
+	dynasty=199     #Wrynn
+	martial=1
+	diplomacy=2
+	intrigue=0
+	stewardship=2
+	learning=1
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="fair"
+	father=34
+	mother=42
+	3998.11.20 = {
+		birth="3998.11.20"
+	}
+}
+295= {
+	name="Liam"
+	dynasty=193     #Trollbane
+	martial=18
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	learning=14
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="genius"
+	add_trait="strong"
+	add_trait="quick"
+	add_trait="patient"
+	5660.11.1 = {
+		birth="5660.11.1"
+		}
+	}	
+296= {
+	name="Liam"
+	dynasty=6065     #Trollbane
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=7
+	learning=14
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="wroth"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="patient"
+	5660.11.1 = {
+		birth="5660.11.1"
+		}
+	}
+259= {
+	name="Thalstad"
+	dynasty=6068     #Duke of Thalstad's Hold and County of Thalstad's Hold Owner
+	martial=15
+	diplomacy=3
+	intrigue=3
+	stewardship=4
+	learning=2
+	dna="ahabhcceacn"
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="drunkard"
+	add_trait="brave"
+	add_trait="brilliant_strategist"
+	add_trait="hunter"
+	add_trait="just"	
+	add_trait="proud"
+	3949.3.13 = {
+		birth="3949.3.13"
+		}
+	4025.7.10 = {
+		death="4025.7.10"
+		}	
+	}	
+260= {
+	name="Jon"
+	dynasty=653     #County of Ridingplains Ruler
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="patient"
+	add_trait="gregarious"	
+	3970.10.13 = {
+		birth="3970.10.13"
+		}
+	}	
+261= {
+	name="James"
+	dynasty=384     #County of Hence Ruler
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="patient"
+	add_trait="gregarious"	
+	3985.12.3 = {
+		birth="3985.12.3"
+		}
+	}
+262= {
+	name="Thorvald"
+	dynasty=383     #County of Equindare Ruler
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="temperate"
+	add_trait="proud"
+	add_trait="zealous"
+	add_trait="patient"
+	add_trait="gregarious"	
+	3975.11.1 = {
+		birth="3975.11.1"
+		}
+	}
+263= {
+	name="Tyralius"
+	dynasty=382     #County of Thedge Ruler and Duchy of Northfold Ruler
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="shy"
+	add_trait="weak"
+	add_trait="wroth"
+	add_trait="patient"
+	add_trait="envious"	
+	3983.11.10 = {
+		birth="3983.11.10"
+		}
+	}
+264= {
+	name="Evador"
+	dynasty=379     #County of Hinterroads
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	
+	3983.11.10 = {
+		birth="3983.11.10"
+		}
+	}
+265= {
+	name="Everan"
+	dynasty=380     #County of Manorsfield
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3983.11.10 = {
+		birth="3983.11.10"
+		}
+	}
+266= {
+	name="Manciel"
+	dynasty=381     #County of Stocksfield
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="gregarious"
+	add_trait="wroth"
+	add_trait="patient"
+	add_trait="diligent"	
+	3983.11.10 = {
+		birth="3983.11.10"
+		}
+	}	
+267= {
+	name="Binor"
+	dynasty=378     #County of Twicepatch
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3973.9.10 = {
+		birth="3973.9.10"
+		}
+	}
+268= {
+	name="Damian"
+	dynasty=377     #County of Arathi Basin - Duke of Arathor
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3973.9.10 = {
+		birth="3973.9.10"
+		}
+	}
+269= {
+	name="John"
+	dynasty=376     #County of Thorvan
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3973.9.10 = {
+		birth="3973.9.10"
+		}
+	}
+273= {
+	name="Ralph"
+	dynasty=375     #County of Great Arathor
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3973.9.10 = {
+		birth="3973.9.10"
+		}
+	}
+274= {
+	name="Rolf"
+	dynasty=374     #County of Low Arathor
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3973.9.10 = {
+		birth="3973.9.10"
+		}
+	}	
+275= {
+	name="Xavier"
+	dynasty=373     #County of Pledgestone
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+276= {
+	name="Joradin"
+	dynasty=372     #County of Arathifold
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+277= {
+	name="Elforth"
+	dynasty=371     #County of Tarni Shrock
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+278= {
+	name="Gabriel"
+	dynasty=370     #County of Thordir
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}		
+279= {
+	name="Aidros"
+	dynasty=369     #County of Whitestone
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+280= {
+	name="Liam"
+	dynasty=368     #County of Amaren Rise
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+281= {
+	name="Danoth"
+	dynasty=367     #County of Endarth Vice
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+282= {
+	name="Thoras"
+	dynasty=366     #County of Faldir Cove and Duchy of Faldir
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+283= {
+	name="Tobias"
+	dynasty=365     #County of Esoradin and Duchy of Esoradin
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+284= {
+	name="Jen"
+	dynasty=364     #County of Ganthor
+	female= yes
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+285= {
+	name="Liam"
+	dynasty=363     #County of Westwall
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+286= {
+	name="Thorador"
+	dynasty=362     #County of Arusthilde
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}	
+287= {
+	name="Thrandal"
+	dynasty=361     #County of Fallowhand
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+288= {
+	name="Dunkin"
+	dynasty=363     #County of Westwall
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+289= {
+	name="Genn"
+	dynasty=363     #County of Westwall
+	martial=7
+	diplomacy=5
+	intrigue=3
+	stewardship=4
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="stromic"	
+	3975.9.10 = {
+		birth="3975.9.10"
+		}
+	}
+297= {
+	name="Thalstad"
+	dynasty=6068     #Son of Thalstad
+	martial=8
+	diplomacy=5
+	intrigue=1
+	stewardship=3
+	learning=4
+	father=259
+	dna="ahabhcceacn"
+	religion="church_of_the_holy_light"
+	culture="stromic"
+	add_trait="strong"
+	add_trait="quick"
+	add_trait="proud"	
+	add_trait="brave"
+	add_trait="misguided_warrior"
+	add_trait="zealous"
+	add_trait="diligent"	
+	3981.5.5 = {
+		birth="3981.5.5"
+		}
+	}		
+	
+	
+	
+	
+	
+	
+
+	
+	
+	

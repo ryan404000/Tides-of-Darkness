@@ -1,0 +1,15 @@
+# 223 - Calvor
+
+# County Title
+title = c_calvor
+
+# Settlements
+max_settlements = 4
+b_calvor = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

@@ -1,0 +1,14 @@
+# 206 - Crownguard
+
+# County Title
+title = c_crownguard
+
+# Settlements
+max_settlements = 4
+b_crownguard = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

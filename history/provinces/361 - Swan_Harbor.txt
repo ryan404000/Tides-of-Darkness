@@ -1,0 +1,14 @@
+# 361 - Swan Harbor
+
+# County Title
+title = c_swan_harbor
+
+# Settlements
+max_settlements = 5
+b_swan_harbor = city
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

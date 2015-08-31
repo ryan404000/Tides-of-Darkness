@@ -1,0 +1,14 @@
+# 330 - Southtide's Run
+
+# County Title
+title = c_southtides_run
+
+# Settlements
+max_settlements = 4
+b_southtides_run = castle
+
+# Misc
+culture = gilnean
+religion = old_ways 
+
+# History

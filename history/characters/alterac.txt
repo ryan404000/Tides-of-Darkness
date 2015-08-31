@@ -1,0 +1,1384 @@
+2 = {
+    name="Myra"
+    female=yes
+    dynasty=203  #Perenolde
+    martial=9
+    diplomacy=5
+    intrigue=12
+    stewardship=7
+    learning=8
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+    add_trait="proud"
+    add_trait="brave"
+    add_trait="diligent"
+	add_trait="quick"
+    add_trait="intricate_webweaver"
+    father=6
+    mother=5
+    3966.8.4={
+         birth="3966.8.4"
+    }
+	4075.10.4={
+         death="4075.10.4"
+    }
+}
+5 = {
+    name="Isolde"
+    female=yes
+	dynasty=207 #Peren
+    martial=6
+    diplomacy=6
+    intrigue=8
+    stewardship=5
+    learning=5
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+    add_trait="fair"
+    add_trait="envious"
+    add_trait="greedy"
+	add_trait="strong"
+	add_trait="flamboyant_schemer"
+	father=59
+    3941.12.24={
+         birth="3941.12.24"
+    }
+	3999.10.4={
+         death="3999.10.4"
+    }
+}
+6 = {
+    name="Merthord"
+	dynasty=203     #Perenolde
+    martial=5
+    diplomacy=10
+    intrigue=8
+    stewardship=12
+    learning=2
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+	father=97
+    add_trait="falconer"
+    add_trait="wroth"
+    add_trait="patient"
+    add_trait="greedy"
+	add_trait="scarred"
+	add_trait="midas_touched"
+    3940.5.10={
+         birth="3940.5.10"
+    }
+    3958.1.1 = {
+		add_spouse=5
+	}
+	4001.1.1 = {
+		wealth=700
+	}
+	4010.5.9={
+         death="4010.5.9"
+    }
+}
+19= {
+	name="Marisse"
+	female=yes
+	dynasty=199     #Wrynn
+	martial=4
+	diplomacy=6
+	intrigue=9
+	stewardship=7
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="just"
+	add_trait="chaste"
+	add_trait="proud"
+	add_trait="patient"
+	add_trait="flamboyant_schemer"
+	father=20
+	3915.3.20 = {
+		birth="3915.3.20"
+	}
+	3979.12.2 = {
+		death="3979.12.2"
+	}
+}
+20= {
+	name="Tyralius" #Ruled Northfold death
+	dynasty=199     #Wrynn
+	martial=16
+	diplomacy=7
+	intrigue=2
+	stewardship=3
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="maimed"
+	add_trait="quick"
+	add_trait="strong"
+	add_trait="wroth"
+	add_trait="hunter"
+	add_trait="proud"
+	add_trait="patient"
+	add_trait="brilliant_strategist"
+	add_trait="cavalry_leader"
+	add_trait="mountain_terrain_leader"
+	add_trait="scarred"
+	father=21
+	3892.9.12 = {
+		birth="3892.9.12"
+	}
+	3910.1.1 = {
+		give_nickname=nick_half_hand
+	}
+	3941.11.18 = {
+		death="3941.11.18"
+	}
+}
+21= {
+	name="Landron"  #Ruled Northfold death
+	dynasty=199     #Wrynn
+	martial=12
+	diplomacy=3
+	intrigue=10
+	stewardship=3
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="ugly"
+	add_trait="strong"
+	add_trait="wroth"
+	add_trait="impaler"
+	add_trait="arbitrary"
+	add_trait="tough_soldier"
+	add_trait="heavy_infantry_leader"
+	add_trait="mountain_terrain_leader"
+	add_trait="scarred"
+	3865.5.14 = {
+		birth="3865.5.14"
+	}
+	3885.1.1 = {
+		give_nickname=nick_the_fearless
+		}
+	3910.1.9 = {
+		death="3910.1.9"
+	}
+}
+22= {
+	name="Halford"  #death
+	dynasty=199     #Wrynn
+	martial=8
+	diplomacy=9
+	intrigue=3
+	stewardship=7
+	learning=9
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="stressed"
+	add_trait="greedy"
+	add_trait="temperate"
+	add_trait="poet"
+	add_trait="just"
+	add_trait="midas_touched"
+	add_trait="craven"
+	father=21
+	3894.5.14 = {
+		birth="3894.5.14"
+	}
+	3959.1.12 = {
+		death="3959.1.12"
+	}
+}
+23= {
+	name="Aiden"    #death
+	dynasty=199     #Wrynn
+	martial=4
+	diplomacy=11
+	intrigue=9
+	stewardship=6
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="weak"
+	add_trait="temperate"
+	add_trait="chaste"
+	add_trait="just"
+	add_trait="zealous"
+	add_trait="scholarly_theologian"
+	add_trait="stressed"
+	father=22
+	3925.4.23 = {
+		birth="3925.4.23"
+	}
+	3988.10.26 = {
+		death="3988.10.26"
+	}
+}
+24= {
+	name="Halford" #Duke of Eastdurn and Lord of Durnholde and Nethander.
+	dynasty=199     #Wrynn
+	martial=4
+	diplomacy=11
+	intrigue=9
+	stewardship=6
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="patient"
+	add_trait="temperate"
+	add_trait="gregarious"
+	add_trait="mystic"
+	add_trait="mountain_terrain_leader"
+	add_trait="charismatic_negotiator"
+	add_trait="ambitious"
+	father=23
+	3963.2.5 = {
+		birth="3963.2.5"
+	}
+	3988.10.26 = {
+		add_claim=d_eastdurn
+		add_claim=c_durnholde
+		}
+}
+25= {
+	name="Varold" 
+	dynasty=199     #Wrynn
+	martial=8
+	diplomacy=1
+	intrigue=3
+	stewardship=8
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="strong"
+	add_trait="greedy"
+	add_trait="slothful"
+	add_trait="cynical"
+	add_trait="zealous"
+	add_trait="tough_soldier"
+	add_trait="cruel"
+	father=23
+	3972.4.23 = {
+		birth="3972.4.23"
+	}
+	3988.10.26 = {
+		add_claim=d_corrahn
+		add_claim=c_corrahns_dagger
+		add_claim=d_eastdurn
+		add_claim=c_nethander
+		add_claim=c_durnholde
+		}
+	}
+42= {
+	name="Rhoda"
+	female=yes
+	dynasty=203     #Perenolde
+	martial=3
+	diplomacy=10
+	intrigue=7
+	stewardship=7
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="poet"
+	add_trait="greedy"
+	add_trait="gluttonous"
+	add_trait="humble"
+	add_trait="arbitrary"
+	add_trait="flamboyant_schemer"
+	father=6
+	mother=5
+	3970.5.14 = {
+		birth="3970.5.14"
+		}
+	}
+48= {
+	name="Ethwynn"
+	female=yes
+	dynasty=207    #Peren
+	martial=5
+	diplomacy=8
+	intrigue=3
+	stewardship=6
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="martial_cleric"
+	add_trait="poet"
+	add_trait="lustful"
+	add_trait="cynical"
+	add_trait="charitable"
+	father=49
+	mother=50
+	3973.10.8 = {
+		birth="3973.10.8"
+	}
+	}
+49= {
+	name="Holdor"
+	dynasty=207    #Peren
+	martial=6
+	diplomacy=7
+	intrigue=8
+	stewardship=17
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="midas_touched"
+	add_trait="impaler"
+	add_trait="temperate"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="greedy"
+	add_trait="paranoid"
+	add_trait="mountain_terrain_leader"
+	father=59
+	3943.3.22 = {
+		birth="3943.3.22"
+	}
+	3968.1.1 = {
+		add_spouse=50
+	}
+	3985.2.5 = {
+		give_nickname=nick_the_cruel
+	}
+	3985.2.5 = {
+		add_claim=d_chillwind
+		add_claim=c_chillwind_basin
+		add_claim=c_chillwind_point
+	}
+	4001.1.1 = {
+		wealth=840
+		}
+	}
+50= {
+	name="Alasce"
+	female=yes
+	dynasty=204    #Vallis
+	martial=10
+	diplomacy=7
+	intrigue=5
+	stewardship=2
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="charismatic_negotiator"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="charitable"
+	add_trait="stressed"
+	father=53
+	3946.3.2 = {
+		birth="3946.3.2"
+	}
+	3970.5.12 = {
+		add_claim=c_vallis
+	}
+}
+51= {
+	name="Montegue"  #Currently Rules the Borough of Vallis
+	dynasty=204    #Vallis
+	martial=8
+	diplomacy=6
+	intrigue=2
+	stewardship=12
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="tough_soldier"
+	add_trait="falconer"
+	add_trait="gluttonous"
+	add_trait="brave"
+	add_trait="zealous"
+	add_trait="stressed"
+	father=53
+	3950.4.17 = {
+		birth="3950.4.17"
+	}
+	3966.8.10 = {
+		add_spouse=52
+	}
+	4001.1.1 = {
+		wealth=210
+		}
+	}
+52= {
+	name="Peresphia"
+	female=yes
+	dynasty=255    #of Jurthir
+	martial=2
+	diplomacy=8
+	intrigue=10
+	stewardship=3
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="scholarly_theologian"
+	add_trait="falconer"
+	add_trait="gluttonous"
+	add_trait="brave"
+	add_trait="zealous"
+	add_trait="lunatic"
+	3948.12.2 = {
+		birth="3948.12.2"
+	}
+	3966.1.1 = {
+		add_claim=c_jurthir
+	}
+	4001.1.1 = {
+		wealth=23
+		}
+	}
+53= {
+	name="Montpellier"    # Ruled Vallis
+	dynasty=204    #Vallis
+	martial=12
+	diplomacy=12
+	intrigue=3
+	stewardship=3
+	learning=9
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="brilliant_strategist"
+	add_trait="kind"
+	add_trait="diligent"
+	add_trait="brave"
+	add_trait="cynical"
+	add_trait="ill"
+	3909.3.29 = {
+		birth="3909.3.29"
+	}
+	3970.5.12 = {
+		death="3970.5.12"
+		}
+	}
+55= {
+	name="Peresphia"     # FREE DAUGHTER
+	female=yes
+	dynasty=204    #Vallis
+	martial=4
+	diplomacy=4
+	intrigue=10
+	stewardship=12
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="fortune_builder"
+	add_trait="scholar"
+	add_trait="proud"
+	add_trait="greedy"
+	add_trait="diligent"
+	add_trait="arbitrary"
+	father=51
+	mother=52
+	3973.7.2 = {
+		birth="3973.7.2"
+	}
+	}
+56= {
+	name="Blythe"     # FREE DAUGHTER
+	female=yes
+	dynasty=204    #Vallis
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=5
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="detached_priest"
+	add_trait="scholar"
+	add_trait="humble"
+	add_trait="wroth"
+	add_trait="diligent"
+	add_trait="honest"
+	father=51
+	mother=52
+	3976.12.20 = {
+		birth="3976.12.20"
+	}
+	}
+57= {
+	name="Tirion"
+	dynasty=204    #Vallis
+	martial=4
+	diplomacy=9
+	intrigue=7
+	stewardship=10
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="tough_soldier"
+	add_trait="zealous"
+	add_trait="humble"
+	add_trait="kind"
+	add_trait="dwarf"
+	father=51
+	mother=52
+	3980.2.3 = {
+		birth="3980.2.3"
+	}
+	}
+59= {
+	name="Ballador"   # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=7
+	diplomacy=8
+	intrigue=10
+	stewardship=5
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="skilled_tactician"
+	add_trait="kind"
+	add_trait="gluttonous"
+	add_trait="gardener"
+	add_trait="just"
+	add_trait="zealous"	
+	add_trait="maimed"	
+	father=60
+	3921.6.2 = {
+		birth="3921.6.2"
+	}
+	3965.4.19 = {
+		death="3965.4.19"
+	}
+	}
+60= {
+	name="Thadean"    # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=12
+	diplomacy=4
+	intrigue=4
+	stewardship=9
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="midas_touched"
+	add_trait="proud"
+	add_trait="diligent"
+	add_trait="greedy"
+	add_trait="fair"
+	add_trait="drunkard"	
+	add_trait="possessed"	
+	father=61
+	3889.12.30 = {
+		birth="3889.12.30"
+	}
+	3952.10.1 = {
+		death="3952.10.1"
+	}	
+	}
+61= {
+	name="Joracht"    # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=8
+	diplomacy=12
+	intrigue=1
+	stewardship=3
+	learning=12
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="underhanded_rogue"		
+	add_trait="scarred"
+	add_trait="charitable"
+	add_trait="kind"
+	add_trait="honest"
+	add_trait="arbitrary"	
+	add_trait="ill"	
+	father=62
+	3861.5.22 = {
+		birth="3861.5.22"
+	}
+	3932.1.4 = {
+		death="3932.1.4"
+	}
+	}
+62= {
+	name="Jaros"    # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=7
+	diplomacy=7
+	intrigue=12
+	stewardship=5
+	learning=9
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="elusive_shadow"	
+	add_trait="diligent"
+	add_trait="greedy"
+	add_trait="kind"
+	add_trait="honest"
+	add_trait="dwarf"	
+	add_trait="depressed"	
+	father=63
+	3842.2.16 = {
+		birth="3842.2.16"
+	}
+	3890.11.20 = {
+		death="3890.11.20"
+	}
+	}
+63= {
+	name="Vassor"    # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=13
+	diplomacy=5
+	intrigue=6
+	stewardship=11
+	learning=2
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="intricate_webweaver"	
+	add_trait="diligent"
+	add_trait="greedy"
+	add_trait="kind"
+	add_trait="just"
+	add_trait="cynical"
+	father=64
+	3815.9.6 = {
+		birth="3815.9.6"
+	}
+	3876.8.2 = {
+		death="3876.8.2"
+	}
+	}
+64= {
+	name="Thadean"    # Ruled Perens Vale and Borough of Strahnbrad
+	dynasty=207    #Peren
+	martial=6
+	diplomacy=8
+	intrigue=10
+	stewardship=16
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="grey_eminence"
+	add_trait="ambitious"
+	add_trait="charitable"
+	add_trait="kind"
+	add_trait="just"
+	add_trait="cynical"
+	3781.6.26 = {
+		birth="3781.6.26"
+	}
+	3839.12.25 = {
+		death="3839.12.25"
+	}
+	}
+65= {
+	name="Beltholda"     # HOLDOR's LOVER
+	female=yes
+	martial=5
+	diplomacy=11
+	intrigue=6
+	stewardship=7
+	learning=8
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="thrifty_clerk"
+	add_trait="lustful"
+	add_trait="charitable"
+	add_trait="diligent"
+	add_trait="just"
+	father=51
+	mother=52
+	3973.4.11 = {
+		birth="3973.4.11"
+	}
+	}
+67= {
+	name="Vassor"
+	dynasty=207    #Peren
+	martial=9
+	diplomacy=5
+	intrigue=9
+	stewardship=3
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="flamboyant_schemer"
+	add_trait="kind"
+	add_trait="greedy"
+	add_trait="chaste"
+	add_trait="just"
+	add_trait="content"	
+	father=60
+	3923.5.20 = {
+		birth="3923.5.20"
+	}
+	3969.11.24 = {
+		death="3969.11.24"
+	}
+	}
+68= {
+	name="Jordean"
+	dynasty=207    #Peren
+	martial=10
+	diplomacy=3
+	intrigue=7
+	stewardship=5
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="strong"
+	add_trait="proud"
+	add_trait="fortune_builder"
+	add_trait="greedy"
+	add_trait="fair"	
+	add_trait="wounded"	
+	father=61
+	3891.3.11 = {
+		birth="3891.3.11"
+	}
+	3950.3.12 = {
+		death="3950.3.12"
+	}
+	}
+69= {
+	name="Illucia"   # FREE DAUGHTER OLDER
+	female=yes
+	dynasty=207    #Peren
+	martial=4
+	diplomacy=13
+	intrigue=8
+	stewardship=6
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="mastermind_theologian"
+	add_trait="poet"
+	add_trait="humble"
+	add_trait="kind"
+	add_trait="diligent"
+	add_trait="honest"
+	add_trait="lisp"
+	father=67
+	3950.7.9 = {
+		birth="3950.7.9"
+	}
+	}
+70= {
+	name="Marianna"   # Wife of Joradin
+	female=yes
+	dynasty=207    #Peren
+	martial=3
+	diplomacy=6
+	intrigue=12
+	stewardship=6
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="fortune_builder"
+	add_trait="proud"
+	add_trait="kind"
+	add_trait="diligent"
+	add_trait="cynical"
+	add_trait="lustful"
+	father=49
+	mother=50
+	3970.3.9 = {
+		birth="3970.3.9"
+	}
+	}
+71= {
+	name="Gertrude"   # FREE DAUGHTER
+	female=yes
+	dynasty=207    #Peren
+	martial=8
+	diplomacy=11
+	intrigue=6
+	stewardship=5
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="grey_eminence"
+	add_trait="falconer"
+	add_trait="wroth"
+	add_trait="diligent"
+	add_trait="cruel"
+	add_trait="homosexual"
+	father=49
+	mother=50
+	3974.8.14 = {
+		birth="3974.8.14"
+	}
+	}
+72= {
+	name="Tessias"   # FREE DAUGHTER
+	female=yes
+	dynasty=207    #Peren
+	martial=5
+	diplomacy=2
+	intrigue=9
+	stewardship=7
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="intricate_webweaver"
+	add_trait="mystic"
+	add_trait="cynical"
+	add_trait="paranoid"
+	add_trait="slothful"
+	add_trait="humble"
+	father=49
+	mother=50
+	3975.12.1 = {
+		birth="3975.12.1"
+	}
+	}
+73= {
+	name="Remora"   # FREE DAUGHTER OLDER
+	female=yes
+	dynasty=207    #Peren
+	martial=3
+	diplomacy=7
+	intrigue=4
+	stewardship=12
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="scholarly_theologian"
+	add_trait="genius"
+	add_trait="proud"
+	add_trait="kind"
+	add_trait="gluttonous"
+	add_trait="just"
+	add_trait="fair"
+	father=59
+	3948.9.10 = {
+		birth="3948.9.10"
+	}
+	}
+74= {
+	name="Nallanda"   # FREE death DAUGHTER
+	female=yes
+	dynasty=207    #Peren
+	martial=8
+	diplomacy=3
+	intrigue=8
+	stewardship=5
+	learning=11
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="tough_soldier"
+	add_trait="genius"
+	add_trait="temperate"
+	add_trait="kind"
+	add_trait="envious"
+	add_trait="weak"
+	add_trait="fair"
+	father=59
+	3940.7.18 = {
+		birth="3940.7.18"
+	}
+	3995.2.25 = {
+		death="3995.2.25"
+	}
+	}
+75= {
+	name="Alodaia"   # FREE death DAUGHTER
+	female=yes
+	dynasty=207    #Peren
+	martial=1
+	diplomacy=2
+	intrigue=5
+	stewardship=3
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="amateurish_plotter"
+	add_trait="slow"
+	add_trait="gluttonous"
+	add_trait="wounded"
+	add_trait="proud"
+	add_trait="depressed"
+	add_trait="cruel"
+	father=59
+	3939.5.28 = {
+		birth="3939.5.28"
+	}
+	3965.9.22 = {
+		death="	3965.9.22"
+	}
+	}
+77= {
+	name="Bethilred"
+	female=yes
+	dynasty=204    #of Thedge
+	martial=6
+	diplomacy=8
+	intrigue=15
+	stewardship=10
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="elusive_shadow"
+	add_trait="quick"
+	add_trait="brave"
+	add_trait="lustful"
+	add_trait="proud"
+	add_trait="patient"
+	add_trait="just"
+	3962.5.28 = {
+		birth="3962.5.28"
+	}
+	3965.1.1 = {
+		add_claim=c_thedge
+	}
+	}
+89= {
+	name="Marcus"    #Rules Southshore not a duke of delta
+	dynasty=6011   #Welsing
+	martial=4
+	diplomacy=3
+	intrigue=13
+	stewardship=6
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="elusive_shadow"	
+	add_trait="genius"
+	add_trait="diligent"
+	add_trait="envious"
+	add_trait="shy"
+	add_trait="brave"
+	father=90
+	3980.2.3 = {
+		birth="3980.2.3"
+	}
+	3985.2.1 = {
+		add_claim=d_eastdurn
+		add_claim=d_thedelta
+		add_claim=c_hasic
+		}
+	4001.1.1 = {
+		wealth=32
+		}
+	}
+90= {
+	name="Terion"    #Formerly ruled Delta as duke
+	dynasty=6011    #Welsing
+	martial=4
+	diplomacy=9
+	intrigue=14
+	stewardship=6
+	learning=5
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="intricate_webweaver"	
+	add_trait="genius"
+	add_trait="charitable"
+	add_trait="craven"
+	add_trait="cruel"
+	3935.11.3 = {
+		birth="3935.11.3"
+	}
+	3985.2.1 = {
+		death="3985.2.1"
+	}
+}		
+91= {
+	name="Gundred"    #Rules Delta islands and Hasic
+	dynasty=6011    #Welsing
+	martial=6
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	learning=10
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="detached_priest"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="greedy"
+	add_trait="scarred"
+	father=90
+	3975.8.3 = {
+		birth="3975.8.3"
+	}
+	3985.2.1 = {
+		add_claim=d_eastdurn
+		add_claim=c_southshore
+		}
+	4001.1.1 = {
+		wealth=88
+		}
+}	
+92= {
+	name="Nathan"    #Rules Eastdurn
+	dynasty=6011   #Welsing
+	martial=7
+	diplomacy=8
+	intrigue=6
+	stewardship=4
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="charismatic_negotiator"
+	add_trait="diligent"
+	add_trait="brave"
+	add_trait="envious"
+	add_trait="quick"
+	father=90
+	3971.12.1 = {
+		birth="3971.12.1"
+	}
+	3985.2.1 = {
+		add_claim=d_thedelta
+		add_claim=c_hasic
+	}
+	4001.1.1 = {
+		wealth=100
+		}
+}	
+93= {
+	name="Alidan"
+	dynasty=684   #Bloch
+	martial=10
+	diplomacy=3
+	intrigue=3
+	stewardship=2
+	learning=12
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=94
+	add_trait="martial_cleric"
+	add_trait="poet"
+	add_trait="lustful"
+	add_trait="cynical"
+	add_trait="charitable"
+	add_trait="twin"
+
+	3976.12.8 = {
+		birth="3976.12.8"
+	}
+	3980.1.12 = {
+		add_claim=c_gallowcorner
+		add_claim=c_gavins_nave
+	}
+	4001.1.1 = {
+		wealth=70
+		}
+}
+94= {
+	name="Ballotyr"
+	dynasty=684   #Bloch
+	martial=4
+	diplomacy=7
+	intrigue=8
+	stewardship=8
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="misguided_warrior"
+	add_trait="gardener"
+	add_trait="diligent"
+	add_trait="paranoid"
+	add_trait="leper"
+
+	3935.3.28 = {
+		birth="3935.3.28"
+	}
+	3980.1.12 = {
+		death="3980.1.12"
+	}
+}
+95= {
+	name="Argus"
+	dynasty=684   #Bloch
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=8
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=94
+	add_trait="thrifty_clerk"
+	add_trait="falconer"
+	add_trait="chaste"
+	add_trait="gregarious"
+	add_trait="twin"
+	add_trait="trickster"
+
+	3976.12.8 = {
+		birth="3976.12.8"
+	}
+	3980.1.12 = {
+		add_claim=c_gavins_nave
+		add_claim=c_durnenfield
+		add_claim=c_juroon
+	}
+	4001.1.1 = {
+		wealth=27
+		}
+}
+96= {
+	name="Denheld"
+	dynasty=684   #Bloch
+	martial=7
+	diplomacy=6
+	intrigue=6
+	stewardship=3
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=94
+	add_trait="naive_appeaser"
+	add_trait="envious"
+	add_trait="temperate"
+	add_trait="deceitful"
+	add_trait="maimed"
+
+	3979.1.8 = {
+		birth="3979.1.8"
+	}
+	3980.1.12 = {
+		add_claim=c_gallowcorner
+		add_claim=c_durnenfield
+		add_claim=c_juroon
+	}
+	4001.1.1 = {
+		wealth=27
+		}
+}
+97={
+    name="Merthord"
+	dynasty=203     #Perenolde
+    martial=10
+    diplomacy=7
+    intrigue=11
+    stewardship=9
+    learning=5
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+	father=98
+    add_trait="envious"
+    add_trait="temperate"
+    add_trait="patient"
+    add_trait="heavy_infantry_leader"
+	add_trait="scarred"
+	add_trait="fortune_builder"
+    3918.5.13={
+        birth="3918.5.13"
+    }
+    3968.4.18 = {
+		death="3968.4.18"
+	}
+}
+98={
+    name="Aidan"
+	dynasty=203     #Perenolde
+    martial=8
+    diplomacy=7
+    intrigue=5
+    stewardship=13
+    learning=13
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+	father=99
+    add_trait="patient"
+    add_trait="cruel"
+    add_trait="paranoid"
+    add_trait="fortune_builder"
+	add_trait="pneumonic"
+	add_trait="homosexual"
+    3888.12.7={
+        birth="3888.12.7"
+    }
+    3937.9.29 = {
+		death="3937.9.29"
+	}
+}
+99={
+    name="Aidan"
+	dynasty=203     #Perenolde
+    martial=13
+    diplomacy=5
+    intrigue=7
+    stewardship=7
+    learning=10
+    religion="church_of_the_holy_light"
+    culture="alteraci"
+	father=63
+    add_trait="legit_bastard"
+    add_trait="ambitious"
+    add_trait="strong"
+    add_trait="midas_touched"
+	add_trait="shy"
+	add_trait="greedy"
+	add_trait="infirm"
+    3834.10.7={
+        birth="3834.10.7"
+    }
+    3904.9.29 = {
+		death="3904.9.29"
+	}
+}
+154= {
+	name="Falric"
+	dynasty=555     #Darrow
+	martial=9
+	diplomacy=14
+	intrigue=6
+	stewardship=5
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="charitable"
+	add_trait="humble"
+	add_trait="temperate"
+	add_trait="gardener"
+	add_trait="gregarious"
+	add_trait="grey_eminence"
+
+	3978.3.30 = {
+		birth="3978.3.30"
+	}
+	3996.8.1 = {
+		add_spouse=155
+	}
+	4001.1.1 = {
+		wealth=81
+	}
+}
+156= {
+	name="Alexei"
+	dynasty=675    #Lankester
+	martial=5
+	diplomacy=2
+	intrigue=9
+	stewardship=6
+	learning=3
+	father=157
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="humble"
+	add_trait="cruel"
+	add_trait="impaler"
+	add_trait="shy"
+	add_trait="flamboyant_schemer"
+
+	3975.8.30 = {
+		birth="3975.8.30"
+	}
+	4001.1.1 = {
+		wealth=56
+	}
+}
+157= {
+	name="Alexandros"   #death
+	dynasty=675    #Lankester
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+
+	3938.8.12 = {
+		birth="3938.8.12"
+	}
+	3983.5.11 = {
+		death="3983.5.11"
+	}
+}
+158= {
+	name="Alarrian"         #FREE DAUGHTER
+	female=yes
+	dynasty=675    #Lankester
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=157
+
+	3973.11.30 = {
+		birth="3973.11.30"
+	}
+	3983.5.11 = {
+		add_claim=c_hillsbrad
+		add_claim=c_soferas_fall
+	}
+	4001.1.1 = {
+		wealth=6
+	}
+}
+159= {
+	name="Elaine"         #FREE DAUGHTER
+	female=yes
+	dynasty=675    #Lankester
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=157
+	
+	3980.1.30 = {
+		birth="3980.1.30"
+	}
+	3983.5.11 = {
+		add_claim=c_hillsbrad
+		add_claim=c_soferas_fall
+	}
+	4001.1.1 = {
+		wealth=6
+	}
+}
+160= {
+	name="Clovis"
+	dynasty=209    #Oswert
+	martial=13
+	diplomacy=9
+	intrigue=6
+	stewardship=10
+	learning=6
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	add_trait="wroth"
+	add_trait="gregarious"
+	add_trait="temperate"
+	add_trait="greedy"
+	add_trait="heavy_infantry_leader"
+	add_trait="brilliant_strategist"
+
+	3980.8.30 = {
+		birth="3980.8.30"
+	}
+	4001.1.1 = {
+		wealth=160
+	}
+}
+199 = {
+	name="Arthoras"   #death
+	dynasty=6058     #Black
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+
+	3950.12.1 = {
+		birth="3950.12.1"
+	}
+	3985.1.1 = {
+		death="3985.1.1"
+	}
+}
+200 = {
+	name="Arthoras"   #Duke of Sorrow Hills
+	dynasty=6058     #Black
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+	father=199
+
+	3970.12.1 = {
+		birth="3970.12.1"
+	}
+	4000.1.1 = {
+		wealth = 300
+	}
+}
+201 = {
+	name="Horace"   #Duke of Andorwood
+	dynasty=582     #Galondis
+	religion="church_of_the_holy_light"
+	culture="alteraci"
+
+	3970.12.1 = {
+		birth="3970.12.1"
+	}
+	4000.1.1 = {
+		wealth = 210
+		}
+}
+
+	

@@ -1,0 +1,13 @@
+# 200 - Ravine's Rush
+
+# County Title
+title = c_ravines_rush
+
+# Settlements
+max_settlements = 3
+b_ravines_rush = castle
+
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,14 @@
+# 215 - Tyr's Hand
+
+# County Title
+title = c_tyrs_hand
+
+# Settlements
+max_settlements = 7
+b_tyrs_hand = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

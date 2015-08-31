@@ -1,0 +1,14 @@
+# 345 - Garnetwash
+
+# County Title
+title = c_garnetwash
+
+# Settlements
+max_settlements = 3
+b_garnetwash = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

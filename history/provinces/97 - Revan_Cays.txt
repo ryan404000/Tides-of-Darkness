@@ -1,0 +1,14 @@
+# 97 - Revan Cays
+
+# County Title
+title = c_revan_cays
+
+# Settlements
+max_settlements = 3
+b_revan_cays = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

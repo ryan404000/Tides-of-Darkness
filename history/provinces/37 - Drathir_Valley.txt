@@ -1,0 +1,13 @@
+# 37 - Drathir Valley
+# County Title
+title = c_drathir_valley
+
+# Settlements
+max_settlements = 3
+b_drathir_valley = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

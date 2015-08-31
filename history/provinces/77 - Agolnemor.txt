@@ -1,0 +1,17 @@
+# 77 - Agol'nemor
+
+# County Title
+title = c_agolnemor
+
+# Settlements
+max_settlements = 4
+b_agolnemor = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+
+

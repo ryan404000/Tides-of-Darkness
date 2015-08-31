@@ -1,0 +1,63 @@
+troll = {
+    graphical_culture = africangfx
+    vilebranch = {
+        graphical_culture = westafricangfx
+        color = {
+            0.3 0.4 0.2
+        }
+        male_names = {
+            Agolo Banrax Hegor Orsaxx Rjan Rgan Ril Jorwathi Wathi Wex Gazan Gaz Seraxx Hezek Bakkor Baku Tollo Hunlo Hgan Hul Jul Ilonex Ilarek Lorezk Waax Rjatax Rej Jur Yur Burj Hurj Munjil Unjil Hazjil Haxjil Hexjil Ij Arbaj Onaj'kal Nar'kal Honwathi Garwathi Palaj Balej
+        }
+        female_names = {
+            Hexx Torex Haxxi Zuxez Jini Taxez Bekz Bakkulax Mak'jarin Gara Torana Yorji Thorji Rorjaah Yorjaah Waaxia Zuuwax Borrua Yorrua Gatax Bax Torxua Onxua Ogxua Baxua Genji Renji Ven'zu Ban'zu Tun'zu
+        }
+
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 0
+        father_name_chance = 15
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 15
+        mother_name_chance = 5
+        modifier = default_culture_modifier
+    }
+    witherbark = {
+        graphical_culture = westafricangfx
+        color = {
+            0.4 0.6 0.1
+        }
+        male_names = {
+            Zalas Nimar Zaman Zimar Mai'jin Zanor Rin'ji Zun'rek Zul'arek Zul'alan Rokalas Norro Jalathor Bokmar Zun'jori Zu'joi Monjin Ter'lij Ma'lij Unalij Zun'mata Zimkalar Tanjalar Jalto Jolt'jori Jolt'tan Janzar Ter'tarj Bok'rek Nor'arek
+        }
+        female_names = {
+            Shadra Shad'jina Bomata Zandara Zeedree Norkozee Kanzee Ashi Lonjaz Thalja Jantalanra Jatal'jan Jinta Jinthara Jinthora Joli'thra Norjara Jahnra Jamra Holi Zenhra Mijanra Majanra Morjora Majora Mojmata Majmata Mojnata Majnata Sorzun
+        }
+
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 0
+        father_name_chance = 15
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 15
+        mother_name_chance = 5
+        modifier = default_culture_modifier
+    }
+    amani = {
+        graphical_culture = westafricangfx
+        color = {
+            0.56 0.55 0.2
+        }
+        male_names = {
+            Kul'mor Kul'dex Hazz Hazaki Hazak Akil'ron Akilran Akoril'jin Akil'zon Zul'jin Nalorakk Balez Isa'ihex Kazra'jin Kazi'jin Zul'marosh Akor'mar Daakara Gar'jin Gol'jin Jerthex Jinet'jin Krul'tan Vo'tan Maka'tan Zul'rogg Both'rogg Hux'ran Hux'rin Hux'kar Krul'jin Akil'ojon Akil'rogg Akila'ogg Kez'tan Haz'tan Haz'rogg Hazakk Horakk Horg'tan Har'tan Yur'rogg Yurg'tan Yur'jin
+        }
+        female_names = {
+            Asgari Hexxa Tora Haxana Zuna Janex Tai'jan Tar'jara Kro'jaksi Bek'zulu Beksal'a Hazla Hazj Raja Nalorah Akkanaz I'shi Hazhaka Norhaza Miracona Mirax Nada Jastara Jasta Tia'jorn
+        }
+
+        pat_grf_name_chance = 40
+        mat_grf_name_chance = 0
+        father_name_chance = 25
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 15
+        mother_name_chance = 5
+        modifier = default_culture_modifier
+    }
+}

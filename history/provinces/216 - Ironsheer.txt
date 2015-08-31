@@ -1,0 +1,14 @@
+# 216 - Ironsheer
+
+# County Title
+title = c_ironsheer
+
+# Settlements
+max_settlements = 3
+b_ironsheer = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

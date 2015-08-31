@@ -1,0 +1,14 @@
+# 236 - Lower Andor
+
+# County Title
+title = c_lower_andor
+
+# Settlements
+max_settlements = 5
+b_lower_andor = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

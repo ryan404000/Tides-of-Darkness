@@ -1,0 +1,15 @@
+# 250 - Princehill
+
+# County Title
+title = c_princehill
+
+# Settlements
+max_settlements = 4
+b_princehill = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

@@ -1,0 +1,15 @@
+# 128 - Alterange
+
+# County Title
+title = c_alterange
+
+# Settlements
+max_settlements = 3
+b_alterange = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

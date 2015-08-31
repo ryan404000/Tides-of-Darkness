@@ -1,0 +1,15 @@
+# 132 - Walnutwood
+
+# County Title
+title = c_walnutwood
+
+# Settlements
+max_settlements = 5
+b_walnutwood = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History
+

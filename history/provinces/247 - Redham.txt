@@ -1,0 +1,14 @@
+# 247 - Redham
+
+# County Title
+title = c_redham
+
+# Settlements
+max_settlements = 4
+b_redham = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

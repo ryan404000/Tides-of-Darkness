@@ -1,0 +1,14 @@
+# 374 - Dalaran
+
+# County Title
+title = c_dalaran
+
+# Settlements
+max_settlements = 7
+b_dalaran = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

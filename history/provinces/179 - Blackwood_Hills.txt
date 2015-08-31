@@ -1,0 +1,13 @@
+# 179 - Blackwood Hills
+
+# County Title
+title = c_blackwood_hills
+
+# Settlements
+max_settlements = 4
+b_blackwood_hills = castle
+
+culture = amani
+religion = loa
+
+# History

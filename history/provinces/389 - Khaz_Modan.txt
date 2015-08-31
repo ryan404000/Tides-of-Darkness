@@ -1,0 +1,16 @@
+# 389 - Khaz Modan
+
+# County Title
+title = c_khaz_modan
+
+# Settlements
+max_settlements = 3
+b_ironforge = castle
+b_grim_batol = castle
+
+# Misc
+culture = bronzebeard
+religion = church_of_the_holy_light
+
+
+# History

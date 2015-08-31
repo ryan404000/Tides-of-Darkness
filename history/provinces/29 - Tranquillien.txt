@@ -1,0 +1,14 @@
+# 29 - Tranquillien
+
+# County Title
+title = c_tranquillien
+
+# Settlements
+max_settlements = 6
+b_tranquillien = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

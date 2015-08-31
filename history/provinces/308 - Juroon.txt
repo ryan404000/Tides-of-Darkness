@@ -1,0 +1,14 @@
+# 308 - Juroon
+
+# County Title
+title = c_juroon
+
+# Settlements
+max_settlements = 4
+b_juroon = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

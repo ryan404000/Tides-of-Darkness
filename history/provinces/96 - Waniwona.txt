@@ -1,0 +1,14 @@
+# 96 - Waniwona
+
+# County Title
+title = c_waniwona
+
+# Settlements
+max_settlements = 4
+b_waniwona = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

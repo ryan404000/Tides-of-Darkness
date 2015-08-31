@@ -1,0 +1,14 @@
+# 184 - Ire Vigil
+
+# County Title
+title = c_ire_vigil
+
+# Settlements
+max_settlements = 4
+b_ire_vigil = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

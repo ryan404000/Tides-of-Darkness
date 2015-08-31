@@ -1,0 +1,14 @@
+# 339 - Adericshire
+
+# County Title
+title = c_adericshire
+
+# Settlements
+max_settlements = 5
+b_adericshire = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

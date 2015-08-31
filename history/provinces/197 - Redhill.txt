@@ -1,0 +1,13 @@
+# 197 - Redhill
+
+# County Title
+title = c_redhill
+
+# Settlements
+max_settlements = 4
+b_redhill = castle
+
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

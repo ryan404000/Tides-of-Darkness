@@ -1,0 +1,15 @@
+# 285 - Vallis
+
+# County Title
+title = c_vallis
+
+# Settlements
+max_settlements = 3
+
+b_vallis = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

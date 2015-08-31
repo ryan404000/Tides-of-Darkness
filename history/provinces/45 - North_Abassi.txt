@@ -1,0 +1,14 @@
+# 45 - North Abassi
+
+# County Title
+title = c_north_abassi
+
+# Settlements
+max_settlements = 6
+b_north_abassi = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

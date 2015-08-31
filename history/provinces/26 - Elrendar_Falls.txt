@@ -1,0 +1,14 @@
+# 26 - Elrendar Falls
+
+# County Title
+title = c_elrendar_falls
+
+# Settlements
+max_settlements = 3
+b_elrendar_falls = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

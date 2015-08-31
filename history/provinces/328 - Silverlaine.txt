@@ -1,0 +1,14 @@
+# 328 - Silverlaine
+
+# County Title
+title = c_silverlaine
+
+# Settlements
+max_settlements = 5
+b_silverlaine = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

@@ -1,0 +1,14 @@
+# 173 - Cavern Heights
+
+# County Title
+title = c_cavern_heights
+
+# Settlements
+max_settlements = 3
+b_cavern_heights = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

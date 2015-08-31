@@ -1,0 +1,19 @@
+# 93 - Gur'zundra
+
+# County Title
+title = c_gurzundra
+
+# Settlements
+max_settlements = 5
+b_gurzundra = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+
+
+
+

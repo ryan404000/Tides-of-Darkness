@@ -1,0 +1,8 @@
+4000.1.1={
+	holder = 1
+}
+
+5680.3.2={
+	holder = 295
+	liege = e_arathi_empire
+}

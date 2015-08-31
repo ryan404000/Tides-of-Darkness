@@ -1,0 +1,14 @@
+# 40 - Tor'watha
+
+# County Title
+title = c_torwatha
+
+# Settlements
+max_settlements = 6
+b_torwatha = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

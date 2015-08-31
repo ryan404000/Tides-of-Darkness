@@ -1,0 +1,16 @@
+# 89 - Aerie Peak
+
+# County Title
+title = c_aerie_peak
+
+# Settlements
+max_settlements = 4
+b_aerie_peak = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+

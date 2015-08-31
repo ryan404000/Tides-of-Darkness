@@ -1,0 +1,15 @@
+# 9 - Sun's Crossing
+
+# County Title
+title = c_suns_crossing
+
+# Settlements
+max_settlements = 6
+b_suns_crossing = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

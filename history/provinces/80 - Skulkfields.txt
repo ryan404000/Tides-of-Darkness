@@ -1,0 +1,15 @@
+# 80 - Skulkfields
+
+# County Title
+title = c_skulkfields
+
+# Settlements
+max_settlements = 3
+
+b_skulkfields = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

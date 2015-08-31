@@ -1,0 +1,13 @@
+# 183 - Ivanth Fen
+
+# County Title
+title = c_ivanth_fen
+
+# Settlements
+max_settlements = 4
+b_ivanth_fen = castle
+
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,14 @@
+# 350 - Ambermill
+
+# County Title
+title = c_ambermill
+
+# Settlements
+max_settlements = 5
+b_ambermill = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

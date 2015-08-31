@@ -1,0 +1,14 @@
+# 198 - Chillsmouth
+
+# County Title
+title = c_chillsmouth
+
+# Settlements
+max_settlements = 5
+b_chillsmouth = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

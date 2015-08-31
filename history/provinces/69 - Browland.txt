@@ -1,0 +1,13 @@
+# 69 - Browland
+# County Title
+title = c_browland
+
+# Settlements
+max_settlements = 4
+b_browland = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

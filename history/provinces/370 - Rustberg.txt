@@ -1,0 +1,14 @@
+# 370 - Rustberg
+
+# County Title
+title = c_rustberg
+
+# Settlements
+max_settlements = 4
+b_rustberg = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

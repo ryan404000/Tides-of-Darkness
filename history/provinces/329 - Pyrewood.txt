@@ -1,0 +1,14 @@
+# 329 - Pyrewood
+
+# County Title
+title = c_pyrewood
+
+# Settlements
+max_settlements = 6
+b_pyrewood = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

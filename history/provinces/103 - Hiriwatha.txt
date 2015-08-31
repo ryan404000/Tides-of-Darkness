@@ -1,0 +1,14 @@
+# 103 - Hiri'watha
+
+# County Title
+title = c_hiriwatha
+
+# Settlements
+max_settlements = 7
+b_hiriwatha = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

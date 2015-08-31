@@ -1,0 +1,14 @@
+# 352 - Boralus
+
+# County Title
+title = c_boralus
+
+# Settlements
+max_settlements = 7
+b_boralus = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

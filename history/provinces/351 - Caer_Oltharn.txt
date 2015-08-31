@@ -1,0 +1,14 @@
+# 351 - Caer Oltharn
+
+# County Title
+title = c_caer_oltharn
+
+# Settlements
+max_settlements = 5
+b_caer_oltharn = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

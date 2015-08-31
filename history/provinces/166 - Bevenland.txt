@@ -1,0 +1,13 @@
+# 166 - Bevenland
+
+# County Title
+title = c_bevenland
+
+# Settlements
+max_settlements = 4
+b_bevenland = castle
+
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

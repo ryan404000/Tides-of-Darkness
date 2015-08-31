@@ -1,0 +1,17 @@
+# 31 - Greenwood
+
+# County Title
+title = c_greenwood
+
+# Settlements
+max_settlements = 3
+
+b_greenwood = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+
+# History
+

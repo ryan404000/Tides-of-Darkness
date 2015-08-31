@@ -1,0 +1,16 @@
+# 258 - Tarnishrock
+
+# County Title
+title = c_tarnishrock
+
+# Settlements
+max_settlements = 3
+b_tarnishrock = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+

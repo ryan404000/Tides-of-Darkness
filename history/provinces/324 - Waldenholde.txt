@@ -1,0 +1,14 @@
+# 324 - Waldenholde
+
+# County Title
+title = c_waldenholde
+
+# Settlements
+max_settlements = 4
+b_waldenholde = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

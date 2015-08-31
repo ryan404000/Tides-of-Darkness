@@ -1,0 +1,14 @@
+# 225 - Lightsbeacon
+
+# County Title
+title = c_lightsbeacon
+
+# Settlements
+max_settlements = 4
+b_lightsbeacon = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

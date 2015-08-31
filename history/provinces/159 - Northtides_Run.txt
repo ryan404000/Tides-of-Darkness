@@ -1,0 +1,14 @@
+# 159 - Northtide's Run
+
+# County Title
+title = c_northtides_run
+
+# Settlements
+max_settlements = 4
+b_northtides_run = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History

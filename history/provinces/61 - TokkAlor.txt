@@ -1,0 +1,14 @@
+# 61 - Tokk'alor
+
+# County Title
+title = c_tokkalor
+
+# Settlements
+max_settlements = 3
+b_tokkalor = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

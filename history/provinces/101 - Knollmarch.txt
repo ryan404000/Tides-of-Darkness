@@ -1,0 +1,15 @@
+# 101 - Knollmarch
+
+# County Title
+title = c_knollmarch
+
+# Settlements
+max_settlements = 5
+b_knollmarch = castle
+
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

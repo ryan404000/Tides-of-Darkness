@@ -1,0 +1,13 @@
+# 354 - Shiprun Shore
+
+# County Title
+title = c_shiprun_shore
+
+# Settlements
+max_settlements = 5
+b_shiprun_shore = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+# History

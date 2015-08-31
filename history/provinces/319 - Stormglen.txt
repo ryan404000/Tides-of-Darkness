@@ -1,0 +1,13 @@
+# 319 - Stormglen
+# County Title
+title = c_stormglen
+
+# Settlements
+max_settlements = 5
+b_stormglen = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

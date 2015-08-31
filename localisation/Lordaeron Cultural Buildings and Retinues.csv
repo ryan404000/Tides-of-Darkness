@@ -1,0 +1,67 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ca_culture_stromic_1;Stromic Citadel;Stromic Citadel;Stromic Citadel;;Stromic Citadel;;;;;;;;;x
+ca_culture_stromic_2;Stromic Citadel;Stromic Citadel;Stromic Citadel;;Stromic Citadel;;;;;;;;;x
+ca_culture_stromic_3;Stromic Citadel;Stromic Citadel;Stromic Citadel;;Stromic Citadel;;;;;;;;;x
+ca_culture_stromic_4;Stromic Citadel;Stromic Citadel;Stromic Citadel;;Stromic Citadel;;;;;;;;;x
+ca_culture_alteraci_1;Mountain Lodge;Mountain Lodge;Mountain Lodge;;Mountain Lodge;;;;;;;;;x
+ca_culture_alteraci_2;Mountain Lodge;Mountain Lodge;Mountain Lodge;;Mountain Lodge;;;;;;;;;x
+ca_culture_alteraci_3;Mountain Lodge;Mountain Lodge;Mountain Lodge;;Mountain Lodge;;;;;;;;;x
+ca_culture_alteraci_4;Mountain Lodge;Mountain Lodge;Mountain Lodge;;Mountain Lodge;;;;;;;;;x
+ca_culture_lordaeronian_1;Tournament Field;Tournament Field;Tournament Field;;Tournament Field;;;;;;;;;x
+ca_culture_lordaeronian_2;Tournament Field;Tournament Field;Tournament Field;;Tournament Field;;;;;;;;;x
+ca_culture_lordaeronian_3;Tournament Field;Tournament Field;Tournament Field;;Tournament Field;;;;;;;;;x
+ca_culture_lordaeronian_4;Tournament Field;Tournament Field;Tournament Field;;Tournament Field;;;;;;;;;x
+ca_culture_tirasian_1;Militia Armory;Militia Armory;Militia Armory;;Militia Armory;;;;;;;;;x
+ca_culture_tirasian_2;Militia Armory;Militia Armory;Militia Armory;;Militia Armory;;;;;;;;;x
+ca_culture_tirasian_3;Militia Armory;Militia Armory;Militia Armory;;Militia Armory;;;;;;;;;x
+ca_culture_tirasian_4;Militia Armory;Militia Armory;Militia Armory;;Militia Armory;;;;;;;;;x
+ca_culture_gilnean_1;Military District;Military District;Military District;;Military District;;;;;;;;;x
+ca_culture_gilnean_2;Military District;Military District;Military District;;Military District;;;;;;;;;x
+ca_culture_gilnean_3;Military District;Military District;Military District;;Military District;;;;;;;;;x
+ca_culture_gilnean_4;Military District;Military District;Military District;;Military District;;;;;;;;;x
+ca_culture_dalaranian_1;Arcane Vault;Arcane Vault;Arcane Vault;;Arcane Vault;;;;;;;;;x
+ca_culture_dalaranian_2;Arcane Vault;Arcane Vault;Arcane Vault;;Arcane Vault;;;;;;;;;x
+ca_culture_dalaranian_3;Arcane Vault;Arcane Vault;Arcane Vault;;Arcane Vault;;;;;;;;;x
+ca_culture_dalaranian_4;Arcane Vault;Arcane Vault;Arcane Vault;;Arcane Vault;;;;;;;;;x
+ca_culture_high_elf_1;Highborne Terrace;Highborne Terrace;Highborne Terrace;;Highborne Terrace;;;;;;;;;x
+ca_culture_high_elf_2;Highborne Terrace;Highborne Terrace;Highborne Terrace;;Highborne Terrace;;;;;;;;;x
+ca_culture_high_elf_3;Highborne Terrace;Highborne Terrace;Highborne Terrace;;Highborne Terrace;;;;;;;;;x
+ca_culture_high_elf_4;Highborne Terrace;Highborne Terrace;Highborne Terrace;;Highborne Terrace;;;;;;;;;x
+ca_culture_amani_1;Amani Shrine;Amani Shrine;Amani Shrine;;Amani Shrine;;;;;;;;;x
+ca_culture_amani_2;Amani Shrine;Amani Shrine;Amani Shrine;;Amani Shrine;;;;;;;;;x
+ca_culture_amani_3;Amani Shrine;Amani Shrine;Amani Shrine;;Amani Shrine;;;;;;;;;x
+ca_culture_amani_4;Amani Shrine;Amani Shrine;Amani Shrine;;Amani Shrine;;;;;;;;;x
+ca_culture_vilebranch_1;Vilebranch Training Ground;Vilebranch Training Ground;Vilebranch Training Ground;;Vilebranch Training Ground;;;;;;;;;x
+ca_culture_vilebranch_2;Vilebranch Training Ground;Vilebranch Training Ground;Vilebranch Training Ground;;Vilebranch Training Ground;;;;;;;;;x
+ca_culture_vilebranch_3;Vilebranch Training Ground;Vilebranch Training Ground;Vilebranch Training Ground;;Vilebranch Training Ground;;;;;;;;;x
+ca_culture_vilebranch_4;Vilebranch Training Ground;Vilebranch Training Ground;Vilebranch Training Ground;;Vilebranch Training Ground;;;;;;;;;x
+ca_culture_witherbark_1;Shadow Cave;Shadow Cave;Shadow Cave;;Shadow Cave;;;;;;;;;x
+ca_culture_witherbark_2;Shadow Cave;Shadow Cave;Shadow Cave;;Shadow Cave;;;;;;;;;x
+ca_culture_witherbark_3;Shadow Cave;Shadow Cave;Shadow Cave;;Shadow Cave;;;;;;;;;x
+ca_culture_witherbark_4;Shadow Cave;Shadow Cave;Shadow Cave;;Shadow Cave;;;;;;;;;x
+RETTYPE_CUL_WOOD;Ranger;Ranger;Ranger;;Ranger;;;;;;;;;x
+RETTYPE_CUL_ALTER;Mountaineer;Mountaineer;Mountaineer;;Mountaineer;;;;;;;;;x
+RETTYPE_CUL_AMANI;Amani'shi Warrior;Amani'shi Warrior;Amani'shi Warrior;;Amani'shi Warrior;;;;;;;;;x
+RETTYPE_CUL_Stromic;Highland Cavalry;Highland Cavalry;Highland Cavalry;;Highland Cavalry;;;;;;;;;x
+RETTYPE_CUL_NORTH;Crusader;Crusader;Crusader;;Crusader;;;;;;;;;x
+RETTYPE_CUL_VILE;Spearthrower;Spearthrower;Spearthrower;;Spearthrower;;;;;;;;;x
+RETTYPE_CUL_HILL;Frontier Guard;Frontier Guard;Frontier Guard;;Frontier Guard;;;;;;;;;x
+RETTYPE_CUL_HIGH;Spellbreaker;Spellbreaker;Spellbreaker;;Spellbreaker;;;;;;;;;x
+RETTYPE_CUL_WITHER;Axethrower;Axethrower;Axethrower;;Axethrower;;;;;;;;;x
+RETTYPE_CUL_TIRAS;Armored Militia;Armored Militia;Armored Militia;;Armored Militia;;;;;;;;;x
+RETTYPE_CUL_ARCAN;Sorcerer;Sorcerer;Sorcerer;;Sorcerer;;;;;;;;;x
+wizards;Human Magi;Human Magi;Human Magi;;Human Magi;;;;;;;;;x
+magisters;Elven Magisters;Elven Magisters;Elven Magisters;;Elven Magisters;;;;;;;;;x
+witch_doctors;Troll Witch Doctors;Troll Witch Doctors;Troll Witch Doctors;;Troll Witch Doctors;;;;;;;;;x
+wizards_morale;Human Magi Morale;Human Magi Morale;Human Magi Morale;;Human Magi Morale;;;;;;;;;x
+wizards_discipline;Human Magi Discipline;Human Magi Discipline;Human Magi Discipline;;Human Magi Discipline;;;;;;;;;x
+wizards_offensive_fire;Human Magi Attack;Human Magi Attack;Human Magi Attack;;Human Magi Attack;;;;;;;;;x
+wizards_defensive_fire;Human Magi Defense;Human Magi Defense;Human Magi Defense;;Human Magi Defense;;;;;;;;;x
+magisters_morale;Elven Magisters Morale;Elven Magisters Morale;Elven Magisters Morale;;Elven Magisters Morale;;;;;;;;;x
+magisters_discipline;Elven Magisters Discipline;Elven Magisters Discipline;Elven Magisters Discipline;;Elven Magisters Discipline;;;;;;;;;x
+magisters_offensive_fire;Elven Magisters Attack;Elven Magisters Attack;Elven Magisters Attack;;Elven Magisters Attack;;;;;;;;;x
+magisters_defensive_fire;Elven Magisters Defense;Elven Magisters Defense;Elven Magisters Defense;;Elven Magisters Defense;;;;;;;;;x
+witch_doctors_morale;Troll Witch Doctors Morale;Troll Witch Doctors Morale;Troll Witch Doctors Morale;;Troll Witch Doctors Morale;;;;;;;;;x
+witch_doctors_discipline;Troll Witch Doctors Discipline;Troll Witch Doctors Discipline;Troll Witch Doctors Discipline;;Troll Witch Doctors Discipline;;;;;;;;;x
+witch_doctors_offensive_fire;Troll Witch Doctors Attack;Troll Witch Doctors Attack;Troll Witch Doctors Attack;;Troll Witch Doctors Attack;;;;;;;;;x
+witch_doctors_defensive_fire;Troll Witch Doctors Defense;Troll Witch Doctors Defense;Troll Witch Doctors Defense;;Troll Witch Doctors Defense;;;;;;;;;x

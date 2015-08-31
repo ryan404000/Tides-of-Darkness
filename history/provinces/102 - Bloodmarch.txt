@@ -1,0 +1,15 @@
+# 102 - Bloodmarch
+
+# County Title
+title = c_bloodmarch
+
+# Settlements
+max_settlements = 4
+b_bloodmarch = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History
+

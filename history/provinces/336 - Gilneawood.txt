@@ -1,0 +1,14 @@
+# 336 - Gilneawood
+
+# County Title
+title = c_gilneawood
+
+# Settlements
+max_settlements = 5
+b_gilneawood = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

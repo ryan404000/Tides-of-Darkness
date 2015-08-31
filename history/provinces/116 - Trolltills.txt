@@ -1,0 +1,15 @@
+# 116 - Trolltills
+
+# County Title
+title = c_trolltills
+
+# Settlements
+max_settlements = 6
+
+b_trolltills = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

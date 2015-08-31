@@ -1,0 +1,14 @@
+# 267 - Arusthilde
+
+# County Title
+title = c_arusthilde
+
+# Settlements
+max_settlements = 4
+b_arusthilde = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,14 @@
+# 50 - Zeb'tela
+
+# County Title
+title = c_zebtela
+
+# Settlements
+max_settlements = 4
+b_zebtela = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,14 @@
+# 78 - Skulk Rock
+
+# County Title
+title = c_skulk_rock
+
+# Settlements
+max_settlements = 4
+b_skulk_rock = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

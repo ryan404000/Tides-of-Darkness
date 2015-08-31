@@ -1,0 +1,14 @@
+# 210 - Aerie Mountains
+
+# County Title
+title = c_aerie_mountains
+
+# Settlements
+max_settlements = 3
+b_aerie_mountains = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

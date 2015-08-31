@@ -1,0 +1,13 @@
+# 180 - Irongem
+
+# County Title
+title = c_irongem
+
+# Settlements
+max_settlements = 2
+b_irongem = castle
+
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

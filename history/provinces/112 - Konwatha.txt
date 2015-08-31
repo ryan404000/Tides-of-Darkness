@@ -1,0 +1,12 @@
+# 112 - Kon'watha
+
+title = c_konwatha
+
+# Settlements
+max_settlements = 5
+b_konwatha = castle
+
+culture = vilebranch
+religion = loa
+
+# History

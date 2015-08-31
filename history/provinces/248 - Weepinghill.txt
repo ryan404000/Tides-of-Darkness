@@ -1,0 +1,15 @@
+# 248 - Weepinghill
+
+# County Title
+title = c_weepinghill
+
+# Settlements
+max_settlements = 4
+b_weepinghill = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

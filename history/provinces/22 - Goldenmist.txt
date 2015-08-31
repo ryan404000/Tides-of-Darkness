@@ -1,0 +1,14 @@
+# 22 - Goldenmist
+
+# County Title
+title = c_goldenmist
+
+# Settlements
+max_settlements = 6
+b_goldenmist  = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

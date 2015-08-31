@@ -1,0 +1,15 @@
+# 251 - Gahrron
+
+# County Title
+title = c_gahrron
+
+# Settlements
+max_settlements = 4
+b_gahrron = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

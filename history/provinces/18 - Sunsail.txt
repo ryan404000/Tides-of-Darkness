@@ -1,0 +1,14 @@
+# 18 - Sunsail
+
+# County Title
+title = c_sunsail
+
+# Settlements
+max_settlements = 4
+b_sunsail = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

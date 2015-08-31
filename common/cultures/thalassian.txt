@@ -1,0 +1,66 @@
+thalassian = {
+	graphical_culture = elfgfx # buildings, portraits, units
+	
+	high_elf = {
+		graphical_culture = elfgfx # units
+		
+		color = { 0.3 0.8 0.8 }
+		
+		male_names = {
+		Alden Andarion Andarathel Athaniar Anandor 
+		Baeddan
+		Carnesîr Cledwyn 
+		Dwyn Darciel D’Arwynn
+		Emlin Edelefin Ethalan
+		Guamarnn Gage Glynn Gwydion
+		Helendel
+		Jacalathen
+		Kellen Kaeniil
+		Lutharias Lólindir 
+		Maeglin Mabon Malanior Mariel
+		Ninian
+		Oglothros
+		Ryker Rhydian
+		Samathiel Sorien Seregon
+		Tholanadir Taran Tharama
+		Viridiel
+		Yofir
+
+		}
+		female_names = {
+		Alesanna Aarushi Acacia Adelina Alondra Amina Ashlayne Avonlea Adelwyn Alassë Anarial Alanassori Azshara
+		Coria
+		Dareshia Driana
+		Elyza Edelwynna
+		Freja
+		Itarildë Inwë Idril Indis
+		Kaedella Korien
+		Linwë Lúthien
+		Madrelysse Millena Melanion
+		Nienna Noliere
+		Primrose
+		Rennali
+		Séreméla Slyvessa Sylvanas Summer
+		Tenille Taryn
+		Vareesa
+		Xaveria
+		Yasminda Y’sariel Y’vaine
+		Zelena	
+		}
+		
+		from_dynasty_prefix = "of "
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+        pat_grf_name_chance = 15
+        mat_grf_name_chance = 15
+        father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 15
+        mother_name_chance = 5
+		
+		modifier = default_culture_modifier
+	}
+	}
+	

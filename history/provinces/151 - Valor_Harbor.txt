@@ -1,0 +1,14 @@
+# 151 - Valor Harbor
+
+# County Title
+title = c_valor_harbor
+
+# Settlements
+max_settlements = 6
+b_valor_harbor = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

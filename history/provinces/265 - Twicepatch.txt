@@ -1,0 +1,14 @@
+# 265 - Twicepatch
+
+# County Title
+title = c_twicepatch
+
+# Settlements
+max_settlements = 4
+b_twicepatch = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

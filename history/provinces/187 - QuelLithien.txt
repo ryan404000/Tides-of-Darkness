@@ -1,0 +1,14 @@
+# 187 - Quel'Lithien
+
+# County Title
+title = c_quellithien
+
+# Settlements
+max_settlements = 4
+b_quellithien = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

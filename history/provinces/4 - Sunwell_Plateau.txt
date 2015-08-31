@@ -1,0 +1,21 @@
+# 4 - Sunwell Plateau
+
+# County Title
+title = c_sunwell_plateau
+
+# Settlements
+max_settlements = 7
+b_sunwell_plateau = temple
+b_apexpoint = temple
+b_archonsius = temple
+b_parhelion_plaza = city
+b_rohendorgate = castle
+b_agamathgate = castle
+b_terrace_of_the_sun = temple
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

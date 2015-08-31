@@ -1,0 +1,14 @@
+# 221 - Browdale
+
+# County Title
+title = c_browdale
+
+# Settlements
+max_settlements = 5
+b_browdale = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

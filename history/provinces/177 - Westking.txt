@@ -1,0 +1,13 @@
+# 177 - Westking
+
+# County Title
+title = c_westking
+
+# Settlements
+max_settlements = 5
+b_westking = castle
+
+culture = amani
+religion = loa
+
+# History

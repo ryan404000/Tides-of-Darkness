@@ -1,0 +1,14 @@
+# 19 - Luminvale
+
+# County Title
+title = c_luminvale
+
+# Settlements
+max_settlements = 4
+b_luminvale = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

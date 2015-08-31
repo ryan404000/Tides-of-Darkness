@@ -1,0 +1,14 @@
+# 367 - Azurelode
+
+# County Title
+title = c_azurelode
+
+# Settlements
+max_settlements = 4
+b_azurelode = castle
+
+# Misc
+culture = gilnean
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,16 @@
+# 86 - Serapath
+
+# County Title
+title = c_serapath
+
+# Settlements
+max_settlements = 4
+b_serapath = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+

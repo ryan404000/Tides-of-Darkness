@@ -1,0 +1,14 @@
+# 33 - Windspire
+
+# County Title
+title = c_windspire
+
+# Settlements
+max_settlements = 4
+b_windspire = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

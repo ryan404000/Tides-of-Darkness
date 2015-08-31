@@ -1,0 +1,4 @@
+3978.9.29={
+	holder = 255
+	liege = k_quelthalas
+}

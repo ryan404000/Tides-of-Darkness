@@ -1,0 +1,14 @@
+# 186 - Adorric
+
+# County Title
+title = c_adorric
+
+# Settlements
+max_settlements = 4
+b_adorric = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

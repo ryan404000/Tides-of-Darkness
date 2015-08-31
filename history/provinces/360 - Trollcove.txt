@@ -1,0 +1,15 @@
+# 360 - Trollcove
+
+# County Title
+title = c_trollcove
+
+# Settlements
+max_settlements = 4
+b_trollcove = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History
+

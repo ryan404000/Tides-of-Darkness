@@ -1,0 +1,14 @@
+# 160 - Averass
+
+# County Title
+title = c_averass
+
+# Settlements
+max_settlements = 5
+b_averass = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History

@@ -1,0 +1,14 @@
+# 87 - Natoril
+
+# County Title
+title = c_natoril
+
+# Settlements
+max_settlements = 4
+b_natoril = temple
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

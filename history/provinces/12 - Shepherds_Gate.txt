@@ -1,0 +1,15 @@
+# 12 - Shepherd's Gate
+
+# County Title
+title = c_shepherds_gate
+
+# Settlements
+max_settlements = 5
+b_shepherds_gate = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

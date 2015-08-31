@@ -1,0 +1,14 @@
+# 362 - Purgation
+
+# County Title
+title = c_purgation
+
+# Settlements
+max_settlements = 4
+b_purgation = temple
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

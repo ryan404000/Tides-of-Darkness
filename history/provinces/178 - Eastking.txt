@@ -1,0 +1,14 @@
+# 178 - Eastking
+
+# County Title
+title = c_eastking
+
+# Settlements
+max_settlements = 5
+b_eastking = castle
+
+culture = amani
+religion = loa
+
+# History
+

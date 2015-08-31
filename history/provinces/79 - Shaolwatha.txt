@@ -1,0 +1,15 @@
+# 79 - Shaol'watha
+
+# County Title
+title = c_shaolwatha
+
+# Settlements
+max_settlements = 6
+
+b_shaolwatha = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

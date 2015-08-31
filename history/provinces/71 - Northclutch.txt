@@ -1,0 +1,13 @@
+# 71 - Northclutch
+# County Title
+title = c_northclutch
+
+# Settlements
+max_settlements = 4
+b_northclutch = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

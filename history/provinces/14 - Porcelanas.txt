@@ -1,0 +1,14 @@
+# 14 - Porcelanas
+
+# County Title
+title = c_porcelanas
+
+# Settlements
+max_settlements = 4
+b_porcelanas = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

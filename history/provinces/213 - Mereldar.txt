@@ -1,0 +1,14 @@
+# 213 - Mereldar
+
+# County Title
+title = c_mereldar
+
+# Settlements
+max_settlements = 5
+b_mereldar = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

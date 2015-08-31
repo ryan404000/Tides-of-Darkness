@@ -1,0 +1,15 @@
+# 82 - Seradine Gorge
+
+# County Title
+title = c_seradine_gorge
+
+# Settlements
+max_settlements = 4
+b_seradine_gorge = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

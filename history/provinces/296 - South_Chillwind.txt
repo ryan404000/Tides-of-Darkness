@@ -1,0 +1,14 @@
+# 296 - South Chillwind
+
+# County Title
+title = c_south_chillwind
+
+# Settlements
+max_settlements = 5
+b_south_chillwind = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

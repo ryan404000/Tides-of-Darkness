@@ -1,0 +1,4 @@
+6061 = {
+	name="Bronzebeard"
+	culture = bronzebeard
+}

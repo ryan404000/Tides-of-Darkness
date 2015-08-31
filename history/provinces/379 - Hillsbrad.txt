@@ -1,0 +1,14 @@
+# 379 - Hillsbrad
+
+# County Title
+title = c_hillsbrad
+
+# Settlements
+max_settlements = 6
+b_hillsbrad = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

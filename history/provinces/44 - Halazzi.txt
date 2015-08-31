@@ -1,0 +1,14 @@
+# 44 - Halazzi
+
+# County Title
+title = c_halazzi
+
+# Settlements
+max_settlements = 6
+b_halazzi = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,14 @@
+# 207 - Shuckford
+
+# County Title
+title = c_shuckford
+
+# Settlements
+max_settlements = 4
+b_shuckford = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

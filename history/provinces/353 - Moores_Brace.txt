@@ -1,0 +1,14 @@
+# 353 - Moore's Brace
+
+# County Title
+title = c_moores_brace
+
+# Settlements
+max_settlements = 4
+b_moores_brace = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

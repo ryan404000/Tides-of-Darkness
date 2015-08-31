@@ -1,0 +1,11 @@
+3968.6.12={
+	holder = 105
+}
+3983.3.2={
+	holder = 106
+}
+
+5680.1.1={
+	liege=d_emberstone
+	holder=271
+}

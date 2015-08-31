@@ -1,0 +1,18 @@
+# 3 - Silverisle
+
+# County Title
+title = c_silverisle
+
+# Settlements
+max_settlements = 4
+b_silverisle = city
+b_silversands = city
+b_morninglight = city
+b_oceansvigil = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

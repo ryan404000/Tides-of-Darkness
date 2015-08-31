@@ -1,0 +1,14 @@
+# 83 - Dragon Heights
+
+# County Title
+title = c_dragon_heights
+
+# Settlements
+max_settlements = 5
+b_dragon_heights = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

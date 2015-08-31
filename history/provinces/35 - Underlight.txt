@@ -1,0 +1,15 @@
+# 35 - Underlight
+
+# County Title
+title = c_underlight
+
+# Settlements
+max_settlements = 3
+b_underlight = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

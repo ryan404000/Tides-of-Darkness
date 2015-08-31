@@ -1,0 +1,14 @@
+# 48 - Stonespear Shelf
+
+# County Title
+title = c_stonespear_shelf
+
+# Settlements
+max_settlements = 2
+b_stonespear_shelf = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

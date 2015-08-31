@@ -1,0 +1,16 @@
+# 311 - Thondroril Delta
+
+# County Title
+title = c_thondroril_delta
+
+# Settlements
+max_settlements = 3
+b_thondroril_delta = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History
+
+

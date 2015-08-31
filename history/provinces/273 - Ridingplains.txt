@@ -1,0 +1,15 @@
+# 273 - Ridingplains
+
+# County Title
+title = c_ridingplains
+
+# Settlements
+max_settlements = 4
+b_ridingplains = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+

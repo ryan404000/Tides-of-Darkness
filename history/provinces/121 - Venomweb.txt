@@ -1,0 +1,13 @@
+# 121 - Venomweb
+# County Title
+title = c_venomweb
+
+# Settlements
+max_settlements = 4
+b_venomweb = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

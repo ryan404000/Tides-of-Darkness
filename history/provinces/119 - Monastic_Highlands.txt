@@ -1,0 +1,16 @@
+# 119 - Monastic Highlands
+
+# County Title
+title = c_monastic_highlands
+
+# Settlements
+max_settlements = 6
+b_monastic_highlands = temple
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+
+

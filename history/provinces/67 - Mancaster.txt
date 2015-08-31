@@ -1,0 +1,14 @@
+# 67 - Mancaster
+
+# County Title
+title = c_mancaster
+
+# Settlements
+max_settlements = 5
+b_mancaster = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,14 @@
+# 376 - Mistymere
+
+# County Title
+title = c_mistymere
+
+# Settlements
+max_settlements = 5
+b_mistymere = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

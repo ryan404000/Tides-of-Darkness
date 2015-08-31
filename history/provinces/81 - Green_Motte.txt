@@ -1,0 +1,18 @@
+# 81 - Green Motte
+
+# County Title
+title = c_green_motte
+
+# Settlements
+max_settlements = 4
+b_green_motte = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+
+
+

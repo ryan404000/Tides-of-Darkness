@@ -1,0 +1,15 @@
+# 90 - Solgan's Hope
+
+# County Title
+title = c_solgans_hope
+
+# Settlements
+max_settlements = 4
+b_solgans_hope = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

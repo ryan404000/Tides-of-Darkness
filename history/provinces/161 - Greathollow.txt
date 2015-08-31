@@ -1,0 +1,15 @@
+# 161 - Greathollow
+
+# County Title
+title = c_greathollow
+
+# Settlements
+max_settlements = 4
+b_greathollow = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History
+

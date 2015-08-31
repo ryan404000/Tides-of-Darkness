@@ -1,0 +1,14 @@
+# 222 - Highreach
+
+# County Title
+title = c_highreach
+
+# Settlements
+max_settlements = 4
+b_highreach = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

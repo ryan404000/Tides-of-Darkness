@@ -1,0 +1,14 @@
+# 153 - Bellforge
+
+# County Title
+title = c_bellforge
+
+# Settlements
+max_settlements = 6
+b_bellforge = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History

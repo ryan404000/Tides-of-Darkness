@@ -1,0 +1,4 @@
+5680.3.2={
+	holder = 104
+	liege = e_arathi_empire
+}

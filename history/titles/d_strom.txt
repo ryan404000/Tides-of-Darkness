@@ -1,0 +1,9 @@
+4000.1.1={
+	holder = 1
+	liege = k_stromgarde
+}
+
+5680.3.2={
+	holder = 295
+}
+

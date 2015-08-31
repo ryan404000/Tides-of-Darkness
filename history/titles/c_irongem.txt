@@ -1,0 +1,7 @@
+3980.1.1 = {
+	holder = 193
+}
+4000.1.1 = {
+	holder = 198
+	liege = d_thondroril
+}

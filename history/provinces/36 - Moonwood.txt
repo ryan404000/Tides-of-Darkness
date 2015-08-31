@@ -1,0 +1,14 @@
+# 36 - Moonwood
+
+# County Title
+title = c_moonwood
+
+# Settlements
+max_settlements = 3
+b_moonwood = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

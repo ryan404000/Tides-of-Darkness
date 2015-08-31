@@ -1,0 +1,15 @@
+# 290 - Orenhall
+
+# County Title
+title = c_orenhall
+
+# Settlements
+max_settlements = 3
+b_orenhall = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+
+# History

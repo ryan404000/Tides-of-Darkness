@@ -1,0 +1,17 @@
+# 307 - Gavin's Nave
+
+# County Title
+title = c_gavins_nave
+
+# Settlements
+max_settlements = 4
+b_gavins_nave = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History
+
+
+

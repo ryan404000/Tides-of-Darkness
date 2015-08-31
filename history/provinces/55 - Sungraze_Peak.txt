@@ -1,0 +1,14 @@
+# 55 - Sungraze Peak
+
+# County Title
+title = c_sungraze_peak
+
+# Settlements
+max_settlements = 4
+b_sungraze_peak = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

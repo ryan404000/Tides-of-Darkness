@@ -1,0 +1,30 @@
+# 272 - Thalstad's Hold
+
+# County Title
+title = c_thalstads_hold
+
+# Settlements
+max_settlements = 2
+b_thalstads_hold = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+4000.4.9 = {
+	b_thalstads_hold = ca_keep_1
+	b_thalstads_hold = ca_keep_2
+	b_thalstads_hold = ca_keep_3
+	b_thalstads_hold = ca_militia_barracks_1	
+	b_thalstads_hold = ca_militia_barracks_2
+	b_thalstads_hold = ca_town_1
+	b_thalstads_hold = ca_town_2
+	b_thalstads_hold = ca_town_3	
+}
+	
+	
+	
+	
+	

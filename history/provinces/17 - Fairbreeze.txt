@@ -1,0 +1,14 @@
+# 17 - Fairbreeze
+
+# County Title
+title = c_fairbreeze
+
+# Settlements
+max_settlements = 6
+b_fairbreeze = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

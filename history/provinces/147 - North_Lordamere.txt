@@ -1,0 +1,14 @@
+# 147 - North Lordamere
+
+# County Title
+title = c_north_lordamere
+
+# Settlements
+max_settlements = 6
+b_north_lordamere = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

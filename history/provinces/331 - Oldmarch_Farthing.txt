@@ -1,0 +1,14 @@
+# 331 - Oldmarch Farthing
+
+# County Title
+title = c_oldmarch_farthing
+
+# Settlements
+max_settlements = 4
+b_oldmarch_farthing = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

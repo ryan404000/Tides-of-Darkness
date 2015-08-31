@@ -1,0 +1,14 @@
+# 91 - Aerie Gap
+
+# County Title
+title = c_aerie_gap
+
+# Settlements
+max_settlements = 5
+b_aerie_gap = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

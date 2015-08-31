@@ -1,0 +1,14 @@
+# 137 - Eidre's Watch
+
+# County Title
+title = c_eidres_watch
+
+# Settlements
+max_settlements = 6
+b_eidres_watch = castle
+
+#Misc
+religion = church_of_the_holy_light
+culture = lordaeronian
+
+# History

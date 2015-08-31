@@ -1,0 +1,14 @@
+# 51 - Zeb'Nowa
+
+# County Title
+title = c_zebnowa
+
+# Settlements
+max_settlements = 4
+b_zebnowa = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

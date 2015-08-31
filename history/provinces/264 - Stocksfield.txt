@@ -1,0 +1,16 @@
+# 264 - Stocksfield
+
+# County Title
+title = c_stocksfield
+
+# Settlements
+max_settlements = 5
+b_stocksfield = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+

@@ -1,0 +1,15 @@
+# 387 - Crossharrow
+
+# County Title
+title = c_crossharrow
+
+# Settlements
+max_settlements = 4
+
+b_crossharrow = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

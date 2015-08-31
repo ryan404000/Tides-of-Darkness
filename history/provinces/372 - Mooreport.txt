@@ -1,0 +1,14 @@
+# 372 - Mooreport
+
+# County Title
+title = c_mooreport
+
+# Settlements
+max_settlements = 3
+b_mooreport = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

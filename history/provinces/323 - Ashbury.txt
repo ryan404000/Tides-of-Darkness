@@ -1,0 +1,14 @@
+# 323 - Ashbury
+
+# County Title
+title = c_ashbury
+
+# Settlements
+max_settlements = 4
+b_ashbury = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

@@ -1,0 +1,15 @@
+# 246 - Redpine Dell
+
+# County Title
+title = c_redpine_dell
+
+# Settlements
+max_settlements = 4
+b_redpine_dell = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

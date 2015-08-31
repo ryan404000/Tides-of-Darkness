@@ -1,0 +1,14 @@
+# 378 - Alteron
+
+# County Title
+title = c_alteron
+
+# Settlements
+max_settlements = 5
+b_alteron = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

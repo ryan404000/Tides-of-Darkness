@@ -1,0 +1,14 @@
+# 325 - Tempest's Reach
+
+# County Title
+title = c_tempests_reach
+
+# Settlements
+max_settlements = 5
+b_tempests_reach = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

@@ -1,0 +1,15 @@
+# 30 - Suncrown
+
+# County Title
+title = c_suncrown
+
+# Settlements
+max_settlements = 5
+b_suncrown = temple
+
+# Misc
+culture = high_elf
+religion = belore
+
+
+# History

@@ -1,0 +1,14 @@
+# 59 - Mazra'alor
+
+# County Title
+title = c_mazraalor
+
+# Settlements
+max_settlements = 5
+b_mazraalor = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

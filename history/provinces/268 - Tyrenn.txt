@@ -1,0 +1,14 @@
+# 268 - Tyrenn
+
+# County Title
+title = c_tyrenn
+
+# Settlements
+max_settlements = 3
+b_tyrenn = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

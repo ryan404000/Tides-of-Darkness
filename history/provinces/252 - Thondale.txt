@@ -1,0 +1,15 @@
+# 252 - Thondale
+
+# County Title
+title = c_thondale
+
+# Settlements
+max_settlements = 4
+b_thondale = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

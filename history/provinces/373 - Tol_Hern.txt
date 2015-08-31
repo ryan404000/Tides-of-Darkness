@@ -1,0 +1,14 @@
+# 373 - Tol Hern
+
+# County Title
+title = c_tol_hern
+
+# Settlements
+max_settlements = 3
+b_tol_hern = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

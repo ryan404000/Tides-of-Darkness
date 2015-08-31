@@ -1,0 +1,15 @@
+# 386 - Beren
+
+# County Title
+title = c_beren
+
+# Settlements
+max_settlements = 5
+
+b_beren = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

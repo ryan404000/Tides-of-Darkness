@@ -1,0 +1,14 @@
+# 58 - Wathwani
+
+# County Title
+title = c_wathwani
+
+# Settlements
+max_settlements = 3
+b_wathwani = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

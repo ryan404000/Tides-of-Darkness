@@ -1,0 +1,14 @@
+# 98 - Axewash
+
+# County Title
+title = c_axewash
+
+# Settlements
+max_settlements = 4
+b_axewash = castle
+
+culture = witherbark
+religion = loa
+
+# History
+

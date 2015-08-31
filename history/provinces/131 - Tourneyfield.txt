@@ -1,0 +1,14 @@
+# 131 - Tourneyfield
+
+# County Title
+title = c_tourneyfield
+
+# Settlements
+max_settlements = 4
+b_tourneyfield = castle
+
+culture = lordaeronian
+religion = old_ways
+
+# History
+

@@ -1,0 +1,15 @@
+# 122 - Knightsfield
+
+# County Title
+title = c_knightsfield
+
+# Settlements
+max_settlements = 5
+b_knightsfield = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

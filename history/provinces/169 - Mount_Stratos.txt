@@ -1,0 +1,13 @@
+# 169 - Mount Stratos
+
+# County Title
+title = c_mount_stratos
+
+# Settlements
+max_settlements = 4
+b_mount_stratos = castle
+
+culture = amani
+religion = loa
+
+# History

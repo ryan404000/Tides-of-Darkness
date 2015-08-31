@@ -1,0 +1,15 @@
+# 129 - Lower Kingsknell
+
+# County Title
+title = c_lower_kingsknell
+
+# Settlements
+max_settlements = 5
+b_lower_kingsknell = castle
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History
+

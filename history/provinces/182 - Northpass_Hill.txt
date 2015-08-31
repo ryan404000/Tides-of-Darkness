@@ -1,0 +1,13 @@
+# 182 - Northpass Hill
+
+# County Title
+title = c_northpass_hill
+
+# Settlements
+max_settlements = 4
+b_northpass_hill = castle
+
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,17 @@
+# 5 - Magister's Terrace
+
+# County Title
+title = c_magisters_terrace
+
+# Settlements
+max_settlements = 3
+b_magisters_terrace = castle
+b_solar_vigil = castle
+b_halls_of_theory = temple
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

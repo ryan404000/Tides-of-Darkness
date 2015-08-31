@@ -1,0 +1,14 @@
+# 269 - Thandor
+
+# County Title
+title = c_thandor
+
+# Settlements
+max_settlements = 4
+b_thandor = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

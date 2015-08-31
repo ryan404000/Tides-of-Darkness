@@ -1,0 +1,15 @@
+# 171 - Rivonholde
+
+# County Title
+title = c_rivonholde
+
+# Settlements
+max_settlements = 4
+b_rivonholde = castle
+
+# Misc
+culture = amani
+religion = loa
+
+
+# History

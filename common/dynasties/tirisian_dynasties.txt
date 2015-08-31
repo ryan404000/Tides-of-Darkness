@@ -1,0 +1,496 @@
+288 = {
+	name="Aubrey"
+	culture = tirasian
+}
+289 = {
+	name="Swansall"
+	culture = tirasian
+}
+290 = {
+	name="Falrevere"
+	culture = tirasian
+}
+291 = {
+	name="Proudmoore"
+	culture = tirasian
+}
+292 = {
+	name="Belloom"
+	culture = tirasian
+}
+293 = {
+	name="Stell"
+	culture = tirasian
+}
+294 = {
+	name="Gallant"
+	culture = tirasian
+}
+295 = {
+	name="Penn"
+	culture = tirasian
+}
+296 = {
+	name="Baradin"
+	culture = tirasian
+}
+297 = {
+	name="Drake"
+	culture = tirasian
+}
+657 = {
+	name="Renfray"
+	culture = tirasian
+}
+678 = {
+	name="Abernathy"
+	culture = tirasian
+}
+698 = {
+	name="Perth"
+	culture = tirasian
+}
+699 = {
+	name="Shawreeve"
+	culture = tirasian
+}
+700 = {
+	name="Cabor"
+	culture = tirasian
+}
+701 = {
+	name="Onerplow"
+	culture = tirasian
+}
+702 = {
+	name="Crowshaw"
+	culture = tirasian
+}
+703 = {
+	name="Fairweather"
+	culture = tirasian
+}
+704 = {
+	name="Rennmoore"
+	culture = tirasian
+}
+705 = {
+	name="Moore"
+	culture = tirasian
+}
+706 = {
+	name="Tomenmoore"
+	culture = tirasian
+}
+708 = {
+	name="Olivemoore"
+	culture = tirasian
+}
+709 = {
+	name="Thornby"
+	culture = tirasian
+}
+710 = {
+	name="Thornmoore"
+	culture = tirasian
+}
+711 = {
+	name="Herthby"
+	culture = tirasian
+}
+712 = {
+	name="Alverold"
+	culture = tirasian
+}
+713 = {
+	name="Benedict"
+	culture = tirasian
+}
+714 = {
+	name="Westwind"
+	culture = tirasian
+}
+715 = {
+	name="Eastwind"
+	culture = tirasian
+}
+716 = {
+	name="Sailclear"
+	culture = tirasian
+}
+717 = {
+	name="Terethin"
+	culture = tirasian
+}
+718 = {
+	name="Landgren"
+	culture = tirasian
+}
+719 = {
+	name="Lantinga"
+	culture = tirasian
+}
+720 = {
+	name="Huber"
+	culture = tirasian
+}
+721 = {
+	name="Vahdat"
+	culture = tirasian
+}
+722 = {
+	name="Tully"
+	culture = tirasian
+}
+723 = {
+	name="Dath"
+	culture = tirasian
+}
+724 = {
+	name="Rackmoore"
+	culture = tirasian
+}
+725 = {
+	name="Kennedy"
+	culture = tirasian
+}
+726 = {
+	name="Indi"
+	culture = tirasian
+}
+727 = {
+	name="Ference"
+	culture = tirasian
+}
+728 = {
+	name="Amboss"
+	culture = tirasian
+}
+729 = {
+	name="Proudwell"
+	culture = tirasian
+}
+730 = {
+	name="Ulrike"
+	culture = tirasian
+}
+731 = {
+	name="Dilandrus"
+	culture = tirasian
+}
+732 = {
+	name="Dalton"
+	culture = tirasian
+}
+733 = {
+	name="Mendel"
+	culture = tirasian
+}
+734 = {
+	name="Pinerigger"
+	culture = tirasian
+}
+735 = {
+	name="Rigger"
+	culture = tirasian
+}
+736 = {
+	name="Birchrigger"
+	culture = tirasian
+}
+737 = {
+	name="Roper"
+	culture = tirasian
+}
+738 = {
+	name="Mercer"
+	culture = tirasian
+}
+739 = {
+	name="Sloan"
+	culture = tirasian
+}
+740 = {
+	name="Brassmolder"
+	culture = tirasian
+}
+741 = {
+	name="Coppermolder"
+	culture = tirasian
+}
+742 = {
+	name="Bronzemolder"
+	culture = tirasian
+}
+743 = {
+	name="Carpenter"
+	culture = tirasian
+}
+744 = {
+	name="of Boralus"
+	culture = tirasian
+}
+745 = {
+	name="of Kul Thond"
+	culture = tirasian
+}
+746 = {
+	name="of Kul Merald"
+	culture = tirasian
+}
+747 = {
+	name="of Drisburg"
+	culture = tirasian
+}
+748 = {
+	name="of Sunseat"
+	culture = tirasian
+}
+749 = {
+	name="of Moore's Brace"
+	culture = tirasian
+}
+750 = {
+	name="of Shiprun"
+	culture = tirasian
+}
+751 = {
+	name="of Kul Ithor"
+	culture = tirasian
+}
+752 = {
+	name="of Kul Tiras"
+	culture = tirasian
+}
+753 = {
+	name="of Tiras Alrin"
+	culture = tirasian
+}
+756 = {
+	name="Mariner"
+	culture = tirasian
+}
+757 = {
+	name="Midship"
+	culture = tirasian
+}
+758 = {
+	name="Faringmoore"
+	culture = tirasian
+}
+759 = {
+	name="Farth"
+	culture = tirasian
+}
+760 = {
+	name="Firth"
+	culture = tirasian
+}
+761 = {
+	name="Steersman"
+	culture = tirasian
+}
+762 = {
+	name="Wheelman"
+	culture = tirasian
+}
+763 = {
+	name="Erry"
+	culture = tirasian
+}
+764 = {
+	name="Turry"
+	culture = tirasian
+}
+765 = {
+	name="Forry"
+	culture = tirasian
+}
+766 = {
+	name="Morry"
+	culture = tirasian
+}
+767 = {
+	name="Colbey"
+	culture = tirasian
+}
+768 = {
+	name="Ormsby"
+	culture = tirasian
+}
+769 = {
+	name="Elfrith"
+	culture = tirasian
+}
+770 = {
+	name="Geare"
+	culture = tirasian
+}
+771 = {
+	name="Hawkins"
+	culture = tirasian
+}
+772 = {
+	name="Curtis"
+	culture = tirasian
+}
+773 = {
+	name="Belamoore"
+	culture = tirasian
+}
+774 = {
+	name="Caldwell"
+	culture = tirasian
+}
+775 = {
+	name="Reethe"
+	culture = tirasian
+}
+776 = {
+	name="Connor"
+	culture = tirasian
+}
+777 = {
+	name="Firallon"
+	culture = tirasian
+}
+778 = {
+	name="Tirallon"
+	culture = tirasian
+}
+779 = {
+	name="Greyshield"
+	culture = tirasian
+}
+780 = {
+	name="Halyndor"
+	culture = tirasian
+}
+781 = {
+	name="Runwether"
+	culture = tirasian
+}
+782 = {
+	name="Ropewether"
+	culture = tirasian
+}
+783 = {
+	name="Boardwether"
+	culture = tirasian
+}
+784 = {
+	name="Bowwether"
+	culture = tirasian
+}
+785 = {
+	name="Coxwayne"
+	culture = tirasian
+}
+786 = {
+	name="Swayne"
+	culture = tirasian
+}
+787 = {
+	name="Cogger"
+	culture = tirasian
+}
+788 = {
+	name="Cogboot"
+	culture = tirasian
+}
+789 = {
+	name="Cogsharbor"
+	culture = tirasian
+}
+790 = {
+	name = "Rainwether"
+	culture = tirasian
+}
+791 = {
+	name = "Oarsman"
+	culture = tirasian
+}
+792 = {
+	name = "Oarswether"
+	culture = tirasian
+}
+793 = {
+	name = "Oarsbrother"
+	culture = tirasian
+}
+794 = {
+	name = "Bowwatch"
+	culture = tirasian
+}
+795 = {
+	name = "Sternwatch"
+	culture = tirasian
+}
+796 = {
+	name = "Seamaster"
+	culture = tirasian
+}
+797 = {
+	name = "Shoalmaster"
+	culture = tirasian
+}
+798 = {
+	name = "Sailmaster"
+	culture = tirasian
+}
+799 = {
+	name = "Stormmaster"
+	culture = tirasian
+}
+800 = {
+	name="Posttrader"
+	culture = tirasian
+}
+801 = {
+	name="Cogtrader"
+	culture = tirasian
+}
+802 = {
+	name="Cliptrader"
+	culture = tirasian
+}
+803 = {
+	name="Shoretrader"
+	culture = tirasian
+}
+804 = {
+	name="Sterntrader"
+	culture = tirasian
+}
+805 = {
+	name="Reefrunner"
+	culture = tirasian
+}
+806 = {
+	name="Reeftrader"
+	culture = tirasian
+}
+807 = {
+	name="Wavetrader"
+	culture = tirasian
+}
+808 = {
+	name="Wavemoore"
+	culture = tirasian
+}
+5027 = {
+	name="Tirth"
+	culture = tirasian
+}
+5033 = {
+	name="Alder"
+	culture = tirasian
+}
+6021 = {
+	name="Mindermoore"
+	culture = tirasian
+}
+6066 = {
+	name="Balamont"
+	culture = tirisian
+}

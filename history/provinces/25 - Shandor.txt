@@ -1,0 +1,15 @@
+# 25 - Shandor
+
+# County Title
+title = c_shandor
+
+# Settlements
+max_settlements = 4
+b_shandor = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

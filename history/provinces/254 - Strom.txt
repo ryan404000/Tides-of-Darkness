@@ -1,0 +1,39 @@
+# 254 - Strom
+
+# County Title
+title = c_strom
+
+# Settlements
+max_settlements = 7
+b_strom = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+3990.1.1 = { name = "Strom" b_strom = castle capital = b_strom }
+
+4000.3.7 = {
+	
+	b_strom = ca_keep_1
+	b_strom = ca_keep_2
+	b_strom = ca_keep_3
+	b_strom = ca_wall_1
+	b_strom = ca_wall_2
+	b_strom = ca_barracks_1
+	b_strom = ca_stable_1
+	b_strom = ca_wall_q_1
+	b_strom = ca_wall_q_2	
+	b_strom = ca_barracks_2
+	b_strom = ca_militia_barracks_1
+	b_strom = ca_militia_barracks_2
+	b_strom = ca_militia_barracks_3
+	b_strom = ca_shipyard_1
+	b_strom = ca_shipyard_2
+	b_strom = ca_shipyard_3	
+	b_strom = ca_town_1
+	b_strom = ca_town_2
+
+}	

@@ -1,0 +1,17 @@
+# 263 - Hinterroads
+
+# County Title
+title = c_hinterroads
+
+# Settlements
+max_settlements = 4
+b_hinterroads = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+
+

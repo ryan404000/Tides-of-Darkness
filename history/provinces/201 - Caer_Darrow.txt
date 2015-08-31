@@ -1,0 +1,14 @@
+# 201 - Caer Darrow
+
+# County Title
+title = c_caer_darrow
+
+# Settlements
+max_settlements = 6
+b_caer_darrow = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

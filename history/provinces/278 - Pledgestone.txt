@@ -1,0 +1,15 @@
+# 278 - Pledgestone
+
+# County Title
+title = c_pledgestone
+
+# Settlements
+max_settlements = 3
+
+b_pledgestone = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

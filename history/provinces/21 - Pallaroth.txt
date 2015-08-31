@@ -1,0 +1,16 @@
+# 21 - Pallaroth
+
+# County Title
+title = c_pallaroth
+
+# Settlements
+max_settlements = 4
+b_pallaroth = castle
+
+
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

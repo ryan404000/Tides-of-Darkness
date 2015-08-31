@@ -1,0 +1,14 @@
+# 270 - Fallowhand
+
+# County Title
+title = c_fallowhand
+
+# Settlements
+max_settlements = 4
+b_fallowhand = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,15 @@
+# 6 - Sun's Reach
+
+# County Title
+title = c_suns_reach
+
+# Settlements
+max_settlements = 2
+b_suns_reach = castle
+b_dawnstar_village = city
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

@@ -1,0 +1,784 @@
+63 = {
+	name="Regindar"
+	culture = lordaeronian
+}
+64 = {
+	name="Derring"
+	culture = lordaeronian
+}
+65 = {
+	name="Greywalk"
+	culture = lordaeronian
+}
+66 = {
+	name="Mastersmith"
+	culture = lordaeronian
+}
+67 = {
+	name="Sorell"
+	culture = lordaeronian
+}
+68 = {
+	name="Balnir"
+	culture = lordaeronian
+}
+69 = {
+	name="Vander"
+	culture = lordaeronian
+}
+70 = {
+	name="Tabor"
+	culture = lordaeronian
+}
+71 = {
+	name="Delthoran"
+	culture = lordaeronian
+}
+72 = {
+	name="Alaster"
+	culture = lordaeronian
+}
+73 = {
+	name="Calston"
+	culture = lordaeronian
+}
+74 = {
+	name="Bailan"
+	culture = lordaeronian
+}
+75 = {
+	name="Garth"
+	culture = lordaeronian
+}
+76 = {
+	name="Easterland"
+	culture = lordaeronian
+}
+77 = {
+	name="Stannard"
+	culture = lordaeronian
+}
+78 = {
+	name="Ford"
+	culture = lordaeronian
+}
+79 = {
+	name="Dare"
+	culture = lordaeronian
+}
+80 = {
+	name="Cleaford"
+	culture = lordaeronian
+}
+81 = {
+	name="Hastings"
+	culture = lordaeronian
+}
+83 = {
+	name="Stoll"
+	culture = lordaeronian
+}
+84 = {
+	name="Cardring"
+	culture = lordaeronian
+}
+85 = {
+	name="Wiseheart"
+	culture = lordaeronian
+}
+86 = {
+	name="Fordrem"
+	culture = lordaeronian
+}
+87 = {
+	name="Faircorn"
+	culture = lordaeronian
+}
+88 = {
+	name="Verenhull"
+	culture = lordaeronian
+}
+89 = {
+	name="Hammon"
+	culture = lordaeronian
+}
+90 = {
+	name="Greyshadow"
+	culture = lordaeronian
+}
+91 = {
+	name="Fordring"
+	culture = lordaeronian
+}
+92 = {
+	name="Tollidar"
+	culture = lordaeronian
+}
+93 = {
+	name="Bahn"
+	culture = lordaeronian
+}
+94 = {
+	name="Worncott"
+	culture = lordaeronian
+}
+95 = {
+	name="Ballethil"
+	culture = lordaeronian
+}
+96 = {
+	name="Borgan"
+	culture = lordaeronian
+}
+97 = {
+	name="of Knightsfield"
+	culture = lordaeronian
+}
+98 = {
+	name="of Dartchill"
+	culture = lordaeronian
+}
+99 = {
+	name="of Greathollow"
+	culture = lordaeronian
+}
+100 = {
+	name="of Casterwich"
+	culture = lordaeronian
+}
+101 = {
+	name="of Brightwater"
+	culture = lordaeronian
+}
+102 = {
+	name="of Coldhearth"
+	culture = lordaeronian
+}
+103 = {
+	name="of Brill"
+	culture = lordaeronian
+}
+104 = {
+	name="of Westaeron"
+	culture = lordaeronian
+}
+105 = {
+	name="of Bellforge"
+	culture = lordaeronian
+}
+106 = {
+	name="of Garthsport"
+	culture = lordaeronian
+}
+107 = {
+	name="of Kingsknell"
+	culture = lordaeronian
+}
+108 = {
+	name="of Northamere"
+	culture = lordaeronian
+}
+109 = {
+	name="of Lordamere"
+	culture = lordaeronian
+}
+110 = {
+	name="of Lordaeron"
+	culture = lordaeronian
+}
+116 = {
+	name="Rosehold"
+	culture = lordaeronian
+}
+117 = {
+	name="Tyrrien"
+	culture = lordaeronian
+}
+118 = {
+	name="Erinfold"
+	culture = lordaeronian
+}
+119 = {
+	name="Garrow"
+	culture = lordaeronian
+}
+130 = {
+	name="Longarren"
+	culture = lordaeronian
+}
+131 = {
+	name="Brambleward"
+	culture = lordaeronian
+}
+177 = {
+	name="Randorell"
+	culture = lordaeronian
+}
+178 = {
+	name="Dauntlerd"
+	culture = lordaeronian
+}
+179 = {
+	name="Stone"
+	culture = lordaeronian
+}
+180 = {
+	name="Westerland"
+	culture = lordaeronian
+}
+181 = {
+	name="Rann"
+	culture = lordaeronian
+}
+182 = {
+	name="Marden"
+	culture = lordaeronian
+}
+183 = {
+	name="Dumah"
+	culture = lordaeronian
+}
+184 = {
+	name="Rollward"
+	culture = lordaeronian
+}
+185 = {
+	name="Brannwold"
+	culture = lordaeronian
+}
+186 = {
+	name="Gahrron"
+	culture = lordaeronian
+}
+188 = {
+	name="Liondare"
+	culture = lordaeronian
+}
+214 = {
+	name="Menethil"
+	culture = lordaeronian
+}
+554 = {
+	name="Dallarrow"
+	culture = lordaeronian
+}
+555 = {
+	name="Darrow"
+	culture = lordaeronian
+}
+556 = {
+	name="Mohrgan"
+	culture = lordaeronian
+}
+557 = {
+	name="Hearthspierre"
+	culture = lordaeronian
+}
+558 = {
+	name="Bellspierre"
+	culture = lordaeronian
+}
+559 = {
+	name="Tullspierre"
+	culture = lordaeronian
+}
+560 = {
+	name="Orspierre"
+	culture = lordaeronian
+}
+561 = {
+	name="Dollwright"
+	culture = lordaeronian
+}
+562 = {
+	name="Marlton"
+	culture = lordaeronian
+}
+563 = {
+	name="Paveley"
+	culture = lordaeronian
+}
+564 = {
+	name="Cecil"
+	culture = lordaeronian
+}
+565 = {
+	name="Hammond"
+	culture = lordaeronian
+}
+566 = {
+	name="Whiteshroud"
+	culture = lordaeronian
+}
+567 = {
+	name="Pureshroud"
+	culture = lordaeronian
+}
+568 = {
+	name="Greyshroud"
+	culture = lordaeronian
+}
+569 = {
+	name="Roseshroud"
+	culture = lordaeronian
+}
+570 = {
+	name="Daishroud"
+	culture = lordaeronian
+}
+571 = {
+	name="Gamend"
+	culture = lordaeronian
+}
+572 = {
+	name="Mograine"
+	culture = lordaeronian
+}
+573 = {
+	name="Hongraine"
+	culture = lordaeronian
+}
+574 = {
+	name="Mengraine"
+	culture = lordaeronian
+}
+575 = {
+	name="Teregraine"
+	culture = lordaeronian
+}
+576 = {
+	name="Vasgraine"
+	culture = lordaeronian
+}
+577 = {
+	name="Nostgraine"
+	culture = lordaeronian
+}
+578 = {
+	name="Burlgraine"
+	culture = lordaeronian
+}
+579 = {
+	name="Abbendis"
+	culture = lordaeronian
+}
+580 = {
+	name="Ottondis"
+	culture = lordaeronian
+}
+581 = {
+	name="Kerendis"
+	culture = lordaeronian
+}
+582 = {
+	name="Galondis"
+	culture = lordaeronian
+}
+583 = {
+	name="Arthindis"
+	culture = lordaeronian
+}
+584 = {
+	name="Callendis"
+	culture = lordaeronian
+}
+585 = {
+	name="Isillien"
+	culture = lordaeronian
+}
+586 = {
+	name="Tyrosus"
+	culture = lordaeronian
+}
+587 = {
+	name="Fordworn"
+	culture = lordaeronian
+}
+588 = {
+	name="Fordram"
+	culture = lordaeronian
+}
+589 = {
+	name="Landring"
+	culture = lordaeronian
+}
+590 = {
+	name="Dathrohan"
+	culture = lordaeronian
+}
+591 = {
+	name="Bethrohan"
+	culture = lordaeronian
+}
+592 = {
+	name="Arthrohan"
+	culture = lordaeronian
+}
+593 = {
+	name="Turrohan"
+	culture = lordaeronian
+}
+594 = {
+	name="Alen"
+	culture = lordaeronian
+}
+595 = {
+	name="Chambers"
+	culture = lordaeronian
+}
+596 = {
+	name="Harmon"
+	culture = lordaeronian
+}
+597 = {
+	name="Helleran"
+	culture = lordaeronian
+}
+598 = {
+	name="Ford"
+	culture = lordaeronian
+}
+599 = {
+	name="Kielar"
+	culture = lordaeronian
+}
+600 = {
+	name="Fairbanks"
+	culture = lordaeronian
+}
+601 = {
+	name="Lerent"
+	culture = lordaeronian
+}
+602 = {
+	name="Torantt"
+	culture = lordaeronian
+}
+603 = {
+	name="Garithos"
+	culture = lordaeronian
+}
+604 = {
+	name="Garihan"
+	culture = lordaeronian
+}
+605 = {
+	name="Modrithos"
+	culture = lordaeronian
+}
+606 = {
+	name="Verenthos"
+	culture = lordaeronian
+}
+607 = {
+	name="Isenthos"
+	culture = lordaeronian
+}
+608 = {
+	name="Isillithos"
+	culture = lordaeronian
+}
+609 = {
+	name="Ranorithos"
+	culture = lordaeronian
+}
+610 = {
+	name="Lionheart"
+	culture = lordaeronian
+}
+611 = {
+	name="Bearheart"
+	culture = lordaeronian
+}
+612 = {
+	name="Emberheart"
+	culture = lordaeronian
+}
+613 = {
+	name="Turalheart"
+	culture = lordaeronian
+}
+614 = {
+	name="Arthonheart"
+	culture = lordaeronian
+}
+615 = {
+	name="Oxenheart"
+	culture = lordaeronian
+}
+616 = {
+	name="Gryphonheart"
+	culture = lordaeronian
+}
+617 = {
+	name="Andrean"
+	culture = lordaeronian
+}
+618 = {
+	name="Marris"
+	culture = lordaeronian
+}
+619 = {
+	name="Marrisfield"
+	culture = lordaeronian
+}
+620 = {
+	name="Valdelmar"
+	culture = lordaeronian
+}
+621 = {
+	name="Rivendare"
+	culture = lordaeronian
+}
+622 = {
+	name="Barindare"
+	culture = lordaeronian
+}
+623 = {
+	name="Marrisdare"
+	culture = lordaeronian
+}
+624 = {
+	name="Mitterdare"
+	culture = lordaeronian
+}
+626 = {
+	name="Motterdare"
+	culture = lordaeronian
+}
+627 = {
+	name="Zeldig"
+	culture = lordaeronian
+}
+628 = {
+	name="Doldig"
+	culture = lordaeronian
+}
+629 = {
+	name="Tuldig"
+	culture = lordaeronian
+}
+630 = {
+	name="Neldig"
+	culture = lordaeronian
+}
+631 = {
+	name="Boldig"
+	culture = lordaeronian
+}
+632 = {
+	name="Romus"
+	culture = lordaeronian
+}
+633 = {
+	name="Gaynes"
+	culture = lordaeronian
+}
+634 = {
+	name="Macombe"
+	culture = lordaeronian
+}
+635 = {
+	name="Lattimore"
+	culture = lordaeronian
+}
+636 = {
+	name="Jerris"
+	culture = lordaeronian
+}
+637 = {
+	name="Marcid"
+	culture = lordaeronian
+}
+638 = {
+	name="Forrest"
+	culture = lordaeronian
+}
+639 = {
+	name="Forresten"
+	culture = lordaeronian
+}
+640 = {
+	name="Barthilas"
+	culture = lordaeronian
+}
+641 = {
+	name="Anson"
+	culture = lordaeronian
+}
+642 = {
+	name="Nerethilas"
+	culture = lordaeronian
+}
+643 = {
+	name="Ladthilas"
+	culture = lordaeronian
+}
+644 = {
+	name="Tulathilas"
+	culture = lordaeronian
+}
+645 = {
+	name="Eronthilas"
+	culture = lordaeronian
+}
+646 = {
+	name="Wythilas"
+	culture = lordaeronian
+}
+647 = {
+	name="Garthilas"
+	culture = lordaeronian
+}
+648 = {
+	name="Zelthilas"
+	culture = lordaeronian
+}
+649 = {
+	name="Mordo"
+	culture = lordaeronian
+}
+650 = {
+	name="Moray"
+	culture = lordaeronian
+}
+651 = {
+	name="Faranell"
+	culture = lordaeronian
+}
+652 = {
+	name="Holland"
+	culture = lordaeronian
+}
+654 = {
+	name="Albreck"
+	culture = lordaeronian
+}
+655 = {
+	name="Tillinghast"
+	culture = lordaeronian
+}
+656 = {
+	name="Wroth"
+	culture = lordaeronian
+}
+661 = {
+	name="Fintallas"
+	culture = lordaeronian
+}
+665 = {
+	name="Fowler"
+	culture = lordaeronian
+}
+666 = {
+	name="Cowler"
+	culture = lordaeronian
+}
+667 = {
+	name="Dowler"
+	culture = lordaeronian
+}
+668 = {
+	name="Foweller"
+	culture = lordaeronian
+}
+669 = {
+	name="Coweller"
+	culture = lordaeronian
+}
+670 = {
+	name="Doweller"
+	culture = lordaeronian
+}
+671 = {
+	name="Standish"
+	culture = lordaeronian
+}
+672 = {
+	name="Sordish"
+	culture = lordaeronian
+}
+673 = {
+	name="Maudish"
+	culture = lordaeronian
+}
+674 = {
+	name="Cordish"
+	culture = lordaeronian
+}
+679 = {
+	name="Curthas"
+	culture = lordaeronian
+}
+6017 = {
+	name="Kvinnshal"
+	culture = lordaeronian
+}
+6018 = {
+	name="Drakkarlund"
+	culture = lordaeronian
+}
+6019 = {
+	name="Hrothgar"
+	culture = lordaeronian
+}
+6020 = {
+	name="Fiegr"
+	culture = lordaeronian
+}
+6022 = {
+	name="Sjornheim"
+	culture = lordaeronian
+}
+6023 = {
+	name="Brunndyr"
+	culture = lordaeronian
+}
+6024 = {
+	name ="Banahogg"
+	culture = lordaeronian
+}
+6025 = {
+	name="Ortham"
+	culture = lordaeronian
+}
+6026 = {
+	name="Rivenmarch"
+	culture = lordaeronian
+}
+6027 = {
+	name ="Stonemarch"
+	culture = lordaeronian
+}
+6028 = {
+	name ="Mett"
+	culture = lordaeronian
+}
+6029 = {
+	name = "Magnussen"
+	culture = lordaeronian
+}
+6058 = {
+	name = "Black"
+	culture = lordaeronian
+}
+6074 = {
+	name="Hull"
+	culture = lordaeronian
+}
+6075 = {
+	name="Menethil"
+	culture = lordaeronian
+}
+
+
+
+
+
+
+
+
+
+
+
+

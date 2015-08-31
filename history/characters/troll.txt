@@ -1,0 +1,27 @@
+85= {
+	name="Jax'zunal"
+	dynasty=1    #Elfbreaker
+	martial=18
+	diplomacy=10
+	intrigue=14
+	stewardship=8
+	learning=7
+	religion="loa"
+	culture="amani"
+	add_trait="impaler"
+	add_trait="envious"
+	add_trait="strong"
+	add_trait="brilliant_strategist"
+	add_trait="lustful"
+	add_trait="cruel"
+	add_trait="wroth"
+	add_trait="ambitious"
+	add_trait="light_foot_leader"
+	add_trait="aggressive_leader"
+	3970.1.1 = {
+		birth="3970.1.1"
+		}
+	4001.1.1 = {
+		wealth=2500
+		}
+	}

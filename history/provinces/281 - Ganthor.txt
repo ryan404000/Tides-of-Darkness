@@ -1,0 +1,14 @@
+# 281 - Ganthor
+# County Title
+title = c_ganthor
+
+# Settlements
+max_settlements = 3
+
+b_ganthor = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

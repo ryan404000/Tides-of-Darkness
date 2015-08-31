@@ -1,0 +1,1356 @@
+#Adjust for elf years
+84= {
+	name="Anasterian"
+	dynasty=2    #Sunstrider
+	martial=14
+	diplomacy=17
+	intrigue=10
+	stewardship=10
+	learning=12
+	dna = "alicaaaffck"
+	religion="belore"
+	culture="high_elf"
+	add_trait="strong"
+	add_trait="mystic"
+	add_trait="proud"
+	add_trait="genius"
+	add_trait="grey_eminence"
+	add_trait="chaste"
+	add_trait="patient"
+	add_trait="diligent"
+	add_trait="temperate"
+	add_trait="quick"
+	add_trait="inspiring_leader"
+	add_trait="organizer"
+	add_trait="elf"
+	father=208
+	3950.11.18 = {
+		birth="3950.11.18"
+		}
+	3975.6.12 = {
+		add_spouse=211
+		add_claim =k_quelthalas
+	}
+	4001.1.1 = {
+		wealth=3100
+		piety=500
+		prestige=1000
+		}
+	}
+204= {
+	name="Belo'vir"
+	dynasty=6059    #Salonar
+	martial=6
+	diplomacy=12
+	intrigue=11
+	stewardship=11
+	learning=21
+	dna = "dkcjbbdcdcm"
+	religion="belore"
+	culture="high_elf"
+	add_trait="mystic"
+	add_trait="proud"
+	add_trait="genius"
+	add_trait="mastermind_theologian"
+	add_trait="charitable"
+	add_trait="patient"
+	add_trait="diligent"
+	add_trait="temperate"
+	add_trait="elf"	
+	father=212
+	mother=213
+	3970.1.1 = {
+		birth="3970.1.1"
+		}
+	4001.1.1 = {
+		wealth=230
+		}
+	}
+206={
+	name="Dath'remar"
+	dynasty=2 # Sunstrider
+	culture=high_elf
+	religion=belore
+	martial=9
+	diplomacy=7
+	stewardship=12
+	intrigue=17
+	learning=16
+	trait="elusive_shadow"
+	trait="brave"
+	trait="patient"
+	trait="shy"
+	trait="fair"
+	trait="gregarious"
+	trait="greedy"
+	trait="elf"	
+	1.1.1={birth=yes}
+	940.1.1={death=yes}
+}
+207={
+	name="Kemar'thas"
+	dynasty=2 # Sunstrider
+	culture=high_elf
+	religion=belore
+	martial=3
+	diplomacy=11
+	stewardship=8
+	intrigue=4
+	learning=6
+	trait="underhanded_rogue"
+	trait="craven"
+	trait="humble"
+	trait="diligent"
+	trait="fair"
+	trait="greedy"
+	trait="elf"	
+	father=206
+	782.4.23={birth=yes}
+	2420.7.2={death=yes}
+}
+208={
+	name="Dath'remar"
+	dynasty=2 # Sunstrider
+	culture=high_elf
+	religion=belore
+	martial=8
+	diplomacy=14
+	stewardship=4
+	intrigue=14
+	learning=17
+	trait="scholarly_theologian"
+	trait="proud"
+	trait="diligent"
+	trait="genius"
+	trait="ambitious"
+	trait="charitable"
+	trait="defensive_leader"
+	trait="elf"	
+	father=207
+	2215.12.26={birth=yes}
+	3975.3.12={death=yes}
+}
+209= {
+	name="Kael'thas"
+	dynasty=2    #Sunstrider
+	martial=6
+	diplomacy=11
+	intrigue=16
+	stewardship=8
+	learning=17
+	religion="belore"
+	culture="high_elf"
+	add_trait="mystic"
+	add_trait="proud"
+	add_trait="genius"
+	add_trait="mastermind_theologian"
+	add_trait="lustful"
+	add_trait="patient"
+	add_trait="diligent"
+	add_trait="fair"
+	add_trait="ambitious"
+	add_trait="inspiring_leader"
+	add_trait="experimenter"
+	add_trait="elf"	
+	father=84
+	mother=211
+	3980.5.5 = {
+		birth="3980.5.5"
+		}
+	4001.1.1 = {
+		wealth=500
+		}
+	}
+210= {
+	name="Nallorath"
+	dynasty=2    #Sunstrider
+	martial=5
+	diplomacy=16
+	intrigue=4
+	stewardship=9
+	learning=10
+	religion="belore"
+	culture="high_elf"
+	add_trait="stutter"
+	add_trait="humble"
+	add_trait="trusting"
+	add_trait="charismatic_negotiator"
+	add_trait="diligent"
+	add_trait="gluttonous"
+	add_trait="content"
+	add_trait="flanker"
+	add_trait="elf"	
+	father=84
+	mother=211
+	3983.8.5 = {
+		birth="3983.8.5"
+		}
+	4001.1.1 = {
+		wealth=200
+		}
+	}
+211= {
+	name="Verana"
+	female=yes
+	dynasty=6059    #Salonar
+	martial=12
+	diplomacy=14
+	intrigue=5
+	stewardship=12
+	learning=9
+	dna = "bkkchukidcg"	
+	religion="belore"
+	culture="high_elf"
+	add_trait="poet"
+	add_trait="zealous"
+	add_trait="charismatic_negotiator"
+	add_trait="patient"
+	add_trait="kind"
+	add_trait="trusting"
+	add_trait="quick"
+	add_trait="elf"	
+	father=212
+	mother=213
+	3959.9.1 = {
+		birth="3959.9.1"
+		}
+	4001.1.1 = {
+		wealth=230
+		}
+	}
+212= {
+	name="Itharien"
+	dynasty=6059    #Salonar
+	martial=20
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	learning=7
+	religion="belore"
+	culture="high_elf"
+	add_trait="hunter"
+	add_trait="zealous"
+	add_trait="charismatic_negotiator"
+	add_trait="wroth"
+	add_trait="honest"
+	add_trait="strong"
+	add_trait="elf"	
+	600.11.3 = {
+		birth="600.11.3"
+		}
+	906.1.1 = {
+		add_spouse=213
+	}
+	2734.3.8={
+		death="2734.3.8"
+		}
+	}
+213= {
+	name="Nylania"
+	female=yes
+	dynasty=6060    #Greatmorn
+	martial=8
+	diplomacy=8
+	intrigue=16
+	stewardship=2
+	learning=6
+	religion="belore"
+	culture="high_elf"
+	add_trait="arbitrary"
+	add_trait="shy"
+	add_trait="elusive_shadow"
+	add_trait="patient"
+	add_trait="deceitful"
+	add_trait="envious"
+	add_trait="elf"	
+	890.4.26 = {
+		birth="890.4.26"
+		}
+	2688.1.13={
+		death="2688.1.13"
+		}
+	}
+214= {
+	name="Tarso"
+	dynasty=6057    #Whitedawn
+	martial=4
+	diplomacy=8
+	intrigue=3
+	stewardship=5
+	learning=12
+	dna = "bhacbujcgcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="gregarious"
+	add_trait="martial_cleric"
+	add_trait="patient"
+	add_trait="proud"
+	add_trait="mystic"
+	add_trait="paranoid"
+	add_trait="deceitful"
+	add_trait="ambitious"
+	add_trait="scholar"
+	add_trait="elf"	
+	3969.4.15 = {
+		birth="3969.4.15"
+		}
+	3989.5.20 = {
+		add_claim = b_dathremar_shrine
+		}
+	4154.1.13={
+		death="4154.1.13"
+		}
+	}	
+215= {
+	name="Jacalathen"
+	dynasty=6054    #Duskhallow Rulers of Sunspire Duchy
+	martial=14
+	diplomacy=7
+	intrigue=5
+	stewardship=6
+	learning=3
+	dna = "dgcfgpljecq"
+	religion="belore"
+	culture="high_elf"
+	add_trait="gregarious"
+	add_trait="deceitful"
+	add_trait="wroth"
+	add_trait="strong"	
+	add_trait="envious"
+	add_trait="misguided_warrior"
+	add_trait="proud" 
+	add_trait="elf"	
+	3953.4.15 = {
+		birth="3953.4.15"
+		}
+	4194.1.13={
+		death="4194.1.13"
+		}
+	}	
+216= {
+	name="Helendel"
+	dynasty=6055    #County of Falthrien Rulers
+	martial=8
+	diplomacy=10
+	intrigue=6
+	stewardship=2
+	learning=4
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="strong"	
+	add_trait="brave"
+	add_trait="humble"
+	add_trait="elf"	
+	3973.4.15 = {
+		birth="3973.4.15"
+		}
+	4144.1.13={
+		death="4144.1.13"
+		}
+	}	
+217= {
+	name="Glynn"
+	dynasty=6053    #County of Silverisle Rulers
+	martial=8
+	diplomacy=7
+	intrigue=2
+	stewardship=2
+	learning=4
+	dna = "ddbefjkedck"
+	religion="belore"
+	culture="high_elf"
+	add_trait="fair"
+	add_trait="strong"	
+	add_trait="brave"
+	add_trait="humble"
+	add_trait="proud"
+	add_trait="misguided_warrior"
+	add_trait="rough_terrain_leader"
+	add_trait="wounded"
+	add_trait="elf"	
+	3973.4.15 = {
+		birth="3973.4.15"
+		}
+	4144.1.13={
+		death="4144.1.13"
+		}
+	}	
+218= {
+	name="Edelefin"
+	dynasty=6051    #County of Magister's Terrace Rulers
+	martial=3
+	diplomacy=10
+	intrigue=1
+	stewardship=2
+	learning=9
+	dna = "algjelgfccj"
+	religion="belore"
+	culture="high_elf"
+	add_trait="zealous"
+	add_trait="kind"
+	add_trait="humble"
+	add_trait="quick"
+	add_trait="detached_priest"
+	add_trait="elf"	
+	3977.3.15 = {
+		birth="3977.3.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+219= {
+	name="Edelefin"
+	dynasty=6052    #County of Sun's Reach Rulers
+	martial=3
+	diplomacy=7
+	intrigue=1
+	stewardship=2
+	learning=9
+	dna = "djfghrmbdce"
+	religion="belore"
+	culture="high_elf"
+	add_trait="zealous"
+	add_trait="kind"
+	add_trait="humble"
+	add_trait="slow"
+	add_trait="detached_priest"
+	add_trait="elf"	
+	3967.3.15 = {
+		birth="3967.3.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+220= {
+	name="Carnesîr"
+	dynasty=6056    #County of Sun's Crossing Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "akliefahccp"
+	religion="belore"
+	culture="high_elf"
+	add_trait="proud"
+	add_trait="zealous"
+	add_trait="gregarious"
+	add_trait="charismatic_negotiator"
+	add_trait="hunter"
+	add_trait="elf"
+	3972.1.15 = {
+		birth="3972.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+221= {
+	name="Darciel"
+	dynasty=6050    #County of Falconwing Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "dgcfgpljecq"
+	religion="belore"
+	culture="high_elf"
+	add_trait="proud"
+	add_trait="zealous"
+	add_trait="gregarious"
+	add_trait="patient"
+	add_trait="elf"	
+	3972.1.15 = {
+		birth="3972.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+222= {
+	name="Mabon"
+	dynasty=6049    #County of Arcanus Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "djfghrmbdce"
+	religion="belore"
+	culture="high_elf"
+	add_trait="wroth"
+	add_trait="zealous"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	add_trait="fair"
+	add_trait="elf"
+	3912.3.5 = {
+		birth="3912.3.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+223= {
+	name="Yofir"
+	dynasty=6048    #County of Porcelcnas Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="proud"
+	add_trait="envious"
+	add_trait="shy"
+	add_trait="hunter"
+	add_trait="strong"
+	add_trait="elf"	
+	3962.8.25 = {
+		birth="3962.8.25"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+224= {
+	name="Gwydion"
+	dynasty=6047    #County of Glintwater Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "dgcfgpljecq"
+	religion="belore"
+	culture="high_elf"
+	add_trait="humble"
+	add_trait="brave"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	add_trait="clubfooted"
+	add_trait="elf"	
+	3973.1.15 = {
+		birth="3973.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+225= {
+	name="Tharama"
+	dynasty=6046    #County of Shepard's Gate Rulers
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "dgcfgpljecq"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"
+	3970.1.10 = {
+		birth="3970.1.10"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+226= {
+	name="Alden"
+	dynasty=6045    #County of Farstrider's Retreat Ruler - Owns Duchy of Eversong
+	martial=3
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=9
+	dna = "akliefahccp"
+	religion="belore"
+	culture="high_elf"
+	add_trait="brave"
+	add_trait="wroth"
+	add_trait="gregarious"
+	add_trait="hunter"
+	add_trait="strong"
+	add_trait="elf"	
+	3975.2.13 = {
+		birth="3975.2.13"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+227= {
+	name="Lólindir"
+	dynasty=6045    #County of Duskwither Ruler
+	martial=5
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=8
+	dna = "djfghrmbdce"
+	religion="belore"
+	culture="high_elf"
+	add_trait="proud"
+	add_trait="zealous"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	add_trait="elf"	
+	3972.1.15 = {
+		birth="3972.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+228= {
+	name="Athaniar"
+	dynasty=6043    #County of Fairbreeze Ruler - Owns Duchy of Fairbreeze
+	martial=2
+	diplomacy=6
+	intrigue=4
+	stewardship=3
+	learning=7
+	dna = "cglhagkhgcj"
+	religion="belore"
+	culture="high_elf"
+	add_trait="shy"
+	add_trait="brave"
+	add_trait="stutter"
+	add_trait="humble"
+	add_trait="elf"	
+	3970.1.15 = {
+		birth="3970.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+229= {
+	name="Malanior"
+	dynasty=6042    #County of Cherrygrove Ruler
+	martial=6
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=7
+	dna = "bmibdzmcccn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="paranoid"
+	add_trait="gluttonous"
+	add_trait="cruel"
+	add_trait="proud"
+	add_trait="elf"	
+	3972.1.15 = {
+		birth="3972.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+231= {
+	name="D’Arwynn"
+	dynasty=6041    #County of Luminvale Ruler
+	martial=3
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=4
+	dna = "djfghrmbdce"
+	religion="belore"
+	culture="high_elf"
+	add_trait="impaler"
+	add_trait="cruel"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	add_trait="elf"	
+	3972.1.15 = {
+		birth="3972.1.15"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+233= {
+	name="Inwë"
+	dynasty=6040    #County of Pallaroth Ruler
+	female= yes		
+	martial=9
+	diplomacy=2
+	intrigue=4
+	stewardship=2
+	learning=10
+	dna = "bkacdwcjccj"
+	religion="belore"
+	culture="high_elf"
+	add_trait="strong"
+	add_trait="zealous"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="misguided_warrior"
+	add_trait="elf"	
+	3969.8.5 = {
+		birth="3969.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+234= {
+	name="Amelia"
+	dynasty=6039    #County of Tranquil Shore and Sunsail Ruler
+	female= yes		
+	martial=5
+	diplomacy=8
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "bkacdwcjccj"
+	religion="belore"
+	culture="high_elf"
+	add_trait="strong"
+	add_trait="zealous"
+	add_trait="brave"
+	add_trait="ambitious"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="misguided_warrior"
+	add_trait="elf"	
+	3969.8.5 = {
+		birth="3969.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+235= {
+	name="Baeddan"
+	dynasty=6038    #County of Goldenmist Ruler
+	martial=9
+	diplomacy=8
+	intrigue=4
+	stewardship=15
+	learning=6
+	dna = "bmibdzmcccn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="strong"
+	add_trait="fair"
+	add_trait="brave"
+	add_trait="ambitious"
+	add_trait="elf"	
+	3966.8.5 = {
+		birth="3966.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+236= {
+	name="Viridiel"
+	dynasty=6037    #County of Falithas Ruler
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "dcfhimlaccg"
+	religion="belore"
+	culture="high_elf"
+	add_trait="envious"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="proud"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	add_trait="elf"	
+	3965.3.7 = {
+		birth="3965.3.7"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+237= {
+	name="Vareesa"
+	dynasty=6036    #County of Shan'dor Ruler
+	female= yes		
+	martial=3
+	diplomacy=6
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "acfmdxdgbcz"
+	religion="belore"
+	culture="high_elf"
+	add_trait="weak"
+	add_trait="zealous"
+	add_trait="proud"
+	add_trait="ambitious"
+	add_trait="gregarious"
+	add_trait="ugly"
+	add_trait="elf"	
+	3969.8.5 = {
+		birth="3969.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+238= {
+	name="Korien"
+	dynasty=6035    #County of Elrendar Falls and Duchy of Elrendar Ruler
+	female= yes		
+	martial=5
+	diplomacy=3
+	intrigue=4
+	stewardship=2
+	learning=2
+	dna = "bhbajukeecb"
+	religion="belore"
+	culture="high_elf"
+	add_trait="proud"
+	add_trait="brave"
+	add_trait="content"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="elf"	
+	3969.8.5 = {
+		birth="3969.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+239= {
+	name="Y’vaine"
+	dynasty=6034    #County of Elrendar Crossing Ruler
+	female= yes		
+	martial=3
+	diplomacy=5
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "dkfidocfgce"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3969.8.5 = {
+		birth="3969.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+240= {
+	name="Alassë"
+	dynasty=6033    #County of An'Daroth and Duchy of An'Daroth Ruler
+	female= yes		
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "acfmdxdgbcz"
+	religion="belore"
+	culture="high_elf"
+	add_trait="ambitious"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="elf"	
+	3970.8.5 = {
+		birth="3970.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+241= {
+	name="Ninian"
+	dynasty=6032    #County of Shalandis Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "ckhlbtmffcn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="gregarious"
+	add_trait="fair"
+	add_trait="elf"	
+	3970.8.5 = {
+		birth="3970.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+242= {
+	name="Andarion"
+	dynasty=23    #County of Windrunner and Duchy of Windrunner - Windrunner Dynasty
+	martial=7
+	diplomacy=3
+	intrigue=2
+	stewardship=5
+	learning=4
+	dna = "ckhlbtmffcn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="diligent"
+	add_trait="proud"
+	add_trait="patient"
+	add_trait="deceitful"
+	add_trait="cynical"
+	add_trait="elf"	
+	3950.8.5 = {
+		birth="3950.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+243= {
+	name="Indis"
+	dynasty=6031    #County of Windspire Ruler
+	female= yes	
+	martial=3
+	diplomacy=2
+	intrigue=7
+	stewardship=4
+	learning=5
+	dna = "cgijakdbecy"
+	religion="belore"
+	culture="high_elf"
+	add_trait="honest"
+	add_trait="lustful"
+	add_trait="genius"
+	add_trait="wounded"
+	add_trait="patient"
+	add_trait="elf"	
+	3972.3.7 = {
+		birth="3972.3.7"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+244= {
+	name="Rhydian"
+	dynasty=6030    #County of Drathir Valley Ruler
+	martial=3
+	diplomacy=1
+	intrigue=2
+	stewardship=2
+	learning=4
+	dna = "dallbjbbecd"
+	religion="belore"
+	culture="high_elf"
+	add_trait="honest"
+	add_trait="ugly"
+	add_trait="brave"
+	add_trait="cruel"
+	add_trait="patient"
+	add_trait="elf"	
+	3972.8.5 = {
+		birth="3972.3.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+245= {
+	name="Vareesa"
+	dynasty=129    #County of Moonwood Ruler
+	female= yes	
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "cgijakdbecy"
+	religion="belore"
+	culture="high_elf"
+	add_trait="shy"
+	add_trait="quick"
+	add_trait="deceitful"
+	add_trait="patient"
+	add_trait="fair"
+	add_trait="elf"	
+	3970.8.5 = {
+		birth="3970.8.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+246= {
+	name="Tholanadir"
+	dynasty=128    #County of Underlight Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "dallbjbbecd"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}		
+247= {
+	name="Edelefin"
+	dynasty=127    #County of Amandazar and Duchy of Adrazul
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "ckhlbtmffcn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}		
+248= {
+	name="Andarathel"
+	dynasty=126    #County of Sungraze Peak Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "bmibdzmcccn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}		
+249= {
+	name="Kellen"
+	dynasty=125    #County of Tranquillien Ruler and Duchy of Tranquillien Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+250= {
+	name="Viridiel"
+	dynasty=124    #County of Suncrown Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+251= {
+	name="Alden"
+	dynasty=123    #County of Thalassian Pass Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "dgcfgpljecq"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+252= {
+	name="Lutharias"
+	dynasty=122    #County of Greenwood Ruler
+	martial=5
+	diplomacy=1
+	intrigue=4
+	stewardship=2
+	learning=6
+	dna = "dallbjbbecd"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+253= {
+	name="Madrelysse"
+	dynasty=121    #County of Timberbrook Ruler
+	female= yes
+	martial=4
+	diplomacy=3
+	intrigue=4
+	stewardship=7
+	learning=6
+	dna = "cgijakdbecy"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3966.6.9 = {
+		birth="3966.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+254= {
+	name="Oglothros"
+	dynasty=115    #County of Quel'lithien Ruler
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}
+255= {
+	name="Baeddan"
+	dynasty=22    #County of Caer Darrow Ruler and Duchy of Caer Darrow Ruler
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "alllbnicbcl"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+256= {
+	name="Ryker"
+	dynasty=21    #County of Kaithdock Ruler
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "bmibdzmcccn"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+257= {
+	name="Summer"
+	dynasty=20    #County of Bronzetithe Ruler
+	martial=5
+	female=yes
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "bhbajukeecb"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+258= {
+	name="Driana"
+	dynasty=20    #County of Redpath Ruler
+	martial=5
+	female=yes
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "acfmdxdgbcz"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+290= {
+	name="Amina"
+	dynasty=19    #Barony of Court of the Sun Ruler
+	martial=5
+	female=yes
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "bhbajukeecb"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+291= {
+	name="Lúthien"
+	dynasty=18    #Barony of The Bazaar Ruler
+	martial=5
+	female=yes
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=2
+	dna = "acfmdxdgbcz"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+292= {
+	name="Driana"
+	dynasty=17    #Barony of Sunfury Spire
+	martial=4
+	female=yes
+	diplomacy=8
+	intrigue=6
+	stewardship=3
+	learning=2
+	dna = "acfmdxdgbcz"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.10.9 = {
+		birth="3964.10.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+293= {
+	name="Diana"
+	dynasty=16    #Barony of Farstrider Square Ruler
+	martial=3
+	female=yes
+	diplomacy=5
+	intrigue=4
+	stewardship=3
+	learning=7
+	dna = "xddaylgyxcj"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3964.6.9 = {
+		birth="3964.6.9"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}		
+294= {
+	name="Laeran"
+	dynasty=15    #Barony of The Royal Exchange Ruler
+	martial=8
+	diplomacy=5
+	intrigue=4
+	stewardship=2
+	learning=2
+	dna = "udldelcshrp"
+	religion="belore"
+	culture="high_elf"
+	add_trait="elf"	
+	3971.3.5 = {
+		birth="3971.3.5"
+		}
+	4182.5.23={
+		death="4182.5.23"
+		}
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	

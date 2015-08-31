@@ -1,0 +1,14 @@
+# 10 - Duskwither
+
+# County Title
+title = c_duskwither
+
+# Settlements
+max_settlements = 4
+b_duskwither = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

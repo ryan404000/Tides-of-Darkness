@@ -1,0 +1,14 @@
+# 42 - Uta-Tek
+
+# County Title
+title = c_uta_tek
+
+# Settlements
+max_settlements = 7
+b_uta_tek = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,467 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+PROV1;Sunspire;Sunspire;Sunspire;;Sunspire;;;;;;;;;x
+PROV2;Falthrien;Falthrien;Falthrien;;Falthrien;;;;;;;;;x
+PROV3;Silverisle;Silverisle;Silverisle;;Silverisle;;;;;;;;;x
+PROV4;Sunwell Plateau;Sunwell Plateau;Sunwell Plateau;;Sunwell Plateau;;;;;;;;;x
+PROV5;Magister's Terrace;Magister's Terrace;Magister's Terrace;;Magister's Terrace;;;;;;;;;x
+PROV6;Sun's Reach;Sun's Reach;Sun's Reach;;Sun's Reach;;;;;;;;;x
+PROV7;Silvermoon City;Silvermoon City;Silvermoon City;;Silvermoon City;;;;;;;;;x
+PROV8;Falconwing;Falconwing;Falconwing;;Falconwing;;;;;;;;;x
+PROV9;Sun's Crossing;Sun's Crossing;Sun's Crossing;;Sun's Crossing;;;;;;;;;x
+PROV10;Duskwither;Duskwither;Duskwither;;Duskwither;;;;;;;;;x
+PROV11;Arcanus;Arcanus;Arcanus;;Arcanus;;;;;;;;;x
+PROV12;Shepherd's Gate;Shepherd's Gate;Shepherd's Gate;;Shepherd's Gate;;;;;;;;;x
+PROV13;Farstrider Retreat;Farstrider Retreat;Farstrider Retreat;;Farstrider Retreat;;;;;;;;;x
+PROV14;Porcelanas;Porcelanas;Porcelanas;;Porcelanas;;;;;;;;;x
+PROV15;Glintwater;Glintwater;Glintwater;;Glintwater;;;;;;;;;x
+PROV16;Tranquil Shore;Tranquil Shore;Tranquil Shore;;Tranquil Shore;;;;;;;;;x
+PROV17;Fairbreeze;Fairbreeze;Fairbreeze;;Fairbreeze;;;;;;;;;x
+PROV18;Sunsail;Sunsail;Sunsail;;Sunsail;;;;;;;;;x
+PROV19;Luminvale;Luminvale;Luminvale;;Luminvale;;;;;;;;;x
+PROV20;Cherrygrove;Cherrygrove;Cherrygrove;;Cherrygrove;;;;;;;;;x
+PROV21;Pallaroth;Pallaroth;Pallaroth;;Pallaroth;;;;;;;;;x
+PROV22;Goldenmist;Goldenmist;Goldenmist;;Goldenmist;;;;;;;;;x
+PROV23;Falithas;Falithas;Falithas;;Falithas;;;;;;;;;x
+PROV24;Shalandis;Shalandis;Shalandis;;Shalandis;;;;;;;;;x
+PROV25;Shan'dor;Shan'dor;Shan'dor;;Shan'dor;;;;;;;;;x
+PROV26;Elrendar Falls;Elrendar Falls;Elrendar Falls;;Elrendar Falls;;;;;;;;;x
+PROV27;Elrendar Crossing;Elrendar Crossing;Elrendar Crossing;;Elrendar Crossing;;;;;;;;;x
+PROV28;An'daroth;An'daroth;An'daroth;;An'daroth;;;;;;;;;x
+PROV29;Tranquillien;Tranquillien;Tranquillien;;Tranquillien;;;;;;;;;x
+PROV30;Suncrown;Suncrown;Suncrown;;Suncrown;;;;;;;;;x
+PROV31;Greenwood;Greenwood;Greenwood;;Greenwood;;;;;;;;;x
+PROV32;Thalassian Pass;Thalassian Pass;Thalassian Pass;;Thalassian Pass;;;;;;;;;x
+PROV33;Windspire;Windspire;Windspire;;Windspire;;;;;;;;;x
+PROV34;Windrunner;Windrunner;Windrunner;;Windrunner;;;;;;;;;x
+PROV35;Underlight;Underlight;Underlight;;Underlight;;;;;;;;;x
+PROV36;Moonwood;Moonwood;Moonwood;;Moonwood;;;;;;;;;x
+PROV37;Drathir Valley;Drathir Valley;Drathir Valley;;Drathir Valley;;;;;;;;;x
+PROV38;Zeb'Sora;Zeb'Sora;Zeb'Sora;;Zeb'Sora;;;;;;;;;x
+PROV39;Zeb'Watha;Zeb'Watha;Zeb'Watha;;Zeb'Watha;;;;;;;;;x
+PROV40;Tor'Watha;Tor'Watha;Tor'Watha;;Tor'Watha;;;;;;;;;x
+PROV41;Icemorn Peak;Icemorn Peak;Icemorn Peak;;Icemorn Peak;;;;;;;;;x
+PROV42;Uta-Tek;Uta-Tek;Uta-Tek;;Uta-Tek;;;;;;;;;x
+PROV43;Nalorakk;Nalorakk;Nalorakk;;Nalorakk;;;;;;;;;x
+PROV44;Halazzi;Halazzi;Halazzi;;Halazzi;;;;;;;;;x
+PROV45;North Abassi;North Abassi;North Abassi;;North Abassi;;;;;;;;;x
+PROV46;South Abassi;South Abassi;South Abassi;;South Abassi;;;;;;;;;x
+PROV47;Maisara Hills;Maisara Hills;Maisara Hills;;Maisara Hills;;;;;;;;;x
+PROV48;Stonespear Shelf;Stonespear Shelf;Stonespear Shelf;;Stonespear Shelf;;;;;;;;;x
+PROV49;Hatchet Hills;Hatchet Hills;Hatchet Hills;;Hatchet Hills;;;;;;;;;x
+PROV50;Zeb'Tela;Zeb'Tela;Zeb'Tela;;Zeb'Tela;;;;;;;;;x
+PROV51;Zeb'Nowa;Zeb'Nowa;Zeb'Nowa;;Zeb'Nowa;;;;;;;;;x
+PROV52;Amani Pass;Amani Pass;Amani Pass;;Amani Pass;;;;;;;;;x
+PROV53;Agol'gazu;Agol'gazu;Agol'gazu;;Agol'gazu;;;;;;;;;x
+PROV54;Amandazar;Amandazar;Amandazar;;Amandazar;;;;;;;;;x
+PROV55;Sungraze Peak;Sungraze Peak;Sungraze Peak;;Sungraze Peak;;;;;;;;;x
+PROV56;South Elrendar;South Elrendar;South Elrendar;;South Elrendar;;;;;;;;;x
+PROV57;Zul'Mashar;Zul'Mashar;Zul'Mashar;;Zul'Mashar;;;;;;;;;x
+PROV58;Wathwani;Wathwani;Wathwani;;Wathwani;;;;;;;;;x
+PROV59;Mazra'Alor;Mazra'Alor;Mazra'Alor;;Mazra'Alor;;;;;;;;;x
+PROV60;Myrungo;Myrungo;Myrungo;;Myrungo;;;;;;;;;x
+PROV61;Tokk'Alor;Tokk'Alor;Tokk'Alor;;Tokk'Alor;;;;;;;;;x
+PROV62;Mossers Stride;Mossers Stride;Mossers Stride;;Mossers Stride;;;;;;;;;x
+PROV63;Zeb'Hajum;Zeb'Hajum;Zeb'Hajum;;Zeb'Hajum;;;;;;;;;x
+PROV64;Wolfcreek;Wolfcreek;Wolfcreek;;Wolfcreek;;;;;;;;;x
+PROV65;Caer Leurenholde;Caer Leurenholde;Caer Leurenholde;;Caer Leurenholde;;;;;;;;;x
+PROV66;Eastwall;Eastwall;Eastwall;;Eastwall;;;;;;;;;x
+PROV67;Mancaster;Mancaster;Mancaster;;Mancaster;;;;;;;;;x
+PROV68;Garithal;Garithal;Garithal;;Garithal;;;;;;;;;x
+PROV69;Browland;Browland;Browland;;Browland;;;;;;;;;x
+PROV70;Northdale;Northdale;Northdale;;Northdale;;;;;;;;;x
+PROV71;Northclutch;Northclutch;Northclutch;;Northclutch;;;;;;;;;x
+PROV72;Brawling Hills;Brawling Hills;Brawling Hills;;Brawling Hills;;;;;;;;;x
+PROV73;Colester;Colester;Colester;;Colester;;;;;;;;;x
+PROV74;Rodwick;Rodwick;Rodwick;;Rodwick;;;;;;;;;x
+PROV75;Gregor's Valley;Gregor's Valley;Gregor's Valley;;Gregor's Valley;;;;;;;;;x
+PROV76;Agol'watha;Agol'watha;Agol'watha;;Agol'watha;;;;;;;;x
+PROV77;Agol'nemor;Agol'nemor;Agol'nemor;;Agol'nemor;;;;;;;;;x
+PROV78;Skulk Rock;Skulk Rock;Skulk Rock;;Skulk Rock;;;;;;;;;x
+PROV79;Shaol'watha;Shaol'watha;Shaol'watha;;Shaol'watha;;;;;;;;;x
+PROV80;Skulkfields;Skulkfields;Skulkfields;;Skulkfields;;;;;;;;;x
+PROV81;Green Motte;Green Motte;Green Motte;;Green Motte;;;;;;;;;x
+PROV82;Autumn's Axe;Autumn's Axe;Autumn's Axe;;Autumn's Axe;;;;;;;;;x
+PROV83;Seradine Gorge;Seradine Gorge;Seradine Gorge;;Seradine Gorge;;;;;;;;;x
+PROV84;Dragon Heights;Dragon Heights;Dragon Heights;;Dragon Heights;;;;;;;;;x
+PROV85;Zin'alor;Zin'alor;Zin'alor;;Zin'alor;;;;;;;;;x
+PROV86;Serapath;Serapath;Serapath;;Serapath;;;;;;;;;x
+PROV87;Natoril;Natoril;Natoril;;Natoril;;;;;;;;;x
+PROV88;Enthallor;Enthallor;Enthallor;;Enthallor;;;;;;;;;x
+PROV89;Aerie Peak;Aerie Peak;Aerie Peak;;Aerie Peak;;;;;;;;;x
+PROV90;Solgan's Hope;Solgan's Hope;Solgan's Hope;;Solgan's Hope;;;;;;;;;x
+PROV91;Aerie Gap;Aerie Gap;Aerie Gap;;Aerie Gap;;;;;;;;;x
+PROV92;Zun'kree;Zun'kree;Zun'kree;;Zun'kree;;;;;;;;;x
+PROV93;Gurzundra;Gurzundra;Gurzundra;;Gurzundra;;;;;;;;;x
+PROV94;Zul'Nallor;Zul'Nallor;Zul'Nallor;;Zul'Nallor;;;;;;;;;x
+PROV95;Gahzrak;Gahzrak;Gahzrak;;Gahzrak;;;;;;;;;x
+PROV96;Waniwona;Waniwona;Waniwona;;Waniwona;;;;;;;;;x
+PROV97;Revan Cays;Revan Cays;Revan Cays;;Revan Cays;;;;;;;;;x
+PROV98;Axewash;Axewash;Axewash;;Axewash;;;;;;;;;x
+PROV99;Revantusk;Revantusk;Revantusk;;Revantusk;;;;;;;;;x
+PROV100;Lowtusks;Lowtusks;Lowtusks;;Lowtusks;;;;;;;;;x
+PROV101;Knollmarch;Knollmarch;Knollmarch;;Knollmarch;;;;;;;;;x
+PROV102;Bloodmarch;Bloodmarch;Bloodmarch;;Bloodmarch;;;;;;;;;x
+PROV103;Hiri'watha;Hiri'watha;Hiri'watha;;Hiri'watha;;;;;;;;;x
+PROV104;Shaol'ekk;Shaol'ekk;Shaol'ekk;;Shaol'ekk;;;;;;;;;x
+PROV105;Green Downs;Green Downs;Green Downs;;Green Downs;;;;;;;;;x
+PROV106;Jinth'watha;Jinth'watha;Jinth'watha;;Jinth'watha;;;;;;;;;x
+PROV107;Jintha'Alor;Jintha'Alor;Jintha'Alor;;Jintha'Alor;;;;;;;;;x
+PROV108;Zeb'Ongo;Zeb'Ongo;Zeb'Ongo;;Zeb'Ongo;;;;;;;;;x
+PROV109;Emer'watha;Emer'watha;Emer'watha;;Emer'watha;;;;;;;;;x
+PROV110;Shadra'Alor;Shadra'Alor;Shadra'Alor;;Shadra'Alor;;;;;;;;;x
+PROV111;Shadrub;Shadrub;Shadrub;;Shadrub;;;;;;;;;x
+PROV112;Kon'watha;Kon'watha;Kon'watha;;Kon'watha;;;;;;;;;x
+PROV113;Withervale;Withervale;Withervale;;Withervale;;;;;;;;;x
+PROV114;Plowtusks;Plowtusks;Plowtusks;;Plowtusks;;;;;;;;;x
+PROV115;Wildhorse;Wildhorse;Wildhorse;;Wildhorse;;;;;;;;;x
+PROV116;Trolltills;Trolltills;Trolltills;;Trolltills;;;;;;;;;x
+PROV117;Zul'Taz;Zul'Taz;Zul'Taz;;Zul'Taz;;;;;;;;;x
+PROV118;Light's Rest;Light's Rest;Light's Rest;;Light's Rest;;;;;;;;;x
+PROV119;Monastic Highlands;Monastic Highlands;Monastic Highlands;;Monastic Highlands;;;;;;;;;x
+PROV120;Graniteshelf;Graniteshelf;Graniteshelf;;Graniteshelf;;;;;;;;;x
+PROV121;Venomweb;Venomweb;Venomweb;;Venomweb;;;;;;;;;x
+PROV122;Knightsfield;Knightsfield;Knightsfield;;Knightsfield;;;;;;;;;x
+PROV123;Balnir;Balnir;Balnir;;Balnir;;;;;;;;;x
+PROV124;Kingsgrant;Kingsgrant;Kingsgrant;;Kingsgrant;;;;;;;;;x
+PROV125;Fellicent's Hold;Fellicent's Hold;Fellicent's Hold;;Fellicent's Hold;;;;;;;;;x
+PROV126;Vandermar;Vandermar;Vandermar;;Vandermar;;;;;;;;;x
+PROV127;Violet Marsh;Violet Marsh;Violet Marsh;;Violet Marsh;;;;;;;;;x
+PROV128;Alterange;Alterange;Alterange;;Alterange;;;;;;;;;x
+PROV129;Lower Kingsknell;Lower Kingsknell;Lower Kingsknell;;Lower Kingsknell;;;;;;;;;x
+PROV130;Upper Kingsknell;Upper Kingsknell;Upper Kingsknell;;Upper Kingsknell;;;;;;;;;x
+PROV131;Tourneyfield;Tourneyfield;Tourneyfield;;Tourneyfield;;;;;;;;;x
+PROV132;Walnutwood;Walnutwood;Walnutwood;;Walnutwood;;;;;;;;;x
+PROV133;Alastrenas;Alastrenas;Alastrenas;;Alastrenas;;;;;;;;;x
+PROV134;Calston;Calston;Calston;;Calston;;;;;;;;;x
+PROV135;Brightwater Lake;Brightwater Lake;Brightwater Lake;;Brightwater Lake;;;;;;;;;x
+PROV136;Derrington;Derrington;Derrington;;Derrington;;;;;;;;;x
+PROV137;Eidre's Watch;Eidre's Watch;Eidre's Watch;;Eidre's Watch;;;;;;;;;x
+PROV138;Luthien;Luthien;Luthien;;Luthien;;;;;;;;;x
+PROV139;North Brill;North Brill;North Brill;;North Brill;;;;;;;;;x
+PROV140;Garthsport;Garthsport;Garthsport;;Garthsport;;;;;;;;;x
+PROV141;Pointe;Pointe;Pointe;;Pointe;;;;;;;;;x
+PROV142;North Haven;North Haven;North Haven;;North Haven;;;;;;;;;x
+PROV143;Tammon;Tammon;Tammon;;Tammon;;;;;;;;;x
+PROV144;Dartchill;Dartchill;Dartchill;;Dartchill;;;;;;;;;x
+PROV145;Lordaeron Harbor;Lordaeron Harbor;Lordaeron Harbor;;Lordaeron Harbor;;;;;;;;;x
+PROV146;Lordaeron;Lordaeron;Lordaeron;;Lordaeron;;;;;;;;;x
+PROV147;North Lordamere;North Lordamere;North Lordamere;;North Lordamere;;;;;;;;;x
+PROV148;South Brill;South Brill;South Brill;;South Brill;;;;;;;;;x
+PROV149;Copperdell;Copperdell;Copperdell;;Copperdell;;;;;;;;;x
+PROV150;Westaeron;Westaeron;Westaeron;;Westaeron;;;;;;;;;x
+PROV151;Valor Harbor;Valor Harbor;Valor Harbor;;Valor Harbor;;;;;;;;;x
+PROV152;Tiran Motte;Tiran Motte;Tiran Motte;;Tiran Motte;;;;;;;;;x
+PROV153;Bellforge;Bellforge;Bellforge;;Bellforge;;;;;;;;;x
+PROV154;Brill;Brill;Brill;;Brill;;;;;;;;;x
+PROV155;Brill's Fiefs;Brill's Fiefs;Brill's Fiefs;;Brill's Fiefs;;;;;;;;;x
+PROV156;Coldhearth;Coldhearth;Coldhearth;;La Coldhearth;;;;;;;;;x
+PROV157;Oakchalice;Oakchalice;Oakchalice;;Oakchalice;;;;;;;;;x
+PROV158;Knellcrest;Knellcrest;Knellcrest;;Knellcrest;;;;;;;;;x
+PROV159;Northtide's Run;Northtide's Run;Northtide's Run;;Northtide's Run;;;;;;;;;x
+PROV160;Averass;Averass;Averass;;Averass;;;;;;;;;x
+PROV161;Greathollow;Greathollow;Greathollow;;Greathollow;;;;;;;;;x
+PROV162;Sepulcher;Sepulcher;Sepulcher;;Sepulcher;;;;;;;;;x
+PROV163;Garr's Mill;Garr's Mill;Garr's Mill;;Garr's Mill;;;;;;;;;x
+PROV164;Winnsower;Winnsower;Winnsower;;Winnsower;;;;;;;;;x
+PROV165;Grainland;Grainland;Grainland;;Grainland;;;;;;;;;x
+PROV166;Bevenland;Bevenland;Bevenland;;Bevenland;;;;;;;;;x
+PROV167;Casterwich;Casterwich;Casterwich;;Casterwich;;;;;;;;;x
+PROV168;Stratholme;Stratholme;Stratholme;;Stratholme;;;;;;;;;x
+PROV169;Mount Stratos;Mount Stratos;Mount Stratos;;Mount Stratos;;;;;;;;;x
+PROV170;Tannerdale;Tannerdale;Tannerdale;;Tannerdale;;;;;;;;;x
+PROV171;Rivonholde;Rivonholde;Rivonholde;;Rivonholde;;;;;;;;;x
+PROV172;Stonnell;Stonnell;Stonnell;;Stonnell;;;;;;;;;x
+PROV173;Cavern Heights;Cavern Heights;Cavern Heights;;Cavern Heights;;;;;;;;;x
+PROV174;Hearthglen;Hearthglen;Hearthglen;;Hearthglen;;;;;;;;;x
+PROV175;Hearth's Descent;Hearth's Descent;Hearth's Descent;;Hearth's Descent;;;;;;;;;x
+PROV176;Raltenford;Raltenford;Raltenford;;Raltenford;;;;;;;;;x
+PROV177;Westking;Westking;Westking;;Westking;;;;;;;;;x
+PROV178;Eastking;Eastking;Eastking;;Eastking;;;;;;;;;x
+PROV179;Blackwood Hills;Blackwood Hills;Blackwood Hills;;Blackwood Hills;;;;;;;;;x
+PROV180;Irongem;Irongem;Irongem;;Irongem;;;;;;;;;x
+PROV181;Hillchurch;Hillchurch;Hillchurch;;Hillchurch;;;;;;;;;x
+PROV182;Northpass Hill;Northpass Hill;Northpass Hill;;Northpass Hill;;;;;;;;;x
+PROV183;Ivanth Fen;Ivanth Fen;Ivanth Fen;;Ivanth Fen;;;;;;;;;x
+PROV184;Ire Vigil;Ire Vigil;Ire Vigil;;Ire Vigil;;;;;;;;;x
+PROV185;Timberbrook;Timberbrook;Timberbrook;;Timberbrook;;;;;;;;;x
+PROV186;Adorric;Adorric;Adorric;;Adorric;;;;;;;;;x
+PROV187;Quel'Lithien;Quel'Lithien;Quel'Lithien;;Quel'Lithien;;;;;;;;;x
+PROV188;Preston;Preston;Preston;;Preston;;;;;;;;;x
+PROV189;Greenriver;Greenriver;Greenriver;;Greenriver;;;;;;;;;x
+PROV190;Thondroril Falls;Thondroril Falls;Thondroril Falls;;Thondroril Falls;;;;;;;;;x
+PROV191;Marrisvale;Marrisvale;Marrisvale;;Marrisvale;;;;;;;;;x
+PROV192;Matthidan;Matthidan;Matthidan;;Matthidan;;;;;;;;;x
+PROV193;Tasser;Tasser;Tasser;;Tasser;;;;;;;;;x
+PROV194;Crestan Hold;Crestan Hold;Crestan Hold;;Crestan Hold;;;;;;;;;x
+PROV195;Ryefiefs;Ryefiefs;Ryefiefs;;Ryefiefs;;;;;;;;;x
+PROV196;Sorrow Hill;Sorrow Hill;Sorrow Hill;;Sorrow Hill;;;;;;;;;x
+PROV197;Redhill;Redhill;Redhill;;Redhill;;;;;;;;;x
+PROV198;Chillsmouth;Chillsmouth;Chillsmouth;;Chillsmouth;;;;;;;;;x
+PROV199;Crowsburg;Crowsburg;Crowsburg;;Crowsburg;;;;;;;;;x
+PROV200;Ravines Rush;Ravines Rush;Ravines Rush;;Ravines Rush;;;;;;;;;x
+PROV201;Caer Darrow;Caer Darrow;Caer Darrow;;Caer Darrow;;;;;;;;;x
+PROV202;Bronzetithe;Bronzetithe;Bronzetithe;;Bronzetithe;;;;;;;;;x
+PROV203;Kaithdock;Kaithdock;Kaithdock;;Kaithdock;;;;;;;;;x
+PROV204;Redpath;Redpath;Redpath;;Redpath;;;;;;;;;x
+PROV205;Darrowshire;Darrowshire;Darrowshire;;Darrowshire;;;;;;;;;x
+PROV206;Crownguard;Crownguard;Crownguard;;Crownguard;;;;;;;;;x
+PROV207;Shuckford;Shuckford;Shuckford;;Shuckford;;;;;;;;;x
+PROV208;NULL;NULL;NULL;;NULL;;;;;;;;;x
+PROV209;Creedfallow;Creedfallow;Creedfallow;;Creedfallow;;;;;;;;;x
+PROV210;Aerie Mountains;Aerie Mountains;Aerie Mountains;;Aerie Mountains;;;;;;;;;x
+PROV211;Corin's Crossing;Corin's Crossing;Corin's Crossing;;Corin's Crossing;;;;;;;;;x
+PROV212;Gardenfield;Gardenfield;Gardenfield;;Gardenfield;;;;;;;;;x
+PROV213;Mereldar;Mereldar;Mereldar;;Mereldar;;;;;;;;;x
+PROV214;Harewood Hills;Harewood Hills;Harewood Hills;;Harewood Hills;;;;;;;;;x
+PROV215;Tyr's Hand;Tyr's Hand;Tyr's Hand;;Tyr's Hand;;;;;;;;;x
+PROV216;Ironsheer;Ironsheer;Ironsheer;;Ironsheer;;;;;;;;;x
+PROV217;Stratheaune;Stratheaune;Stratheaune;;Stratheaune;;;;;;;;;x
+PROV218;Light's Hope;Light's Hope;Light's Hope;;Light's Hope;;;;;;;;;x
+PROV219;Harewood;Harewood;Harewood;;Harewood;;;;;;;;;x
+PROV220;Redburg;Redburg;Redburg;;Redburg;;;;;;;;;x
+PROV221;Browdale;Browdale;Browdale;;Browdale;;;;;;;;;x
+PROV222;Highreach;Highreach;Highreach;;Highreach;;;;;;;;;x
+PROV223;Calvor;Calvor;Calvor;;Calvor;;;;;;;;;x
+PROV224;Havenshire;Havenshire;Havenshire;;Havenshire;;;;;;;;;x
+PROV225;Lightsbeacon;Lightsbeacon;Lightsbeacon;;Lightsbeacon;;;;;;;;;x
+PROV226;Light's Point;Light's Point;Light's Point;;Light's Point;;;;;;;;;x
+PROV227;Stoneshroud;Stoneshroud;Stoneshroud;;Stoneshroud;;;;;;;;;x
+PROV228;Tyr's Bay;Tyr's Bay;Tyr's Bay;;Tyr's Bay;;;;;;;;;x
+PROV229;Tyr's Clasp;Tyr's Clasp;Tyr's Clasp;;Tyr's Clasp;;;;;;;;;x
+PROV230;King's Harbor;King's Harbor;King's Harbor;;King's Harbor;;;;;;;;;x
+PROV231;Stronghold Isle;Stronghold Isle;Stronghold Isle;;Stronghold Isle;;;;;;;;;x
+PROV232;Drollard;Drollard;Drollard;;Drollard;;;;;;;;;x
+PROV233;Andorhal;Andorhal;Andorhal;;Andorhal;;;;;;;;;x
+PROV234;Riverlock;Riverlock;Riverlock;;Riverlock;;;;;;;;;x
+PROV235;Upper Andor;Upper Andor;Upper Andor;;Upper Andor;;;;;;;;;x
+PROV236;Lower Andor;Lower Andor;Lower Andor;;Lower Andor;;;;;;;;;x
+PROV237;Andor;Andor;Andor;;Andor;;;;;;;;;x
+PROV238;Bainridge;Bainridge;Bainridge;;Bainridge;;;;;;;;;x
+PROV239;Shadetrack;Shadetrack;Shadetrack;;Shadetrack;;;;;;;;;x
+PROV240;Arborknoll;Arborknoll;Arborknoll;;Arborknoll;;;;;;;;;x
+PROV241;Bakersville;Bakersville;Bakersville;;Bakersville;;;;;;;;;x
+PROV242;Northridge;Northridge;Northridge;;Northridge;;;;;;;;;x
+PROV243;Mardenspring;Mardenspring;Mardenspring;;Mardenspring;;;;;;;;;x
+PROV244;Timberswell;Timberswell;Timberswell;;Timberswell;;;;;;;;;x
+PROV245;Dumah Hold;Dumah Hold;Dumah Hold;;Dumah Hold;;;;;;;;;x
+PROV246;Redpine Dell;Redpine Dell;Redpine Dell;;Redpine Dell;;;;;;;;;x
+PROV247;Redham;Redham;Redham;;Redham;;;;;;;;;x
+PROV248;Weepinghill;Weepinghill;Weepinghill;;Weepinghill;;;;;;;;;x
+PROV249;Writhingtree;Writhingtree;Writhingtree;;Writhingtree;;;;;;;;;x
+PROV250;Princehill;Princehill;Princehill;;Princehill;;;;;;;;;x
+PROV251;Gahrron;Gahrron;Gahrron;;Gahrron;;;;;;;;;x
+PROV252;Thondale;Thondale;Thondale;;Thondale;;;;;;;;;x
+PROV253;Hearthhold;Hearthhold;Hearthhold;;Hearthhold;;;;;;;;;x
+PROV254;Strom;Strom;Strom;;Strom;;;;;;;;;x
+PROV255;Whitestone;Whitestone;Whitestone;;Whitestone;;;;;;;;;x
+PROV256;Arathifold;Arathifold;Arathifold;;Arathifold;;;;;;;;;x
+PROV257;Thordir;Thordir;Thordir;;Thordir;;;;;;;;;x
+PROV258;Tarnishrock;Tarnishrock;Tarnishrock;;Tarnishrock;;;;;;;;;x
+PROV259;Faldir Cove;Faldir Cove;Faldir Cove;;Faldir Cove;;;;;;;;;x
+PROV260;Amaren Rise;Amaren Rise;Amaren Rise;;Amaren Rise;;;;;;;;;x
+PROV261;Endarth Vice;Endarth Vice;Endarth Vice;;Endarth Vice;;;;;;;;;x
+PROV262;Manorsfield;Manorsfield;Manorsfield;;Manorsfield;;;;;;;;;x
+PROV263;Hinterroads;Hinterroads;Hinterroads;;Hinterroads;;;;;;;;;x
+PROV264;Stocksfield;Stocksfield;Stocksfield;;Stocksfield;;;;;;;;;x
+PROV265;Twicepatch;Twicepatch;Twicepatch;;Twicepatch;;;;;;;;;x
+PROV266;Thedge;Thedge;Thedge;;Thedge;;;;;;;;;x
+PROV267;Arusthilde;Arusthilde;Arusthilde;;Arusthilde;;;;;;;;;x
+PROV268;Tyrenn;Tyrenn;Tyrenn;;Tyrenn;;;;;;;;;x
+PROV269;Thandor;Thandor;Thandor;;Thandor;;;;;;;;;x
+PROV270;Fallowhand;Fallowhand;Fallowhand;;Fallowhand;;;;;;;;;x
+PROV271;Hence;Hence;Hence;;Hence;;;;;;;;;x
+PROV272;Thalstad's Hold;Thalstad's Hold;Thalstad's Hold;;Thalstad's Hold;;;;;;;;;x
+PROV273;Ridingplains;Ridingplains;Ridingplains;;Ridingplains;;;;;;;;;x
+PROV274;Equindare;Bergenhus;Equindare;;Equindare;;;;;;;;;x
+PROV275;Low Arathor;Low Arathor;Low Arathor;;Low Arathor;;;;;;;;;x
+PROV276;Great Arathor;Great Arathor;Great Arathor;;Great Arathor;;;;;;;;;x
+PROV277;Thorvan;Thorvan;Thorvan;;Thorvan;;;;;;;;;x
+PROV278;Pledgestone;Pledgestone;Pledgestone;;Pledgestone;;;;;;;;;x
+PROV279;Arathi Basin;Arathi Basin;Arathi Basin;;Arathi Basin;;;;;;;;;x
+PROV280;Esoradin;Esoradin;Esoradin;;Esoradin;;;;;;;;;x
+PROV281;Ganthor;Ganthor;Ganthor;;Ganthor;;;;;;;;;x
+PROV282;Westwall;Westwall;Westwall;;Westwall;;;;;;;;;x
+PROV283;Alterac City;Alterac City;Alterac City;;Alterac City;;;;;;;;;x
+PROV284;Aesbrahd;Aesbrahd;Aesbrahd;;Aesbrahd;;;;;;;;;x
+PROV285;Vallis;Vallis;Vallis;;Vallis;;;;;;;;;x
+PROV286;Setimbough;Setimbough;Setimbough;;Setimbough;;;;;;;;;x
+PROV287;Greatfount;Greatfount;Greatfount;;Greatfount;;;;;;;;;x
+PROV288;Benenbrad;Benenbrad;Benenbrad;;Benenbrad;;;;;;;;;x
+PROV289;Strahnbrad;Strahnbrad;Strahnbrad;;Strahnbrad;;;;;;;;;x
+PROV290;Orenhall;Orenhall;Orenhall;;Orenhall;;;;;;;;;x
+PROV291;Perenholdt;Perenholdt;Perenholdt;;Perenholdt;;;;;;;;;x
+PROV292;Verdinn Hills;Verdinn Hills;Verdinn Hills;;Verdinn Hills;;;;;;;;;x
+PROV293;Jurthir;Jurthir;Jurthir;;Jurthir;;;;;;;;;x
+PROV294;Chillwind Basin;Chillwind Basin;Chillwind Basin;;Chillwind Basin;;;;;;;;;x
+PROV295;Chillwind Point;Chillwind Point;Chillwind Point;;Chillwind Point;;;;;;;;;x
+PROV296;South Chillwind;South Chillwind;South Chillwind;;South Chillwind;;;;;;;;;x
+PROV297;Ravenholdt;Ravenholdt;Ravenholdt;;Ravenholdt;;;;;;;;;x
+PROV298;Alterie;Alterie;Alterie;;Alterie;;;;;;;;;x
+PROV299;Dunn Vell;Dunn Vell;Dunn Vell;;Dunn Vell;;;;;;;;;x
+PROV300;Tarren Mill;Tarren Mill;Tarren Mill;;Tarren Mill;;;;;;;;;x
+PROV301;Nethander;Nethander;Nethander;;Nethander;;;;;;;;;x
+PROV302;Durnholde;Durnholde;Durnholde;;Durnholde;;;;;;;;;x
+PROV303;Corrahn's Dagger;Corrahn's Dagger;Corrahn's Dagger;;Corrahn's Dagger;;;;;;;;;x
+PROV304;Durnenfield;Durnenfield;Durnenfield;;Durnenfield;;;;;;;;;x
+PROV305;Alterac Valley;Alterac Valley;Alterac Valley;;Alterac Valley;;;;;;;;;x
+PROV306;Gallowcorner;Gallowcorner;Gallowcorner;;Gallowcorner;;;;;;;;;x
+PROV307;Gavin's Naze;Gavin's Naze;Gavin's Naze;;Gavin's Naze;;;;;;;;;x
+PROV308;Juroon;Juroon;Juroon;;Juroon;;;;;;;;;x
+PROV309;Southshore;Southshore;Southshore;;Southshore;;;;;;;;;x
+PROV310;Hasic;Hasic;Hasic;;Hasic;;;;;;;;;x
+PROV311;Thondroril Delta;Thondroril Delta;Thondroril Delta;;Thondroril Delta;;;;;;;;;x
+PROV312;Dandred's Fold;Dandred's Fold;Dandred's Fold;;Dandred's Fold;;;;;;;;;x
+PROV313;Uplands;Uplands;Uplands;;Uplands;;;;;;;;;x
+PROV314;Lordamere Pass;Lordamere Pass;Lordamere Pass;;Lordamere Pass;;;;;;;;;x
+PROV315;Mistshore;Mistshore;Mistshore;;Mistshore;;;;;;;;;x
+PROV316;Gilneas;Gilneas;Gilneas;;Gilneas;;;;;;;;;x
+PROV317;Greyforth;Greyforth;Greyforth;;Greyforth;;;;;;;;;x
+PROV318;Deepmoor;Deepmoor;Deepmoor;;Deepmoor;;;;;;;;;x
+PROV319;Stormglen;Stormglen;Stormglen;;Stormglen;;;;;;;;;x
+PROV320;Blackwald;Blackwald;Blackwald;;Blackwald;;;;;;;;;x
+PROV321;Ettindwell;Ettindwell;Ettindwell;;Ettindwell;;;;;;;;;x
+PROV322;Steeproad;Steeproad;Steeproad;;Steeproad;;;;;;;;;x
+PROV323;Ashbury;Ashbury;Ashbury;;Ashbury;;;;;;;;;x
+PROV324;Waldenholde;Waldenholde;Waldenholde;;Waldenholde;;;;;;;;;x
+PROV325;Tempest's Reach;Tempest's Reach;Tempest's Reach;;Tempest's Reach;;;;;;;;;x
+PROV326;Sheeptrack;Sheeptrack;Sheeptrack;;Sheeptrack;;;;;;;;;x
+PROV327;Godwynn;Godwynn;Godwynn;;Godwynn;;;;;;;;;x
+PROV328;Silverlaine;Silverlaine;Silverlaine;;Silverlaine;;;;;;;;;x
+PROV329;Pyrewood;Pyrewood;Pyrewood;;Pyrewood;;;;;;;;;x
+PROV330;Southtide's Run;Southtide's Run;Southtide's Run;;Southtide's Run;;;;;;;;;x
+PROV331;Oldmarch Farthing;Oldmarch Farthing;Oldmarch Farthing;;Oldmarch Farthing;;;;;;;;;x
+PROV332;Duskmist;Duskmist;Duskmist;;Duskmist;;;;;;;;;x
+PROV333;Duskhaven;Duskhaven;Duskhaven;;Duskhaven;;;;;;;;;x
+PROV334;Cotter Rock;Cotter Rock;Cotter Rock;;Cotter Rock;;;;;;;;;x
+PROV335;Greyreef;Greyreef;Greyreef;;Greyreef;;;;;;;;;x
+PROV336;Gilneawood;Gilneawood;Gilneawood;;Gilneawood;;;;;;;;;x
+PROV337;Birchrock;Birchrock;Birchrock;;Birchrock;;;;;;;;;x
+PROV338;Bitehold;Bitehold;Bitehold;;Bitehold;;;;;;;;;x
+PROV339;Adericshire;Adericshire;Adericshire;;Adericshire;;;;;;;;;x
+PROV340;Wellwick;Wellwick;Wellwick;;Wellwick;;;;;;;;;x
+PROV341;Archell;Archell;Archell;;Archell;;;;;;;;;x
+PROV342;Emberstone;Emberstone;Emberstone;;Emberstone;;;;;;;;;x
+PROV343;Northgate;Northgate;Northgate;;Northgate;;;;;;;;;x
+PROV344;Liner's Tide;Liner's Tide;Liner's Tide;;Liner's Tide;;;;;;;;;x
+PROV345;Garnetwash;Garnetwash;Garnetwash;;Garnetwash;;;;;;;;;x
+PROV346;Reevelind;Reevelind;Reevelind;;Reevelind;;;;;;;;;x
+PROV347;Berenfell;Berenfell;Berenfell;;Berenfell;;;;;;;;;x
+PROV348;Everskill;Everskill;Everskill;;Everskill;;;;;;;;;x
+PROV349;Crowroad;Crowroad;Crowroad;;Crowroad;;;;;;;;;x
+PROV350;Ambermill;Ambermill;Ambermill;;Ambermill;;;;;;;;;x
+PROV351;Caer Oltharn;Caer Oltharn;Caer Oltharn;;Caer Oltharn;;;;;;;;;x
+PROV352;Boralus;Boralus;Boralus;;Boralus;;;;;;;;;x
+PROV353;Moore's Brace;Moore's Brace;Moore's Brace;;Moore's Brace;;;;;;;;;x
+PROV354;Shiprun Shore;Shiprun Shore;Shiprun Shore;;Shiprun Shore;;;;;;;;;x
+PROV355;Tiras Alrin;Tiras Alrin;Tiras Alrin;;Tiras Alrin;;;;;;;;;x
+PROV356;Irontrade;Irontrade;Irontrade;;Irontrade;;;;;;;;;x
+PROV357;Drisburg;Drisburg;Drisburg;;Drisburg;;;;;;;;;x
+PROV358;Kul Ithor;Kul Ithor;Kul Ithor;;Kul Ithor;;;;;;;;;x
+PROV359;Sunseat;Sunseat;Sunseat;;Sunseat;;;;;;;;;x
+PROV360;Trollcove;Trollcove;Trollcove;;Trollcove;;;;;;;;;x
+PROV361;Swan Harbor;Swan Harbor;Swan Harbor;;Swan Harbor;;;;;;;;;x
+PROV362;Purgation;Purgation;Purgation;;Purgation;;;;;;;;;x
+PROV363;Pontpros;Pontpros;Pontpros;;Pontpros;;;;;;;;;x
+PROV364;Bardport;Bardport;Bardport;;Bardport;;;;;;;;;x
+PROV365;Crestfall;Crestfall;Crestfall;;Crestfall;;;;;;;;;x
+PROV366;Glassfathom;Glassfathom;Glassfathom;;Glassfathom;;;;;;;;;x
+PROV367;Azurelode;Azurelode;Azurelode;;Azurelode;;;;;;;;;x
+PROV368;Loomrush;Loomrush;Loomrush;;Loomrush;;;;;;;;;x
+PROV369;Tol Barad;Tol Barad;Tol Barad;;Tol Barad;;;;;;;;;x
+PROV370;Rustberg;Rustberg;Rustberg;;Rustberg;;;;;;;;;x
+PROV371;New Boralus;New Boralus;New Boralus;;New Boralus;;;;;;;;;x
+PROV372;Mooreport;Mooreport;Mooreport;;Mooreport;;;;;;;;;x
+PROV373;Tol Hern;Tol Hern;Tol Hern;;Tol Hern;;;;;;;;;x
+PROV374;Dalaran;Dalaran;Dalaran;;Dalaran;;;;;;;;;x
+PROV375;Arcaneshroud;Arcaneshroud;Arcaneshroud;;Arcaneshroud;;;;;;;;;x
+PROV376;Mistymere;Mistymere;Mistymere;;Mistymere;;;;;;;;;x
+PROV377;Violet Hills;Violet Hills;Violet Hills;;Violet Hills;;;;;;;;;x
+PROV378;Alteron;Alteron;Alteron;;Alteron;;;;;;;;;x
+PROV379;Hillsbrad;Hillsbrad;Hillsbrad;;Hillsbrad;;;;;;;;;x
+PROV380;Sofera's Fall;Sofera's Fall;Sofera's Fall;;Sofera's Fall;;;;;;;;;x
+PROV381;Darrowhill;Darrowhill;Darrowhill;;Darrowhill;;;;;;;;;x
+PROV382;Harborhall;Harborhall;Harborhall;;Harborhall;;;;;;;;;x
+PROV383;Yetiholde;Yetiholde;Yetiholde;;Yetiholde;;;;;;;;;x
+PROV384;Dawning Isles;Dawning Isles;Dawning Isles;;Dawning Isles;;;;;;;;;x
+PROV385;Fenris Isle;Fenris Isle;Fenris Isle;;Fenris Isle;;;;;;;;;x
+PROV386;Beren;Beren;Beren;;Beren;;;;;;;;;x
+PROV387;Crossharrow;Crossharrow;Crossharrow;;Crossharrow;;;;;;;;;x
+PROV388;Arkan;Arkan;Arkan;;Arkan;;;;;;;;;x
+PROV389;Khaz Modan;Khaz Modan;Khaz Modan;;Khaz Modan;;;;;;;;;x
+PROV390;Ember;Ember;Ember;;Ember;;;;;;;;;x   
+PROV391;Breakmast Reef;Breakmast Reef;Breakmast Reef;;Breakmast Reef;;;;;;;;;x
+PROV392;Lordaeron Berths;Lordaeron Berths;Lordaeron Berths;;Lordaeron Berths;;;;;;;;;x
+PROV393;The Cast;The Cast;The Cast;;The Cast;;;;;;;;;x
+PROV394;Garthtide;Garthtide;Garthtide;;Garthtide;;;;;;;;;x
+PROV395;West Lordaeron Bight;West Lordaeron Bight;West Lordaeron Bight;;West Lordaeron Bight;;;;;;;;;x
+PROV396;Stratos Firth;Stratos Firth;Stratos Firth;;Stratos Firth;;;;;;;;;x
+PROV397;Shalandis Sound;Shalandis Sound;Shalandis Sound;;Shalandis Sound;;;;;;;;;x
+PROV398;East Lordaeron Bight;East Lordaeron Bight;East Lordaeron Bight;;East Lordaeron Bight;;;;;;;;;x
+PROV399;Sunsail Inlets;Sunsail Inlets;Sunsail Inlets;;Sunsail Inlets;;;;;;;;;x
+PROV400;Sunstrider Landing;Sunstrider Landing;Sunstrider Landing;;Sunstrider Landing;;;;;;;;;x
+PROV401;Sun's Reach Harbor;Sun's Reach Harbor;Sun's Reach Harbor;;Sun's Reach Harbor;;;;;;;;;x
+PROV402;North Sea;North Sea;North Sea;;North Sea;;;;;;;;;x
+PROV403;Sunwell Channel;Sunwell Channel;Sunwell Channel;;Sunwell Channel;;;;;;;;;x
+PROV404;The Knives;The Knives;The Knives;;The Knives;;;;;;;;;x
+PROV405;Gulf of Zul'Aman;Gulf of Zul'Aman;Gulf of Zul'Aman;;Gulf of Zul'Aman;;;;;;;;;x
+PROV406;Speardrop;Speardrop;Speardrop;;Speardrop;;;;;;;;;x
+PROV407;Amani Sea;Amani Sea;Amani Sea;;Amani Sea;;;;;;;;;x
+PROV408;Cliffs of Havenshire;Cliffs of Havenshire;Cliffs of Havenshire;;Cliffs of Havenshire;;;;;;;;;x
+PROV409;Tyr's Bight;Tyr's Bight;Tyr's Bight;;Tyr's Bight;;;;;;;;;x
+PROV410;The Overlook;The Overlook;The Overlook;;The Overlook;;;;;;;;;x
+PROV411;Sea of Northeron;Sea of Northeron;Sea of Northeron;;Sea of Northeron;;;;;;;;;x
+PROV412;Saltwash;Saltwash;Saltwash;;Saltwash;;;;;;;;;x
+PROV413;Thandol Span;Thandol Span;Thandol Span;;Thandol Span;;;;;;;;;x
+PROV414;Drowned Reef;Drowned Reef;Drowned Reef;;Drowned Reef;;;;;;;;;x
+PROV415;North Baradin Bay;North Baradin Bay;North Baradin Bay;;North Baradin Bay;;;;;;;;;x
+PROV416;Shores of Lordaeron;Shores of Lordaeron;Shores of Lordaeron;;Shores of Lordaeron;;;;;;;;;x
+PROV417;North Channel;North Channel;North Channel;;North Channel;;;;;;;;;x
+PROV418;South Baradin Bay;South Baradin Bay;South Baradin Bay;;South Baradin Bay;;;;;;;;;x	"
+PROV419;Crestfall Strait;Crestfall Strait;Crestfall Strait;;Crestfall Strait;;;;;;;;;x	"
+PROV420;South Channel;South Channel;South Channel;;South Channel;;;;;;;;;x
+PROV421;Tirassian Sea;Tirassian Sea;Tirassian Sea;;Tirassian Sea;;;;;;;;;x
+PROV422;Gilnean Sound;Gilnean Sound;Gilnean Sound;;Gilnean Sound;;;;;;;;;x
+PROV423;Stormshore;Stormshore;Stormshore;;Stormshore;;;;;;;;;x
+PROV424;Fishery's Lagoon;Fishery's Lagoon;Fishery's Lagoon;;Fishery's Lagoon;;;;;;;;;x
+PROV425;Great Sea;Great Sea;Great Sea;;Great Sea;;;;;;;;;x
+PROV426;The Bitehold;The Bitehold;The Bitehold;;The Bitehold;;;;;;;;;x		"
+PROV427;Keel Inlet;Keel Inlet;Keel Inlet;;Keel Inlet;;;;;;;;;x
+PROV428;Southtide;Southtide;Southtide;;Southtide;;;;;;;;;x
+PROV429;Greywater;Greywater;Greywater;;Greywater;;;;;;;;;x
+PROV430;Silverpine Bay;Silverpine Bay;Silverpine Bay;;Silverpine Bay;;;;;;;;;x
+PROV431;Northtide;Northtide;Northtide;;Northtide;;;;;;;;;x
+PROV432;The Thoroughfare;The Thoroughfare;The Thoroughfare;;The Thoroughfare;;;;;;;;;x
+PROV433;Whisper Shore;Whisper Shore;Whisper Shore;;Whisper Shore;;;;;;;;;x
+PROV434;Lordamere;Lordamere;Lordamere;;Lordamere;;;;;;;;;x
+PROV435;Darrowmere;Darrowmere;Darrowmere;;Darrowmere;;;;;;;;;x
+PROV436;Brightwater;Brightwater;Brightwater;;Brightwater;;;;;;;;;x
+PROV437;Mereldar Lake;Mereldar Lake;Mereldar Lake;;Mereldar Lake;;;;;;;;;x
+PROV438;Elrendar Lake;Elrendar Lake;Elrendar Lake;;Elrendar Lake;;;;;;;;;x
+PROV439;Stillwater;Stillwater;Stillwater;;Stillwater;;;;;;;;;x
+PROV440;Stratos Lake;Stratos Lake;Stratos Lake;;Stratos Lake;;;;;;;;;x
+PROV441;Abassi;Abassi;Abassi;;Abassi;;;;;;;;;x
+PROV442;Nalorakk Pool;Nalorakk Pool;Nalorakk Pool;;Nalorakk Pool;;;;;;;;;x
+PROV443;Hatchetblow;Hatchetblow;Hatchetblow;;Hatchetblow;;;;;;;;;x
+PROV444;Northdale Lake;Northdale Lake;Northdale Lake;;Northdale Lake;;;;;;;;;x
+PROV445;Blackwood Lake;Blackwood Lake;Blackwood Lake;;Blackwood Lake;;;;;;;;;x
+PROV446;Wolfcreek Pool;Wolfcreek Pool;Wolfcreek Pool;;Wolfcreek Pool;;;;;;;;;x
+PROV447;Lake Brow;Lake Brow;Lake Brow;;Lake Brow;;;;;;;;;x
+PROV448;Seradine Lake;Seradine Lake;Seradine Lake;;Seradine Lake;;;;;;;;;x
+PROV449;Valorwind Lake;Valorwind Lake;Valorwind Lake;;Valorwind Lake;;;;;;;;;x
+PROV450;Pool of Zul;Pool of Zul;Pool of Zul;;Pool of Zul;;;;;;;;;x
+PROV451;Hiri'watha Lake;Hiri'watha Lake;Hiri'watha Lake;;Hiri'watha Lake;;;;;;;;;x
+PROV452;Stromspring;Stromspring;Stromspring;;Stromspring;;;;;;;;;x
+PROV453;Emberwater;Emberwater;Emberwater;;Emberwater;;;;;;;;;x
+PROV454;Garnetwater;Garnetwater;Garnetwater;;Garnetwater;;;;;;;;;x
+PROV455;Tal'doren;Tal'doren;Tal'doren;;Tal'doren;;;;;;;;;x
+PROV456;Greylake;Greylake;Greylake;;Greylake;;;;;;;;;x
+PROV457;Archibald;Archibald;Archibald;;Archibald;;;;;;;;;x
+PROV458;Arevane;Arevane;Arevane;;Arevane;;;;;;;;;x
+PROV459;Tarren Lake;Tarren Lake;Tarren Lake;;Tarren Lake;;;;;;;;;x
+PROV460;Forbidding Sea;Forbidding Sea;Forbidding Sea;;Forbidding Sea;;;;;;;;;x
+PROV461;Witherwood;Witherwood;Witherwood;;Witherwood;;;;;;;;;x
+PROV462;Thor's Canyon;Thor's Canyon;Thor's Canyon;;Thor's Canyon;;;;;;;;;x
+PROV463;Emerdwater;Emerdwater;Emerdwater;;Emerdwater;;;;;;;;;x
+PROV464;Redamber;Redamber;Redamber;;Redamber;;;;;;;;;x
+PROV465;Andor Lake;Andor Lake;Andor Lake;;Andor Lake;;;;;;;;;x 
+PROV466;The Pointe;The Pointe;The Pointe;;The Pointe;;;;;;;;;x 

@@ -1,0 +1,17 @@
+# 242 - Northridge
+
+# County Title
+title = c_northridge
+
+# Settlements
+max_settlements = 3
+b_northridge = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+
+
+

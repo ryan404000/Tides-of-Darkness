@@ -1,0 +1,14 @@
+# 377 - Violet Hills
+
+# County Title
+title = c_violet_hills
+
+# Settlements
+max_settlements = 4
+b_violet_hills = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

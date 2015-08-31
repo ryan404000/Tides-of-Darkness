@@ -1,0 +1,896 @@
+86= {
+	name="Heigarr"      #Duke of West Lordaeron, North Coast, and Kingsknell
+	dynasty=6017    #Kvinnshal
+	martial=11
+	diplomacy=6
+	intrigue=9
+	stewardship=4
+	learning=6
+	religion="old_ways"
+	culture="lordaeronian"
+	father=100
+	add_trait="fair"
+	add_trait="impaler"
+	add_trait="brave"
+	add_trait="cruel"
+	add_trait="tough_soldier"
+	add_trait="lustful"
+	add_trait="temperate"
+	add_trait="rough_terrain_leader"
+	3980.3.6 = {
+		birth="3980.3.6"
+		}
+	3997.1.8 = {
+		add_spouse=103
+		}
+	4001.1.1 = {
+		wealth=400
+		}
+	}
+87= {
+	name="Ornolf"      #Duke of Millingland and Brill
+	dynasty=6018   #Drakkarlund
+	martial=3
+	diplomacy=8
+	intrigue=2
+	stewardship=13
+	learning=14
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=102
+	add_trait="midas_touched"
+	add_trait="poet"
+	add_trait="just"
+	add_trait="greedy"
+	add_trait="craven"
+	add_trait="stressed"
+	add_trait="chaste"
+	3951.11.13 = {
+		birth="3951.11.13"
+		}
+	3967.8.23 = {
+		add_claim=d_kingsknell
+		add_claim=d_capital
+		add_claim=c_calston
+		add_claim=c_lower_kingsknell
+		add_claim=c_south_brill
+		}
+	3969.10.1 = {
+		add_spouse=88
+		}
+	4001.1.1 = {
+		wealth=144
+		}
+	}
+88= {
+	name="Hildana"   #Wife to Skadi Drakkarlund
+	female=yes
+	martial=3
+	diplomacy=7
+	intrigue=2
+	stewardship=9
+	learning=6
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	add_trait="kind"
+	add_trait="underhanded_rogue"
+	add_trait="stutter"
+	add_trait="shy"
+	add_trait="ambitious"
+	3953.3.21 = {
+		birth="3953.3.21"
+		}
+	}
+100= {
+	name="Sjonnir"      #Formr Duke of West Lordaeron, North Coast, and Kingsknell
+	dynasty=6017    #Kvinnshal
+	martial=6
+	diplomacy=13
+	intrigue=6
+	stewardship=8
+	learning=5
+	religion="old_ways"
+	culture="lordaeronian"
+	add_trait="duelist"
+	add_trait="proud"
+	add_trait="cynical"
+	add_trait="grey_eminence"
+	add_trait="humble"
+	add_trait="paranoid"
+	3955.7.20 = {
+		birth="3955.7.20"
+		}
+	3997.6.16 = {
+		death="3997.6.16"
+		}
+	}
+101= {
+	name="Borric"      #Lord of Walnutwood, Tourneyfield, and Northtide's Run
+	dynasty=6017    #Kvinnshal
+	martial=7
+	diplomacy=3
+	intrigue=5
+	stewardship=6
+	learning=10
+	religion="old_ways"
+	culture="lordaeronian"
+	father=100
+	add_trait="scholar"
+	add_trait="scarred"
+	add_trait="just"
+	add_trait="martial_cleric"
+	add_trait="envious"
+	add_trait="patient"
+	add_trait="rough_terrain_leader"
+	3982.10.10 = {
+		birth="3982.10.10"
+		}
+	3997.6.16 = {
+		add_claim=d_kingsknell
+		add_claim=d_north_coast
+		add_claim=d_west_lordaeron
+		add_claim=c_lower_kingsknell
+		add_claim=c_bellforge
+		add_claim=c_tiran_motte
+		}	
+	4001.1.1 = {
+		wealth=90
+		}
+	}	
+102= {
+	name="Thaldrin"      #Former Duke of Brill lands
+	dynasty=6018   #Drakkarlund
+	martial=15
+	diplomacy=7
+	intrigue=10
+	stewardship=8
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	add_trait="just"
+	add_trait="depressed"
+	add_trait="cruel"
+	add_trait="brilliant_strategist"
+	add_trait="wroth"
+	add_trait="experimenter"
+	3930.4.20 = {
+		birth="3930.4.20"
+		}
+	3975.5.16 = {
+		death="3975.5.16"
+		}
+	}
+103= {
+	name="Annhylde"      #Sister of Jordayn and Wife to Falric Darrow
+	female=yes
+	dynasty=6018    #Drakkarlund
+	martial=6
+	diplomacy=10
+	intrigue=9
+	stewardship=12
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=102
+	add_trait="hedonist"
+	add_trait="patient"
+	add_trait="arbitrary"
+	add_trait="fortune_builder"
+	add_trait="charitable"
+	3974.2.12 = {
+		birth="3974.2.12"
+		}
+	}
+136 = {
+	name="Baylor"
+	dynasty=525   #Morris
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=135
+	
+	3954.12.12 = {
+		birth="3954.12.12"
+	}
+	3990.1.1 = {
+		add_spouse=139
+	}
+	4001.1.1 = {
+		wealth=45
+	}
+}
+137 = {
+	name="Remus"
+	dynasty=525   #Morris
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=135
+	
+	3961.1.1 = {
+		birth="3961.1.1"
+	}
+	3993.1.1 = {
+		add_spouse=132
+	}
+	4001.1.1 = {
+		wealth=45
+	}
+}
+140 = {
+	name="Luther"   #death
+	dynasty=579   #Abbendis
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=144
+	
+	3932.2.1 = {
+		birth="3932.2.1"
+	}
+	3985.8.8 = {
+		death="3985.8.8"
+	}
+}
+141 = {
+	name="Luther"
+	dynasty=579   #Abbendis
+	religion="old_ways"
+	culture="lordaeronian"
+	father=140
+	
+	3958.3.10 = {
+		birth="3958.3.10 "
+	}
+	3989.1.1 = {
+		add_spouse=147
+	}
+	4001.1.1 = {
+		wealth=45
+	}
+}
+142 = {
+	name="Aulric"
+	dynasty=579   #Abbendis
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=140
+	3963.1.10 = {
+		birth="3963.1.10 "
+	}
+	3985.8.8 = {
+		add_claim=d_silverpine
+	}	
+	4001.1.1 = {
+		wealth=21
+	}
+}
+144 = {
+	name="Luther"   #death
+	dynasty=579   #Abbendis
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=145
+	
+	3898.2.1 = {
+		birth="3898.2.1"
+	}
+	3961.11.8 = {
+		death="3961.11.8"
+	}
+}
+147 = {
+	name="Emilia" # Wife to Luther Abbendis and ruler of Copperdell
+	female=yes
+	dynasty=602   # Torantt
+	religion="old_ways"
+	culture="lordaeronian"
+	
+	3970.1.9 = {
+		birth="3970.1.9"
+	}
+	3980.6.1 = {
+		wealth=60
+	}
+	3980.6.1 = {
+		add_claim=d_fenris
+	}
+}
+148 = {
+	name="Lutheri"  #Daughter of Luther Abbendis and Emilia Torantt
+	dynasty=579   #Abbendis
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=141
+	mother=147
+	
+	3992.1.4 = {
+		birth="3992.1.4 "
+	}
+	4001.1.1 = {
+		wealth=12
+	}
+}
+150 = {
+	name="Saidan"  #Capital City ruler
+	dynasty=627   #Zeldig
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	3970.12.4 = {
+		birth="3970.12.4"
+	}
+	3990.3.28 = {
+		add_spouse=153
+	}
+	4001.1.1 = {
+		wealth=159
+	}
+}
+151 = {
+	name="Marwyn"  #South Brill ruler
+	dynasty=615   #Oxenheart
+	religion="old_ways"
+	culture="lordaeronian"
+
+	3980.6.14 = {
+		birth="3980.6.14"
+	}
+	4001.1.1 = {
+		wealth=80
+	}
+}
+152 = {
+	name="Saidan"  #capital city heir
+	dynasty=627   #Zeldig
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=150
+	
+	3990.8.4 = {
+		birth="3990.8.4"
+	}
+}
+153 = {
+	name="Virginia" # Saidan Zeldig's wife
+	female=yes
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	3971.4.8 = {
+		birth="3971.4.8"
+	}
+	4001.1.1 = {
+		wealth=23
+	}
+}
+155 = {
+	name="Eydis" # Falric Darrow's wife
+	female=yes
+	dynasty=570
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	3979.4.8 = {
+		birth="3979.4.8"
+	}
+	4001.1.1 = {
+		wealth=23
+	}
+}
+175= {
+	name="Ymiron"
+	dynasty=6022 #Sjornheim
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3982.11.13 = {
+		birth="3982.11.13"
+		}
+	4001.1.1 = {
+		wealth=43
+	}
+}
+176 = {
+	name="Bor"
+	dynasty=6023 #Brunndyr
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3983.11.13 = {
+		birth="3983.11.13"
+		}
+	4001.1.1 = {
+		wealth=43
+	}
+}
+177 = {
+	name="Orabus"
+	dynasty=6024 #Banahogg
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3979.9.2 = {
+		birth="3979.9.2"
+		}
+	4001.1.1 = {
+		wealth=43
+	}
+}
+178 = {
+    name="Klennias" #Leader of the Light Theists
+    martial=6
+    diplomacy=4
+    intrigue=6
+    stewardship=8
+    learning=12
+    religion="church_of_the_holy_light"
+    culture="lordaeronian"
+    add_trait="envious"
+    add_trait="genius"
+    add_trait="just"
+	add_trait="gregarious"
+	add_trait="mastermind_theologian"
+    3972.6.3={
+         birth="3972.6.3"
+    }
+	4001.1.1 = {
+		wealth=280
+	}
+}
+179 = {
+	name="Tobius"  #serves d_lights_rest
+	dynasty=6025    #Ortham
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3981.3.3 = {
+		birth="3981.3.3"
+		}
+	4000.1.1 = {
+		wealth=180
+	}
+}
+180 = {
+	name="Duncan"  #Serves d_lights_rest
+	dynasty=6026    #Rivenmarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3972.2.12 = {
+		birth="3972.2.12"
+		}
+	4000.1.1 = {
+		wealth=180
+	}
+}
+181 = {
+	name="Leoric"  #Serves d_lights_rest
+	dynasty=6027    #Stonemarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=184
+	3983.2.12 = {
+		birth="3983.2.12"
+		}
+	4000.1.1 = {
+		wealth=180
+	}
+}
+182 = {
+	name="Joer"  #Duke of Tirisfal Glades
+	dynasty=556   #Mohrgan
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3982.2.12 = {
+		birth="3982.2.12"
+		}
+	3999.1.1 = {
+		add_spouse=183
+	}
+	4000.1.1 = {
+		wealth=180
+	}
+}
+183 = {
+	name="Hester"  #Wife of Joer Mohrgan
+	female=yes
+	dynasty=6027   #Stonemarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=184
+	3982.6.10 = {
+		birth="3982.6.10"
+		}
+	4000.1.1 = {
+		wealth=3
+	}
+}
+184 = {
+	name="Vann"  #Father of Leoric and Hester Stonemarch death
+	dynasty=6027   #Stonemarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3953.10.10 = {
+		birth="3953.10.10"
+		}
+	3987.1.1 = {
+		death="3987.1.1"
+	}
+}
+185 = {
+	name="Fellicent"  #Ruler of Fellicent's Hold
+	female=yes
+	dynasty=6027   #Stonemarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=184
+	3977.8.18 = {
+		birth="3977.8.18"
+		}
+	3990.1.1 = {
+		add_claim=c_balnir
+		add_claim=c_alterange
+	}
+	4000.1.1 = {
+		wealth=156
+	}
+}
+186 = {
+	name="Mila"  #Ruler of Balnir
+	female=yes
+	dynasty=6027   #Stonemarch
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=184
+	3978.3.28 = {
+		birth="3978.3.28"
+		}
+	3990.1.1 = {
+		add_claim=c_brightwater_lake
+	}
+	4000.1.1 = {
+		wealth=30
+	}
+}
+187 = {
+	name="Korfax"  #Ruler of Kingsgrant
+	dynasty=6028   #Mett
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3970.3.28 = {
+		birth="3970.3.28"
+		}
+	3990.1.1 = {
+		add_claim=c_andor
+		add_claim=c_bainridge
+	}
+	4000.1.1 = {
+		wealth=132
+	}
+}
+188 = {
+	name="Uther"  #Ruler of Duchy of Northridge and part of Redpine Wood
+	dynasty=183  #Dumah
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	3974.7.28 = {
+		birth="3974.7.28"
+		}
+	4000.1.1 = {
+		wealth=230
+	}
+}
+189 = {
+	name="Afvang"  #Ruler of C_northridge
+	dynasty=6029  #Magnussen
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=192
+	3980.3.1 = {
+		birth="3980.3.1"
+		}
+	4000.1.1 = {
+		wealth=23
+	}
+}
+190 = {
+	name="Ymirred"  #Ruler of C_caverns_height
+	dynasty=6029 #Magnussen
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=192
+	3978.3.1 = {
+		birth="3978.3.1"
+		}
+	4000.1.1 = {
+		wealth=23
+	}
+}
+191 = {
+	name="Valrald"  #Ruler of C_raltenford
+	dynasty=6029  #Magnussen
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=192
+	3975.3.1 = {
+		birth="3975.3.1"
+		}
+	4000.1.1 = {
+		wealth=23
+	}
+}
+192 = {
+	name="Norfang"  #death
+	dynasty=6029  #Magnussen
+	religion="old_ways"
+	culture="lordaeronian"
+	3940.3.1 = {
+		birth="3940.3.1"
+		}
+	3990.1.1 = {
+		death="3990.1.1"
+	}
+}
+193 = {
+	name="Reginald"   #Duke of Northdarrow, Duke of Hearthglen, Duke of Thondroril
+	dynasty=182     #Marden
+	martial=17
+	diplomacy=4
+	intrigue=5
+	stewardship=7
+	learning=3
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	add_trait="strong"
+	add_trait="honest"
+	add_trait="kind"
+	add_trait="just"
+	add_trait="brave"
+	add_trait="brilliant_strategist"
+	add_trait="trickster"
+
+	3965.8.1 = {
+		birth="3965.8.1"
+	}
+	3983.2.8 = {
+		add_spouse=197
+	}
+	4000.1.1 = {
+		give_nickname=nick_the_brave
+	}
+	4000.1.1 = {
+		add_claim=k_andorhal
+	}
+	4001.1.1 = {
+		wealth=900
+		}
+	}
+194 = {
+	name="Malthus"   #Ruler of Gahrron and liege=193
+	dynasty=186     #Gahrron
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3974.8.1 = {
+		birth="3974.8.1"
+	}
+	3990.1.1 = {
+		add_claim=c_hearthhold
+	}
+	4001.1.1 = {
+		wealth=78
+		}
+	}
+195 = {
+	name="Baldric"   #Ruler of Hearthhold and liege=193
+	dynasty=186     #Gahrron
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3978.8.1 = {
+		birth="3978.8.1"
+	}
+	3990.1.1 = {
+		add_claim=c_gahrron
+	}
+	4001.1.1 = {
+		wealth=52
+		}
+	}
+196 = {
+	name="Baldric"   #death
+	dynasty=186     #Gahrron
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3948.8.1 = {
+		birth="3948.8.1"
+	}
+	3990.1.1 = {
+		death="3990.1.1"
+	}
+}
+197 = {
+	name="Kalandra"   #Wife to Reginald Marden and Ruler of Thondale and Preston
+	female=yes
+	dynasty=186     #Gahrron
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3966.1.1 = {
+		birth="3966.1.1"
+	}
+	3990.1.1 = {
+		death="3990.1.1"
+	}
+}
+198 = {
+	name="Tirion"   #First born to Kalandra and Reginald Marden and ruler of Irongem
+	dynasty=182     #Marden
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	father=193
+	mother=197
+
+	3984.12.1 = {
+		birth="3984.12.1"
+	}
+	4000.1.1 = {
+		wealth="67"
+	}
+}
+202 = {
+	name="Edwend"   #Ruler of Arborknoll, Bakersville, and Shadetrack
+	dynasty=559     #Tullspierre
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3972.7.1 = {
+		birth="3972.7.1"
+	}
+	4000.1.1 = {
+		wealth = 193
+		}
+}
+203 = {
+	name="Willem"   #Ruler of Upper Andor and Lower Andor
+	dynasty=546     #Maconland
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	3976.11.1 = {
+		birth="3976.11.1"
+	}
+	4000.1.1 = {
+		wealth = 116
+		}
+}
+305 = {
+	name="Wilhelm"   #Ruler of Millingland Duchy
+	dynasty= 6074    #Hull
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 116
+		add_claim = c_bevenland
+		add_claim = d_millingland
+		}
+}
+311 = {
+	name="Jaster"   #King of Lordaeron
+	dynasty= 6075    #Menethil
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = k_lordaeron
+		}
+}
+306 = {
+	name="James"	#Duke of Brill
+	dynasty= 671 #Standish
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = d_brill
+		add_claim = c_brill
+		}
+}
+307 = {
+	name="Gerold"	#Count of Winnsower
+	dynasty= 665	#Fowler
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_winnsower
+		}
+}
+308 = {
+	name="Adonse"	#Count of Brill's Fiefs
+	dynasty= 661	#Fintallas
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_brills_fiefs
+		add_claim = c_coldhearth
+		}
+}
+309 = {
+	name="Kamis"	#Count of Oakchalice
+	dynasty= 641	#Anson
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_oakchalice
+		}
+}
+310 = {
+	name="Keth"	#Count of Grainland
+	dynasty= 617	#Andrean
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_grainland
+		}
+}
+312 = {
+	name="Kevin"	#Count of Casterwich
+	dynasty= 618	#Marris
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_casterwich
+		}
+}
+313 = {
+	name="Samson"	#Count of Garr's Mill
+	dynasty= 619	#Marrisfield
+	religion="church_of_the_holy_light"
+	culture="lordaeronian"
+	
+	5657.11.1 = {
+		birth="5657.11.1"
+	}
+	5657.1.1 = {
+		wealth = 500
+		add_claim = c_garrs_mill
+		}
+}
+
+
+
+
+

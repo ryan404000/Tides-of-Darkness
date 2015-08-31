@@ -1,0 +1,14 @@
+# 146 - Capital City
+
+# County Title
+title = c_capital_city
+
+# Settlements
+max_settlements = 7
+b_capital_city = castle
+
+#Misc
+religion = church_of_the_holy_light
+culture = lordaeronian
+
+# History

@@ -1,0 +1,14 @@
+# 49 - Hatchet Hills
+
+# County Title
+title = c_hatchet_hills
+
+# Settlements
+max_settlements = 4
+b_hatchet_hills = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

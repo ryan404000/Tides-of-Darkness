@@ -1,0 +1,14 @@
+# 261 - Endarth Vice
+
+# County Title
+title = c_endarth_vice
+
+# Settlements
+max_settlements = 3
+b_endarth_vice = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

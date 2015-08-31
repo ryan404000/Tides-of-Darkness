@@ -1,0 +1,14 @@
+# 243 - Mardenspring
+
+# County Title
+title = c_mardenspring
+
+# Settlements
+max_settlements = 3
+b_mardenspring = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

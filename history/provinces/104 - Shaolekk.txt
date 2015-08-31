@@ -1,0 +1,13 @@
+# 104 - Shaol'ekk
+
+# County Title
+title = c_shaolekk
+
+# Settlements
+max_settlements = 4
+b_shaolekk = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+# History

@@ -1,0 +1,15 @@
+# 32 - Thalassian_Pass
+
+# County Title
+title = c_thalassian_pass
+
+# Settlements
+max_settlements = 5
+b_thalassian_pass = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+
+# History

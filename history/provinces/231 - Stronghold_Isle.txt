@@ -1,0 +1,17 @@
+# 231 - Stronghold Isle
+
+# County Title
+title = c_stronghold_isle
+
+# Settlements
+max_settlements = 2
+b_stronghold_isle = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+
+
+

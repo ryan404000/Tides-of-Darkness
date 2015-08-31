@@ -1,0 +1,14 @@
+# 46 - South Abassi
+
+# County Title
+title = c_south_abassi
+
+# Settlements
+max_settlements = 6
+b_south_abassi = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

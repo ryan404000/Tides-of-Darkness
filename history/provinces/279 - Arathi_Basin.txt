@@ -1,0 +1,15 @@
+# 279 - Arathi Basin
+
+# County Title
+title = c_arathi_basin
+
+# Settlements
+max_settlements = 5
+
+b_arathi_basin = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

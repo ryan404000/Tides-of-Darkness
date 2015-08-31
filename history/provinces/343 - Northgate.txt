@@ -1,0 +1,14 @@
+# 343 - Northgate
+
+# County Title
+title = c_northgate
+
+# Settlements
+max_settlements = 5
+b_northgate = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

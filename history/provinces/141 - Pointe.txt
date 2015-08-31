@@ -1,0 +1,14 @@
+# 141 - Pointe
+
+# County Title
+title = c_pointe
+
+# Settlements
+max_settlements = 5
+b_pointe = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

@@ -1,0 +1,15 @@
+# 74 - Rodwick
+
+# County Title
+title = c_rodwick
+
+# Settlements
+max_settlements = 5
+b_rodwick = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History
+

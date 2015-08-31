@@ -1,0 +1,13 @@
+# 142 - North Haven
+
+# County Title
+title = c_north_haven
+
+# Settlements
+max_settlements = 6
+b_north_haven = castle
+
+culture = lordaeronian
+religion = old_ways
+
+# History

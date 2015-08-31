@@ -1,0 +1,15 @@
+# 337 - Birchrock
+
+# County Title
+title = c_birchrock
+
+# Settlements
+max_settlements = 4
+
+b_birchrock = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

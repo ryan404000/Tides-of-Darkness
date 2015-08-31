@@ -1,0 +1,14 @@
+# 124 - Kingsgrant
+
+# County Title
+title = c_kingsgrant
+# Settlements
+max_settlements = 5
+b_kingsgrant = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

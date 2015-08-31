@@ -1,0 +1,4 @@
+4000.1.10={
+	holder = 217
+	liege = d_sunstrider
+}

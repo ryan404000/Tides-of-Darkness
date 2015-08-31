@@ -1,0 +1,16 @@
+
+# 228 - Tyr's Bay
+
+# County Title
+title = c_tyrs_bay
+
+# Settlements
+max_settlements = 6
+b_tyrs_bay = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

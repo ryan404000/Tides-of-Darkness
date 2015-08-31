@@ -1,0 +1,14 @@
+# 349 - Crowroad
+
+# County Title
+title = c_crowroad
+
+# Settlements
+max_settlements = 4
+b_crowroad = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

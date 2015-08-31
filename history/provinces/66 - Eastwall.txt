@@ -1,0 +1,15 @@
+# 66 - Eastwall
+
+# County Title
+title = c_eastwall
+
+# Settlements
+max_settlements = 6
+b_eastwall = castle
+
+
+# Misc
+culture = amani
+religion = loa
+
+# History

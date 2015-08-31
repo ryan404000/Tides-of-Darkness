@@ -1,0 +1,14 @@
+# 320 - Blackwald
+
+# County Title
+title = c_blackwald
+
+# Settlements
+max_settlements = 5
+b_blackwald = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

@@ -1,0 +1,14 @@
+# 154 - Brill
+
+# County Title
+title = c_brill
+
+# Settlements
+max_settlements = 7
+b_brill = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

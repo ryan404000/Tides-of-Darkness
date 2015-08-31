@@ -1,0 +1,15 @@
+# 237 - Andor
+
+# County Title
+title = c_andor
+
+# Settlements
+max_settlements = 6
+b_andor = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

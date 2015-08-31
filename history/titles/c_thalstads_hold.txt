@@ -1,0 +1,4 @@
+4000.1.1={
+	holder = 259
+	liege = d_thalstads_hold
+}

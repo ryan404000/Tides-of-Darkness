@@ -1,0 +1,15 @@
+# 241 - Bakersville
+
+# County Title
+title = c_bakersville
+
+# Settlements
+max_settlements = 4
+b_bakersville = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

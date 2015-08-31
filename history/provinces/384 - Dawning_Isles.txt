@@ -1,0 +1,15 @@
+# 384 - Dawning Isles
+
+# County Title
+title = c_dawning_isles
+
+# Settlements
+max_settlements = 2
+
+b_dawning_isles = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

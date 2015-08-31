@@ -1,0 +1,13 @@
+# 168 - Stratholme
+
+# County Title
+title = c_stratholme
+
+# Settlements
+max_settlements = 7
+b_stratholme = castle
+
+culture = amani
+religion = loa
+
+# History

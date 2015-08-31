@@ -1,0 +1,14 @@
+# 364 - Bardport
+
+# County Title
+title = c_bardport
+
+# Settlements
+max_settlements = 3
+b_bardport = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

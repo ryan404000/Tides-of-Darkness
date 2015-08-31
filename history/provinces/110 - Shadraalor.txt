@@ -1,0 +1,14 @@
+# 110 - Shadra'alor
+
+# County Title
+title = c_shadraalor
+
+# Settlements
+max_settlements = 6
+b_shadraalor = temple
+
+culture = witherbark
+religion = loa
+
+# History
+

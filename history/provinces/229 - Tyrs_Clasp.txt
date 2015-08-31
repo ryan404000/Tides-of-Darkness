@@ -1,0 +1,13 @@
+# 229 - Tyr's Clasp
+
+# County Title
+title = c_tyrs_clasp
+
+# Settlements
+max_settlements = 4
+b_tyrs_clasp = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+# History

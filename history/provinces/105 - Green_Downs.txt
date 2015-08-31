@@ -1,0 +1,15 @@
+# 105 - Green Downs
+
+# County Title
+title = c_green_downs
+
+# Settlements
+max_settlements = 4
+b_green_downs = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

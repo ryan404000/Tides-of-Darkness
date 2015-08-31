@@ -1,0 +1,548 @@
+82 = {
+	name="Bullock"
+	culture = gilnean
+}
+120 = {
+	name="Watts"
+	culture = gilnean
+}
+267 = {
+	name="Greymane"
+	culture = gilnean
+}
+268 = {
+	name="Torthford"
+	culture = gilnean
+}
+269 = {
+	name="Godwynn"
+	culture = gilnean
+}
+270 = {
+	name="Ashbury"
+	culture = gilnean
+}
+271 = {
+	name="Walden"
+	culture = gilnean
+}
+272 = {
+	name="Shafford"
+	culture = gilnean
+}
+273 = {
+	name="Silverlaine"
+	culture = gilnean
+}
+274 = {
+	name="Marley"
+	culture = gilnean
+}
+275 = {
+	name="de Borgona"
+	culture = gilnean
+}
+276 = {
+	name="Bardhelm"
+	culture = gilnean
+}
+277 = {
+	name="Merkshine"
+	culture = gilnean
+}
+278 = {
+	name="Greyward"
+	culture = gilnean
+}
+279 = {
+	name="Seastone"
+	culture = gilnean
+}
+280 = {
+	name="Adericson"
+	culture = gilnean
+}
+281 = {
+	name="Turling"
+	culture = gilnean
+}
+282 = {
+	name="Wheatswing"
+	culture = gilnean
+}
+283 = {
+	name="Inkbrother"
+	culture = gilnean
+}
+284 = {
+	name="Raven"
+	culture = gilnean
+}
+285 = {
+	name="Botterdon"
+	culture = gilnean
+}
+286 = {
+	name="Banister"
+	culture = gilnean
+}
+287 = {
+	name="Donstur"
+	culture = gilnean
+}
+476 = {
+	name="Bosworth"
+	culture = gilnean
+}
+477 = {
+	name="Durnhelm"
+	culture = gilnean
+}
+478 = {
+	name="Aaronward"
+	culture = gilnean
+}
+479 = {
+	name="Daronward"
+	culture = gilnean
+}
+480 = {
+	name="Egan"
+	culture = gilnean
+}
+481 = {
+	name="Ponstham"
+	culture = gilnean
+}
+482 = {
+	name="Chadwick"
+	culture = gilnean
+}
+483 = {
+	name="Sertwick"
+	culture = gilnean
+}
+484 = {
+	name="Chesswick"
+	culture = gilnean
+}
+485 = {
+	name="Gerrwort"
+	culture = gilnean
+}
+486 = {
+	name="Waysburr"
+	culture = gilnean
+}
+487 = {
+	name="Korloff"
+	culture = gilnean
+}
+488 = {
+	name="Zverenhoff"
+	culture = gilnean
+}
+489 = {
+	name="Arnanhoff"
+	culture = gilnean
+}
+490 = {
+	name="Eraldhoff"
+	culture = gilnean
+}
+491 = {
+	name="Metterhoff"
+	culture = gilnean
+}
+492 = {
+	name="Zerwinhoff"
+	culture = gilnean
+}
+493 = {
+	name="Dabrowhoff"
+	culture = gilnean
+}
+494 = {
+	name="Svorian"
+	culture = gilnean
+}
+495 = {
+	name="Loksey"
+	culture = gilnean
+}
+496 = {
+	name="Oslight"
+	culture = gilnean
+}
+497 = {
+	name="Fadran"
+	culture = gilnean
+}
+498 = {
+	name="Hawke"
+	culture = gilnean
+}
+499 = {
+	name="Grenich"
+	culture = gilnean
+}
+500 = {
+	name="Lonsav"
+	culture = gilnean
+}
+501 = {
+	name="Bowers"
+	culture = gilnean
+}
+502 = {
+	name="Artholen"
+	culture = gilnean
+}
+503 = {
+	name="Bartholomew"
+	culture = gilnean
+}
+504 = {
+	name="Wolinhoff"
+	culture = gilnean
+}
+505 = {
+	name="Gade"
+	culture = gilnean
+}
+506 = {
+	name="Myers"
+	culture = gilnean
+}
+507 = {
+	name="Saint"
+	culture = gilnean
+}
+508 = {
+	name="Osworth"
+	culture = gilnean
+}
+509 = {
+	name="Churcham"
+	culture = gilnean
+}
+510 = {
+	name="Churchill"
+	culture = gilnean
+}
+511 = {
+	name="Roundhill"
+	culture = gilnean
+}
+512 = {
+	name="Rollingham"
+	culture = gilnean
+}
+513 = {
+	name="Bounderham"
+	culture = gilnean
+}
+514 = {
+	name="Mounthill"
+	culture = gilnean
+}
+515 = {
+	name="Northill"
+	culture = gilnean
+}
+516 = {
+	name="Southill"
+	culture = gilnean
+}
+517 = {
+	name="Wolfe"
+	culture = gilnean
+}
+518 = {
+	name="Bolde"
+	culture = gilnean
+}
+519 = {
+	name="Barton"
+	culture = gilnean
+}
+520 = {
+	name="Mendelev"
+	culture = gilnean
+}
+521 = {
+	name="Burlingham"
+	culture = gilnean
+}
+522 = {
+	name="Ridgewell"
+	culture = gilnean
+}
+523 = {
+	name="Ridgehome"
+	culture = gilnean
+}
+524 = {
+	name="Crowley"
+	culture = gilnean
+}
+525 = {
+	name="Morris"
+	culture = gilnean
+}
+526 = {
+	name="Morrison"
+	culture = gilnean
+}
+527 = {
+	name="Orlamunde"
+	culture = gilnean
+}
+528 = {
+	name="Daris"
+	culture = gilnean
+}
+529 = {
+	name="Darison"
+	culture = gilnean
+}
+530 = {
+	name="Fredricson"
+	culture = gilnean
+}
+531 = {
+	name="Rupertson"
+	culture = gilnean
+}
+532 = {
+	name="Gregorson"
+	culture = gilnean
+}
+533 = {
+	name="Gennson"
+	culture = gilnean
+}
+534 = {
+	name="Godfreyson"
+	culture = gilnean
+}
+535 = {
+	name="Geoffreyson"
+	culture = gilnean
+}
+536 = {
+	name="Bauldorson"
+	culture = gilnean
+}
+537 = {
+	name="Barlowe"
+	culture = gilnean
+}
+538 = {
+	name="Finnson"
+	culture = gilnean
+}
+539 = {
+	name="Stockton"
+	culture = gilnean
+}
+540 = {
+	name="Dollton"
+	culture = gilnean
+}
+541 = {
+	name="Ronnerton"
+	culture = gilnean
+}
+542 = {
+	name="Amberton"
+	culture = gilnean
+}
+543 = {
+	name="Baleton"
+	culture = gilnean
+}
+544 = {
+	name="Hunderland"
+	culture = gilnean
+}
+545 = {
+	name="Caraland"
+	culture = gilnean
+}
+546 = {
+	name="Maconland"
+	culture = gilnean
+}
+547 = {
+	name="Morganland"
+	culture = gilnean
+}
+548 = {
+	name="Greyland"
+	culture = gilnean
+}
+549 = {
+	name="Latimer"
+	culture = gilnean
+}
+550 = {
+	name="Berard"
+	culture = gilnean
+}
+551 = {
+	name="Burnside"
+	culture = gilnean
+}
+552 = {
+	name="Exeter"
+	culture = gilnean
+}
+553 = {
+	name="Hartley"
+	culture = gilnean
+}
+658 = {
+	name="Masterson"
+	culture = gilnean
+}
+660 = {
+	name="Farnsley"
+	culture = gilnean
+}
+662 = {
+	name="Brownell"
+	culture = gilnean
+}
+663 = {
+	name="Greynell"
+	culture = gilnean
+}
+664 = {
+	name="Blacknell"
+	culture = gilnean
+}
+676 = {
+	name="Welsh"
+	culture = gilnean
+}
+677 = {
+	name="Tharpe"
+	culture = gilnean
+}
+685 = {
+	name="of Gilneas"
+	culture = gilnean
+}
+687 = {
+	name="of Bitehold"
+	culture = gilnean
+}
+686 = {
+	name="of Adericshire"
+	culture = gilnean
+}
+688 = {
+	name="of Stormglen"
+	culture = gilnean
+}
+689 = {
+	name="of Cotter Rock"
+	culture = gilnean
+}
+690 = {
+	name="of Tempest's Reach"
+	culture = gilnean
+}
+691 = {
+	name="of Berenfell"
+	culture = gilnean
+}
+692 = {
+	name="of Birchrock"
+	culture = gilnean
+}
+693 = {
+	name="of Emberstone"
+	culture = gilnean
+}
+694 = {
+	name="of Duskhaven"
+	culture = gilnean
+}
+695 = {
+	name="of Greyreef"
+	culture = gilnean
+}
+696 = {
+	name="of Pyrewood"
+	culture = gilnean
+}
+697 = {
+	name="of Duskmist"
+	culture = gilnean
+}
+6013 = {
+	name="Higarth"
+	culture = gilnean
+}
+6014 = {
+	name="Hartin"
+	culture = gilnean
+}
+6015 = {
+	name="Thatcher"
+	culture = gilnean
+}
+6016 = {
+	name="Ambermiller"
+	culture = gilnean
+}
+6062 = {
+	name="Grayblade"
+	culture = gilnean
+}
+6064 = {
+	name="Emerson"
+	culture = gilnean
+}
+6067 = {
+	name="Pierce"
+	culture = gilnean
+}
+6069 = {
+	name="Jameson"
+	culture = gilnean
+}
+6071 = {
+	name="Littlewood"
+	culture = gilnean
+}
+6072 = {
+	name="Emberstone"
+	culture = gilnean
+}
+6073 = {
+	name="Underwood"
+	culture = gilnean
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

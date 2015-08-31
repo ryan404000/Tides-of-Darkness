@@ -1,0 +1,14 @@
+# 127 - Violet Marsh
+
+# County Title
+title = c_violet_marsh
+
+# Settlements
+max_settlements = 4
+b_violet_marsh = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

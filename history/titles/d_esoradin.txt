@@ -1,0 +1,11 @@
+3998.1.1={
+	holder = 283
+	liege = k_stromgarde
+}
+
+
+5680.1.1={
+	holder = 295
+	liege=k_stromgarde
+
+}

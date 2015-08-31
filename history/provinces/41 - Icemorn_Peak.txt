@@ -1,0 +1,14 @@
+# 41 - Icemorn Peak
+
+# County Title
+title = c_icemorn_peak
+
+# Settlements
+max_settlements = 3
+b_icemorn_peak = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

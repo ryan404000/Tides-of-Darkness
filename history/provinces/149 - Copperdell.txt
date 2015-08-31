@@ -1,0 +1,14 @@
+# 149 - Copperdell
+
+# County Title
+title = c_copperdell
+
+# Settlements
+max_settlements = 4
+b_copperdell = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

@@ -1,0 +1,14 @@
+# 214 - Harewood Hills
+
+# County Title
+title = c_harewood_hills
+
+# Settlements
+max_settlements = 3
+b_harewood_hills = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

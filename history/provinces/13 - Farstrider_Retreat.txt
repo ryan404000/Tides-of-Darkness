@@ -1,0 +1,15 @@
+# 13 - Farstrider Retreat
+
+# County Title
+title = c_farstrider_retreat
+
+# Settlements
+max_settlements = 4
+b_farstrider_retreat = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

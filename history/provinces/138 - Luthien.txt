@@ -1,0 +1,13 @@
+# 138 - Luthien
+
+# County Title
+title = c_luthien
+
+# Settlements
+max_settlements = 4
+b_luthien = castle
+
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

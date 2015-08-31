@@ -1,0 +1,14 @@
+# 380 - Soferas Fall
+
+# County Title
+title = c_soferas_fall
+
+# Settlements
+max_settlements = 4
+b_soferas_fall = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,145 @@
+song = {
+	name = "arthas.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+
+song = {
+	name = "call_to_arms.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+
+song = {
+	name = "culling.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+
+song = {
+	name = "castaways.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "darnassus.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "dun_morogh.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "duskwood.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "elwynn.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "escape_from_durnholde.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "howling.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "lament.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "shards.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "silvermoon.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+
+song = {
+	name = "sindorei.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "stormwind.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "taverns.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "stranglethorn.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+
+song = {
+	name = "taverns.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "thunder_bluff.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}
+song = {
+	name = "war.ogg"
+	
+	chance = {
+			factor = 1		
+	}
+}

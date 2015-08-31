@@ -1,0 +1,15 @@
+# 75 - Gregors Valley
+
+# County Title
+title = c_gregors_valley
+
+# Settlements
+max_settlements = 3
+
+b_gregors_valley = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

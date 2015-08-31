@@ -1,0 +1,14 @@
+# 192 - Matthidan
+
+# County Title
+title = c_matthidan
+
+# Settlements
+max_settlements = 4
+b_matthidan = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

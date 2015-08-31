@@ -1,0 +1,10 @@
+########################################################
+#
+#		Holy Light Decisions
+#
+#		Coded by Ryan Plourde
+#
+########################################################
+
+#The Church of the Holy Light is a religion based off the belief of the Holy Light
+

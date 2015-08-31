@@ -1,0 +1,16 @@
+# 283 - Alterac City
+
+# County Title
+title = c_alterac_city
+
+# Settlements
+max_settlements = 7
+
+b_alterac_city = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+
+# History

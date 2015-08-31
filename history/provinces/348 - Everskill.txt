@@ -1,0 +1,14 @@
+# 348 - Everskill
+
+# County Title
+title = c_everskill
+
+# Settlements
+max_settlements = 4
+b_everskill = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

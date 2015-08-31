@@ -1,0 +1,14 @@
+# 314 - Lordamere Pass
+
+# County Title
+title = c_lordamere_pass
+
+# Settlements
+max_settlements = 3
+b_lordamere_pass = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

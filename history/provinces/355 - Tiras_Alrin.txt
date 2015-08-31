@@ -1,0 +1,15 @@
+# 355 - Tiras Alrin
+
+# County Title
+title = c_tiras_alrin
+
+# Settlements
+max_settlements = 4
+b_tiras_alrin = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History
+

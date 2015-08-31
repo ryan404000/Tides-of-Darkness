@@ -1,0 +1,14 @@
+# 356 - Irontrade
+
+# County Title
+title = c_irontrade
+
+# Settlements
+max_settlements = 7
+b_irontrade = city
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

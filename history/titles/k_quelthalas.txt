@@ -1,0 +1,6 @@
+4000.1.1={
+	holder = 84
+	law = true_cognatic_succession
+	law = succ_primogeniture
+	law = centralization_2
+}

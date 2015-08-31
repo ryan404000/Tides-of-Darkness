@@ -1,0 +1,544 @@
+203 = {
+	name="Perenolde"
+	culture = alteraci
+}
+204 = {
+	name="Vallis"
+	culture = alteraci
+}
+205 = {
+	name="Wallance"
+	culture = alteraci
+}
+206 = {
+	name="Pell"
+	culture = alteraci
+}
+207 = {
+	name="Peren"
+	culture = alteraci
+}
+208 = {
+	name="Fullburke"
+	culture = alteraci
+}
+209 = {
+	name="Oswert"
+	culture = alteraci
+}
+210 = {
+	name="Brevalde"
+	culture = alteraci
+}
+211 = {
+	name="Cromwell"
+	culture = alteraci
+}
+212 = {
+	name="Ravenholdt"
+	culture = alteraci
+}
+213 = {
+	name="Dunn"
+	culture = alteraci
+}
+215 = {
+	name="Bell"
+	culture = alteraci
+}
+216 = {
+	name="Gavin"
+	culture = alteraci
+}
+217 = {
+	name="Redpath"
+	culture = alteraci
+}
+218 = {
+	name="Tarren"
+	culture = alteraci
+}
+219 = {
+	name="Dandred"
+	culture = alteraci
+}
+248 = {
+	name="of Alterac"
+	culture = alteraci
+}
+249 = {
+	name="of Aesbrahd"
+	culture = alteraci
+}
+250 = {
+	name="of Setimbough"
+	culture = alteraci
+}
+251 = {
+	name="of Benenbrahd"
+	culture = alteraci
+}
+252 = {
+	name="of Strahnbrad"
+	culture = alteraci
+}
+253 = {
+	name="of Orenhall"
+	culture = alteraci
+}
+254 = {
+	name="of Perenholdt"
+	culture = alteraci
+}
+255 = {
+	name="of Jurthir"
+	culture = alteraci
+}
+256 = {
+	name="of Chillwind"
+	culture = alteraci
+}
+257 = {
+	name="of South Chillwind"
+	culture = alteraci
+}
+258 = {
+	name="of Alterie"
+	culture = alteraci
+}
+259 = {
+	name="of Dunn Vell"
+	culture = alteraci
+}
+260 = {
+	name="of Eastdurn"
+	culture = alteraci
+}
+261 = {
+	name="of Durnholde"
+	culture = alteraci
+}
+262 = {
+	name="of Tarren Mill"
+	culture = alteraci
+}
+263 = {
+	name="of Corrahn"
+	culture = alteraci
+}
+264 = {
+	name="of Juroon"
+	culture = alteraci
+}
+265 = {
+	name="of Southshore"
+	culture = alteraci
+}
+266 = {
+	name="of Hasic"
+	culture = alteraci
+}
+385 = {
+	name="Perenall"
+	culture = alteraci
+}
+386 = {
+	name="Alden"
+	culture = alteraci
+}
+387 = {
+	name="Pallwor"
+	culture = alteraci
+}
+388 = {
+	name="Alwith"
+	culture = alteraci
+}
+389 = {
+	name="Wolder"
+	culture = alteraci
+}
+390 = {
+	name="Galloth"
+	culture = alteraci
+}
+391 = {
+	name="Hath"
+	culture = alteraci
+}
+392 = {
+	name="Minther"
+	culture = alteraci
+}
+393 = {
+	name="Ulthred"
+	culture = alteraci
+}
+394 = {
+	name="Hurrier"
+	culture = alteraci
+}
+395 = {
+	name="Lyun"
+	culture = alteraci
+}
+396 = {
+	name="Lorraine"
+	culture = alteraci
+}
+397 = {
+	name="Lorr"
+	culture = alteraci
+}
+398 = {
+	name="Melthord"
+	culture = alteraci
+}
+399 = {
+	name="Ashnen"
+	culture = alteraci
+}
+400 = {
+	name="Malor"
+	culture = alteraci
+}
+401 = {
+	name="Lossier"
+	culture = alteraci
+}
+402 = {
+	name="Losar"
+	culture = alteraci
+}
+403 = {
+	name="Strahnreed"
+	culture = alteraci
+}
+404 = {
+	name="Strahnwold"
+	culture = alteraci
+}
+405 = {
+	name="Strahnheld"
+	culture = alteraci
+}
+406 = {
+	name="Falconcrest"
+	culture = alteraci
+}
+407 = {
+	name="Summitcrest"
+	culture = alteraci
+}
+408 = {
+	name="Stagcrest"
+	culture = alteraci
+}
+409 = {
+	name="Lioncrest"
+	culture = alteraci
+}
+410 = {
+	name="Wolfcrest"
+	culture = alteraci
+}
+411 = {
+	name="Mountcrest"
+	culture = alteraci
+}
+412 = {
+	name="Bevenolde"
+	culture = alteraci
+}
+413 = {
+	name="Alvinolde"
+	culture = alteraci
+}
+414 = {
+	name="Michanolde"
+	culture = alteraci
+}
+415 = {
+	name="Crestnolde"
+	culture = alteraci
+}
+416 = {
+	name="Lunolde"
+	culture = alteraci
+}
+417 = {
+	name="Agenanolde"
+	culture = alteraci
+}
+418 = {
+	name="Wiltersnolde"
+	culture = alteraci
+}
+419 = {
+	name="Clamornolde"
+	culture = alteraci
+}
+420 = {
+	name="Ordanolde"
+	culture = alteraci
+}
+421 = {
+	name="Ballanolde"
+	culture = alteraci
+}
+422 = {
+	name="Jorellnolde"
+	culture = alteraci
+}
+423 = {
+	name="Vulleyrond"
+	culture = alteraci
+}
+424 = {
+	name="Messorond"
+	culture = alteraci
+}
+425 = {
+	name="Ormanrond"
+	culture = alteraci
+}
+426 = {
+	name="Aidenrond"
+	culture = alteraci
+}
+427 = {
+	name="Farsanrond"
+	culture = alteraci
+}
+428 = {
+	name="Vishas"
+	culture = alteraci
+}
+429 = {
+	name="Prose"
+	culture = alteraci
+}
+430 = {
+	name="Myners"
+	culture = alteraci
+}
+431 = {
+	name="Cayners"
+	culture = alteraci
+}
+432 = {
+	name="Bridenbrad"
+	culture = alteraci
+}
+433 = {
+	name="Thalmers"
+	culture = alteraci
+}
+434 = {
+	name="Vardus"
+	culture = alteraci
+}
+435 = {
+	name="Varder"
+	culture = alteraci
+}
+436 = {
+	name="Ryson"
+	culture = alteraci
+}
+437 = {
+	name="Rennson"
+	culture = alteraci
+}
+438 = {
+	name="Bannson"
+	culture = alteraci
+}
+439 = {
+	name="Bennan"
+	culture = alteraci
+}
+440 = {
+	name="Borhuin"
+	culture = alteraci
+}
+441 = {
+	name="Tayrhuin"
+	culture = alteraci
+}
+442 = {
+	name="Yorhuin"
+	culture = alteraci
+}
+443 = {
+	name="Legace"
+	culture = alteraci
+}
+444 = {
+	name="Peregace"
+	culture = alteraci
+}
+445 = {
+	name="Eston"
+	culture = alteraci
+}
+446 = {
+	name="Marlgen"
+	culture = alteraci
+}
+447 = {
+	name="Wolgen"
+	culture = alteraci
+}
+448 = {
+	name="Menag"
+	culture = alteraci
+}
+449 = {
+	name="Kavdan"
+	culture = alteraci
+}
+450 = {
+	name="Reginolde"
+	culture = alteraci
+}
+451 = {
+	name="Lescovar"
+	culture = alteraci
+}
+452 = {
+	name="Banncovar"
+	culture = alteraci
+}
+453 = {
+	name="Gescovar"
+	culture = alteraci
+}
+454 = {
+	name="Muscovar"
+	culture = alteraci
+}
+455 = {
+	name="Higcovar"
+	culture = alteraci
+}
+456 = {
+	name="Jonncovar"
+	culture = alteraci
+}
+457 = {
+	name="Blaumeux"
+	culture = alteraci
+}
+458 = {
+	name="Grismeux"
+	culture = alteraci
+}
+459 = {
+	name="Rougemeux"
+	culture = alteraci
+}
+460 = {
+	name="Jaunemeux"
+	culture = alteraci
+}
+461 = {
+	name="Noirmeux"
+	culture = alteraci
+}
+462 = {
+	name="Marronmeux"
+	culture = alteraci
+}
+463 = {
+	name="Vertimeux"
+	culture = alteraci
+}
+464 = {
+	name="Grunmeux"
+	culture = alteraci
+}
+465 = {
+	name="Weismeux"
+	culture = alteraci
+}
+466 = {
+	name="Farbemeux"
+	culture = alteraci
+}
+467 = {
+	name="Rosameux"
+	culture = alteraci
+}
+468 = {
+	name="Balfour"
+	culture = alteraci
+}
+469 = {
+	name="Galloway"
+	culture = alteraci
+}
+470 = {
+	name="Kapsalis"
+	culture = alteraci
+}
+471 = {
+	name="Setim"
+	culture = alteraci
+}
+472 = {
+	name="Mountworn"
+	culture = alteraci
+}
+473 = {
+	name="Krole"
+	culture = alteraci
+}
+474 = {
+	name="LeCraft"
+	culture = alteraci
+}
+475 = {
+	name="Brevig"
+	culture = alteraci
+}
+659 = {
+	name="Marduke"
+	culture = alteraci
+}
+675 = {
+	name="Lankester"
+	culture = alteraci
+}
+680 = {
+	name="Gossom"
+	culture = alteraci
+}
+681 = {
+	name="Killian"
+	culture = alteraci
+}
+682 = {
+	name="Gregorian"
+	culture = alteraci
+}
+683 = {
+	name="Alliestar"
+	culture = alteraci
+}
+684 = {
+	name="Bloch"
+	culture = alteraci
+}
+6004 = {
+	name="Barov"
+	culture = alteraci
+}
+6011 = {
+	name="Welsing"
+	culture = alteraci
+}
+6012 = {
+	name="Welsingolde"
+	culture = alteraci
+}

@@ -1,0 +1,14 @@
+# 43 - Nalorakk
+
+# County Title
+title = c_nalorakk
+
+# Settlements
+max_settlements = 6
+b_nalorakk = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

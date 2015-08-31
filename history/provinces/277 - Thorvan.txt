@@ -1,0 +1,15 @@
+# 277 - Thorvan
+
+# County Title
+title = c_thorvan
+
+# Settlements
+max_settlements = 4
+b_thorvan = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+

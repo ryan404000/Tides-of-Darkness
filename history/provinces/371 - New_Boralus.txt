@@ -1,0 +1,15 @@
+# 371 - New Boralus
+
+# County Title
+title = c_new_boralus
+
+# Settlements
+max_settlements = 4
+b_new_boralus = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History
+

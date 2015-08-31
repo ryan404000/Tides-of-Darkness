@@ -1,0 +1,814 @@
+ # Triggers are in Province scope. The From Scope contains the settlement holder (character)
+ # start trigger is in title scope.
+ 
+ #<tag> = {
+ #	desc = description used in the tooltip of the building
+ #	trigger = used for tech requirement of the building, set to 0 if no requirement so it can be build automatically on new games
+ #	build_cost = cost to build the building
+ #	build_time = time to build, in days
+ #	
+ #	ai_creation_factor = weight that the AI uses to determine what building to build
+ #	extra_tech_building_start = when starting a new game this building will be pre-built if the province has higher tech than the requirement + this + random 0-1
+ #}
+ 
+ # Castle
+castle = {
+	# All cultural buildings follow the same pattern:
+	# tech required is 0, 1, 2, 4 for the levels of the buildings
+	# cost is 200 + 100 per level
+	# 60 maintenance of troops + 20 per level
+	# + 0.15 bonus in either offensive, defensive or morale sometimes split over different units or stats same on all levels
+	
+	# Culture building names MUST start with ca_culture
+
+	#Wood Elf Farstrider Encampment
+	ca_culture_high_elf_1 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+					OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		archers_offensive = 0.15
+		archers = 60
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_2 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+					OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_high_elf_1
+		build_cost = 300
+		build_time = 1095
+		archers_offensive = 0.15
+		archers = 80
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_3 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+					OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_high_elf_2
+		build_cost = 400
+		build_time = 2190
+		archers_offensive = 0.15
+		archers = 100
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_4 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+					OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_high_elf_3
+		build_cost = 500
+		build_time = 2190
+		archers_offensive = 0.15
+		archers = 120
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+
+	#Alteraci Mountain Lodge
+	ca_culture_alteraci_1 = {
+		desc = ca_culture_alteraci_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = alteraci
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		pikemen = 30
+		pikemen_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_alteraci_2 = {
+		desc = ca_culture_alteraci_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = alteraci
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_alteraci_1
+		build_cost = 300
+		build_time = 1095
+		pikemen = 40
+		pikemen_defensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_alteraci_3 = {
+		desc = ca_culture_alteraci_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = alteraci
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_alteraci_2
+		build_cost = 400
+		build_time = 2190
+		pikemen = 60
+		pikemen_defensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_alteraci_4 = {
+		desc = ca_culture_alteraci_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = alteraci
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_alteraci_3
+		build_cost = 500
+		build_time = 2190
+		pikemen = 80
+		pikemen_defensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}	
+	
+	#Hillmen Military Districts
+	ca_culture_gilnean_1 = {
+		desc = ca_culture_gilnean_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = gilnean
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		heavy_infantry = 30
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 101
+
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_gilnean_2 = {
+		desc = ca_culture_gilnean_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = gilnean
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_gilnean_1
+		build_cost = 300
+		build_time = 1095
+		heavy_infantry = 40
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_gilnean_3 = {
+		desc = ca_culture_gilnean_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture_group = baltic
+					culture_group = finno_ugric
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_gilnean_2
+		build_cost = 400
+		build_time = 2190
+		heavy_infantry = 50
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_gilnean_4 = {
+		desc = ca_culture_gilnean_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = gilnean
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_gilnean_3
+		build_cost = 500
+		build_time = 2190
+		heavy_infantry = 60
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	#Amani Shrine
+	ca_culture_amani_1 = {
+		desc = ca_culture_amani_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = amani
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		heavy_infantry = 15
+		witch_doctors = 20
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_amani_2 = {
+		desc = ca_culture_amani_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = amani
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_amani_1
+		build_cost = 300
+		build_time = 1095
+		heavy_infantry = 25
+		witch_doctors = 30
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_amani_3 = {
+		desc = ca_culture_amani_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = amani
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_amani_2
+		build_cost = 400
+		build_time = 2190
+		heavy_infantry = 35
+		witch_doctors = 40
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_amani_4 = {
+		desc = ca_culture_amani_1_desc
+		potential = {
+			FROM = { 
+				OR = {
+					culture = amani
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_amani_3
+		build_cost = 500
+		build_time = 2190
+		heavy_infantry = 45
+		witch_doctors = 50
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	#Arathi Citadel
+	ca_culture_stromic_1 = {
+		desc = ca_culture_stromic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = stromic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		knights = 20
+		knights_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_stromic_2 = {
+		desc = ca_culture_stromic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = stromic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_stromic_1
+		build_cost = 300
+		build_time = 1095
+		knights = 30
+		knights_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_stromic_3 = {
+		desc = ca_culture_stromic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = stromic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_stromic_2
+		build_cost = 400
+		build_time = 2190
+		knights = 40
+		knights_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_stromic_4 = {
+		desc = ca_culture_stromic_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = stromic
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_stromic_3
+		build_cost = 500
+		build_time = 2190
+		knights = 50
+		knights_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}	
+	
+	#Northmen Tournament Fields
+	ca_culture_lordaeronian_1 = {
+		desc = ca_culture_lordaeronian_1_desc
+		potential = {
+			FROM = { culture = lordaeronian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_cavalry = 15
+		knights = 10
+		knights_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_lordaeronian_2 = {
+		desc = ca_culture_lordaeronian_1_desc
+		potential = {
+			FROM = { culture = lordaeronian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_lordaeronian_1
+		build_cost = 300
+		build_time = 1095
+		light_cavalry = 25
+		knights = 15
+		knights_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_lordaeronian_3 = {
+		desc = ca_culture_lordaeronian_1_desc
+		potential = {
+			FROM = { culture = lordaeronian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_lordaeronian_2
+		build_cost = 400
+		build_time = 2190
+		light_cavalry = 35
+		knights = 20
+		knights_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_lordaeronian_4 = {
+		desc = ca_culture_lordaeronian_1_desc
+		potential = {
+			FROM = { culture = lordaeronian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_lordaeronian_3
+		build_cost = 500
+		build_time = 2190
+		light_cavalry = 45
+		knights = 25
+		knights_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	#Tirassian Militia Armory
+	ca_culture_tirassian_1 = {
+		desc = ca_culture_tirassian_1_desc
+		potential = {
+			FROM = { culture = tirassian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		pikemen = 30
+		pikemen_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tirassian_2 = {
+		desc = ca_culture_tirassian_1_desc
+		potential = {
+			FROM = { culture = tirassian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_tirassian_1
+		build_cost = 300
+		build_time = 1095
+		pikemen = 40
+		pikemen_morale = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tirassian_3 = {
+		desc = ca_culture_tirassian_1_desc
+		potential = {
+			FROM = { culture = tirassian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_tirassian_2
+		build_cost = 400
+		build_time = 2190
+		pikemen = 50
+		pikemen_morale = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tirassian_4 = {
+		desc = ca_culture_tirassian_1_desc
+		potential = {
+			FROM = { culture = tirassian }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_tirassian_3
+		build_cost = 500
+		build_time = 2190
+		pikemen = 60
+		pikemen_morale = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+
+	
+	# Highborne Terraces
+	ca_culture_high_elf_1 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		magisters = 10
+		magisters_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_2 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_high_elf_1
+		build_cost = 300
+		build_time = 1095
+		magisters = 20
+		magisters_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_3 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_high_elf_2
+		build_cost = 400
+		build_time = 2190
+		magisters = 30
+		magisters_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_high_elf_4 = {
+		desc = ca_culture_high_elf_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = high_elf
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_high_elf_3
+		build_cost = 500
+		build_time = 2190
+		magisters = 40
+		magisters_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	
+		# Arcane Vaults
+	ca_culture_dalaranian_1 = {
+		desc = ca_culture_dalaranian_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = dalaranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		wizards = 10
+		wizards_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dalaranian_2 = {
+		desc = ca_culture_dalaranian_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = dalaranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_dalaranian_1
+		build_cost = 300
+		build_time = 1095
+		wizards = 20
+		wizards_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dalaranian_3 = {
+		desc = ca_culture_dalaranian_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = dalaranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_dalaranian_2
+		build_cost = 400
+		build_time = 2190
+		wizards = 30
+		wizards_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dalaranian_4 = {
+		desc = ca_culture_dalaranian_1_desc
+		potential = {
+			FROM = {
+				OR = {
+					culture = dalaranian
+				}
+			}
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_dalaranian_3
+		build_cost = 500
+		build_time = 2190
+		wizards = 40
+		wizards_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	
+	# Witherbark Shadow Caves
+	ca_culture_witherbark_1 = {
+		desc = ca_culture_witherbark_1_desc
+		potential = {
+			FROM = { culture = witherbark }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		light_infantry = 60
+		light_infantry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_witherbark_2 = {
+		desc = ca_culture_witherbark_1_desc
+		potential = {
+			FROM = { culture = witherbark }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_witherbark_1
+		build_cost = 300
+		build_time = 1095
+		light_infantry = 80
+		light_infantry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_witherbark_3 = {
+		desc = ca_culture_witherbark_1_desc
+		potential = {
+			FROM = { culture = witherbark }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_witherbark_2
+		build_cost = 400
+		build_time = 2190
+		light_infantry = 100
+		light_infantry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_witherbark_4 = {
+		desc = ca_culture_witherbark_1_desc
+		potential = {
+			FROM = { culture = witherbark }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 4 }
+		upgrades_from = ca_culture_witherbark_3
+		build_cost = 500
+		build_time = 2190
+		light_infantry = 120
+		light_infantry_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	#Vilebranch Training Ground
+	ca_culture_vilebranch_1 = {
+		desc = ca_culture_vilebranch_1_desc
+		potential = {
+			FROM = { culture_group = vilebranch }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 0 }
+		prerequisites = { ca_wall_2 }
+		build_cost = 200
+		build_time = 730
+		pikemen = 15
+		archers = 30
+		archers_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_vilebranch_2 = {
+		desc = ca_culture_vilebranch_1_desc
+		potential = {
+			FROM = { culture_group = vilebranch }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 1 }
+		upgrades_from = ca_culture_vilebranch_1
+		build_cost = 300
+		build_time = 1095
+		pikemen = 30
+		archers = 40
+		archers_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_vilebranch_3 = {
+		desc = ca_culture_vilebranch_1_desc
+		potential = {
+			FROM = { culture_group = vilebranch }
+		}
+		trigger = { TECH_CASTLE_CONSTRUCTION = 2 }
+		upgrades_from = ca_culture_vilebranch_2
+		build_cost = 400
+		build_time = 2190
+		pikemen = 45
+		archers = 50
+		archers_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_vilebranch_4 = {
+}
+}

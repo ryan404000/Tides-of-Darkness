@@ -1,0 +1,14 @@
+# 62 - Mossers Stride
+
+# County Title
+title = c_mossers_stride
+
+# Settlements
+max_settlements = 2
+b_mossers_stride = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

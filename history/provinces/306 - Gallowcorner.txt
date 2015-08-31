@@ -1,0 +1,14 @@
+# 306 - Gallowcorner
+
+# County Title
+title = c_gallowcorner
+
+# Settlements
+max_settlements = 3
+b_gallowcorner = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

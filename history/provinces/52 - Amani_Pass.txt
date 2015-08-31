@@ -1,0 +1,15 @@
+# 52 - Amani Pass
+
+# County Title
+title = c_amani_pass
+
+# Settlements
+max_settlements = 6
+b_amani_pass = castle
+
+
+# Misc
+culture = amani
+religion = loa
+
+# History

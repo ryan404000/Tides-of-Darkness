@@ -1,0 +1,14 @@
+# 341 - Archell
+
+# County Title
+title = c_archell
+
+# Settlements
+max_settlements = 3
+b_archell = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+# History
+

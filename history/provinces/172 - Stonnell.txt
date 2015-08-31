@@ -1,0 +1,14 @@
+# 172 - Stonnell
+
+# County Title
+title = c_stonnell
+
+# Settlements
+max_settlements = 4
+b_stonnell = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

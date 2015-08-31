@@ -1,0 +1,13 @@
+# 165 - Grainland
+
+# County Title
+title = c_grainland
+
+# Settlements
+max_settlements = 4
+b_grainland = castle
+
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

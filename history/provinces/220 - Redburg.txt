@@ -1,0 +1,15 @@
+# 220 - Redburg
+
+# County Title
+title = c_redburg
+
+# Settlements
+max_settlements = 4
+b_redburg = castle
+
+
+#Misc
+religion = loa
+culture = amani
+
+# History

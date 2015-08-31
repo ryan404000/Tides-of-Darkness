@@ -1,0 +1,14 @@
+# 245 - Dumah Hold
+
+# County Title
+title = c_dumah_hold
+
+# Settlements
+max_settlements = 5
+b_dumah_hold = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

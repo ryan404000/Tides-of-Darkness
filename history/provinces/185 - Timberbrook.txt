@@ -1,0 +1,13 @@
+# 185 - Timberbrook
+
+# County Title
+title = c_timberbrook
+
+# Settlements
+max_settlements = 4
+b_timberbrook = castle
+
+# Misc
+culture = high_elf
+religion = belore
+# History

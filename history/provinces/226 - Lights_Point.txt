@@ -1,0 +1,15 @@
+# 226 - Light's Point
+
+# County Title
+title = c_lights_point
+
+# Settlements
+max_settlements = 3
+b_lights_point = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History
+

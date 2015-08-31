@@ -1,0 +1,15 @@
+# 28 - An'daroth
+
+# County Title
+title = c_andaroth
+
+# Settlements
+max_settlements = 4
+b_andaroth = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

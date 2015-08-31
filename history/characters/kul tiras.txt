@@ -1,0 +1,256 @@
+15 = {
+    name="Ipia"
+    female=yes
+	dynasty=806   #Reeftrader
+    martial=2
+    diplomacy=6
+    intrigue=5
+    stewardship=4
+    learning=5
+    religion="church_of_the_holy_light"
+    culture="tirasian"
+	add_trait="humble"
+	add_trait="gluttonous"
+	add_trait="charismatic_negotiator"
+    3954.2.10={
+         birth="3954.2.10"
+    }
+}
+16 = {
+    name="Ivanira"
+    female=yes
+	dynasty=190   #Estrand
+    martial=6
+    diplomacy=9
+    intrigue=3
+    stewardship=4
+    learning=6
+    religion="church_of_the_holy_light"
+    culture="tirasian"
+	add_trait="twin"
+	add_trait="just"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	father=14
+    mother=15
+    3972.8.13={
+         birth="3972.8.13"
+    }
+}
+66= {
+	name="Harthal" #Derek Proudmoore's son
+	dynasty=291  #Proudmoore
+	martial=3
+	diplomacy=4
+	intrigue=3
+	stewardship=4
+	learning=4
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	add_trait="legit_bastard"
+	add_trait="fair"
+	add_trait="proud"
+	add_trait="envious"
+	father=167
+	mother=65
+	3991.1.5 = {
+		birth="3991.1.5"
+	}
+	}	
+161= {
+	name="Jarl"
+	dynasty=6021    #Mindermoore
+	martial=14
+	diplomacy=5
+	intrigue=9
+	stewardship=6
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	add_trait="just"
+	add_trait="gregarious"
+	add_trait="temperate"
+	add_trait="scarred"
+	add_trait="charitable"
+	add_trait="brilliant_strategist"
+
+	3973.8.1 = {
+		birth="3973.8.1"
+	}
+	4001.1.1 = {
+		wealth=360
+	}
+}
+166= {
+	name="Oliver"  #Duke of the Channel Islands  #Member of the church_of_the_holy_light, friend of the Lothars. Give a Lothar wife
+	dynasty=291     #Proudmoore
+	martial=11
+	diplomacy=9
+	intrigue=7
+	stewardship=11
+	learning=7
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	add_trait="strong"
+	add_trait="diligent"
+	add_trait="duelist"
+	add_trait="shy"
+	add_trait="midas_touched"
+	add_trait="proud"
+	father=168
+	3978.5.9 = {
+		birth="3978.5.9"
+		}
+	4001.1.1 = {
+		wealth=760
+	}
+}
+167= {
+	name="Derek"  #Duke of the Tol Barad  #Member of the church_of_the_holy_light, friend of the Lothars. Give a Lothar wife
+	dynasty=291     #Proudmoore
+	martial=8
+	diplomacy=12
+	intrigue=3
+	stewardship=10
+	learning=6
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	add_trait="quick"
+	add_trait="just"
+	add_trait="greedy"
+	add_trait="humble"
+	add_trait="fortune_builder"
+	add_trait="wroth"
+	father=168
+	3974.5.29 = {
+		birth="3974.5.29"
+		}
+	4001.1.1 = {
+		wealth=360
+	}
+}
+168= {
+	name="Oliver" 
+	dynasty=291     #Proudmoore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+
+	3923.10.20 = {
+		birth="3923.10.20"
+		}
+	3994.1.1 = {
+		death="3994.1.1"
+	}
+}
+169= {
+	name="Alricht"  #King Of Kul Tiras
+	dynasty=705     #Moore
+	martial=11
+	diplomacy=12
+	intrigue=5
+	stewardship=8
+	learning=6
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	add_trait="scarred"
+	add_trait="cynical"
+	add_trait="just"
+	add_trait="kind"
+	add_trait="tough_soldier"
+	add_trait="proud"
+	father=170
+	3971.3.3 = {
+		birth="3971.3.3"
+		}
+	3989.5.4 = {
+		add_spouse = 301
+	}
+	4001.1.1 = {
+		wealth=460
+	}
+	4026.3.8 = {
+		death="4026.3.8"
+		death_reason= death_illness
+		}
+}
+170= {
+	name="Alricht"  #King Of Kul Tiras death
+	dynasty=705     #Moore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	father=171
+	3931.3.3 = {
+		birth="3931.3.3"
+		}
+	3988.1.1 = {
+		death="3988.1.1"
+		death_reason= death_illness
+	}
+}
+171= {
+	name="Alricht"  #King Of Kul Tiras death
+	dynasty=705     #Moore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	father=172
+	3902.2.12 = {
+		birth="3902.2.12"
+		}
+	3959.1.1 = {
+		death="3959.1.1"
+		death_reason= death_illness	
+	}
+}
+172= {
+	name="Alricht"  #King Of Kul Tiras death
+	dynasty=705     #Moore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	father=173
+	3842.2.1 = {
+		birth="3842.2.1"
+		}
+	3926.1.1 = {
+		death="3926.1.1"
+		death_reason= death_illness
+	}
+}
+173= {
+	name="Alricht"  #King Of Kul Tiras death
+	dynasty=705     #Moore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	3809.2.1 = {
+		birth="3809.2.1"
+		}
+	3870.1.1 = {
+		death="3870.1.1"
+		death_reason = death_illness
+	}
+
+}
+300= {
+	name="Alricht"  #Son of 169
+	dynasty=705     #Moore
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	father=169
+	mother=301
+	3993.6.20 = {
+		birth="3993.6.20"
+		}
+	4065.5.2 = {
+		death="4065.5.2"
+		death_reason= death_illness
+		}
+}
+301= {
+	name="Jenna" 
+	dynasty=6066     #Balamont
+	female = yes
+	religion="church_of_the_holy_light"
+	culture="tirasian"
+	3971.2.1 = {
+		birth="3971.2.1"
+		}
+}

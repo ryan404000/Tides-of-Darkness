@@ -1,0 +1,14 @@
+# 188 - Preston
+
+# County Title
+title = c_preston
+
+# Settlements
+max_settlements = 6
+b_preston = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

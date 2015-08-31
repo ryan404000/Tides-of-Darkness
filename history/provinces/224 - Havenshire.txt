@@ -1,0 +1,14 @@
+# 224 - Havenshire
+
+# County Title
+title = c_havenshire
+
+# Settlements
+max_settlements = 5
+b_havenshire = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

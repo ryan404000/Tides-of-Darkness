@@ -1,0 +1,14 @@
+# 194 - Crestan Hold
+
+# County Title
+title = c_crestan_hold
+
+# Settlements
+max_settlements = 4
+b_crestan_hold = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

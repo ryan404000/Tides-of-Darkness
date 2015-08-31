@@ -1,0 +1,14 @@
+# 111 - Shadrub
+
+# County Title
+title = c_shadrub
+
+# Settlements
+max_settlements = 4
+b_shadrub = castle
+
+culture = vilebranch
+religion = loa
+
+# History
+

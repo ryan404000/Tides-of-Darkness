@@ -1,0 +1,14 @@
+# 155 - Brill's Fiefs
+
+# County Title
+title = c_brills_fiefs
+
+# Settlements
+max_settlements = 6
+b_brills_fiefs = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

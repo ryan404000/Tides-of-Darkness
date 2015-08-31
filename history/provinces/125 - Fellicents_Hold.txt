@@ -1,0 +1,15 @@
+# 125 - Fellicent's Hold
+
+# County Title
+title = c_fellicents_hold
+
+# Settlements
+max_settlements = 5
+b_fellicents_hold = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+

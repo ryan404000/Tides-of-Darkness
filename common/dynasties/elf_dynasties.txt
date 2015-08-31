@@ -1,0 +1,249 @@
+2 = {
+	name="Sunstrider"
+	culture = high_elf
+}
+3 = {
+	name="Falthrien"
+	culture = high_elf
+}
+4 = {
+	name="Sunleaves"
+	culture = high_elf
+}
+5 = {
+	name="Sunsight"
+	culture = high_elf
+}
+6 = {
+	name="Silverchase"
+	culture = high_elf
+}
+7 = {
+	name="Dawnsword"
+	culture = high_elf
+}
+8 = {
+	name="Goldfalcon"
+	culture = high_elf
+}
+9 = {
+	name="Duskwalker"
+	culture = high_elf
+}
+10 = {
+	name="Goldenthal"
+	culture = high_elf
+}
+11 = {
+	name="Theron"
+	culture = high_elf
+}
+12 = {
+	name="Violetlight"
+	culture = high_elf
+}
+13 = {
+	name="Azonvelion"
+	culture = high_elf
+}
+14 = {
+	name="Shinehollow"
+	culture = high_elf
+}
+15 = {
+	name="Saltheril"
+	culture = high_elf
+}		#Barony of The Royal Exchange Ruler
+16 = {
+	name="Firewing"
+	culture = high_elf
+}		#Barony of Farstrider Square Ruler
+17 = {
+	name="Suncrest"
+	culture = high_elf
+}		#Barony of Sunfury Spire
+18 = {
+	name="Dawnwander"
+	culture = high_elf
+}		#Barony of The Bazaar Ruler
+19 = {
+	name="Sunveil"
+	culture = high_elf
+}		#Barony of Court of the Sun Ruler
+20 = {
+	name="Silvervolley"
+	culture = high_elf
+}		#County of Bronzetithe Ruler
+21 = {
+	name="Sunmorrow"
+	culture = high_elf
+}		#County of Kaithdock Ruler
+22 = {
+	name="Silverstride"
+	culture = high_elf
+}		#County of Caer Darrow Ruler and Duchy of Caer Darrow Ruler
+23 = {
+	name="Windrunner"
+	culture = high_elf
+}		#County of Windrunner and Duchy of Windrunner
+115 = {
+	name="Enturria"
+	culture = high_elf
+}		#County of Quel'lithien Ruler
+121 = {
+	name="Caernsinger"
+	culture = high_elf
+}		#County of Timberbrook Ruler
+122 = {
+	name="Sunsword"
+	culture = high_elf
+}		#County of Greenwood Ruler
+123 = {
+	name="Silverspring"
+	culture = high_elf
+}		#County of Thalassian Pass Ruler
+124 = {
+	name="Silverstream"
+	culture = high_elf
+}		#County of Suncrown Ruler
+125 = {
+	name="Springrunner"
+	culture = high_elf
+}		#County of Tranquillien Ruler and Duchy of Tranquillien Ruler
+126 = {
+	name="Silvercreek"
+	culture = high_elf
+}		#County of Sungraze Peak Ruler
+127 = {
+	name="Highvalley"
+	culture = high_elf
+}		#County of Amandazar and Duchy of Adrazul
+128 = {
+	name="Hawkrunner"
+	culture = high_elf
+}		#County of Underlight Ruler
+129 = {
+	name="Hawkriver"
+	culture = high_elf
+}		#County of Moonwood Ruler
+6030 = {
+	name = "Brightwing"
+	culture = high_elf
+}		#County of Drathir Valley Ruler
+6031 = {
+	name = "Sunrunner"
+	culture = high_elf
+}		#County of Windspire Ruler
+6032 = {
+	name = "Miststrider"
+	culture = high_elf
+}		#County of Shalandis Ruler
+6033 = {
+	name = "Greenwing"
+	culture = high_elf
+}		#County of An'Daroth and Duchy of An'Daroth Ruler
+6034 = {
+	name = "Loresong"
+	culture = high_elf
+}		#County of Elrendar Crossing Ruler
+6035 = {
+	name = "Elvensong"
+	culture = high_elf
+}		#County of Elrendar Falls and Duchy of Elrendar Ruler
+6036 = {
+	name = "Greytreader"
+	culture = high_elf
+}		#County of Shan'dor Ruler
+6037 = {
+	name = "Boughstrider"
+	culture = high_elf
+}		#County of Falithas Ruler
+6038 = {
+	name = "Elder'star"
+	culture = high_elf
+}		#County of Goldenmist Ruler
+6039 = {
+	name = "Swiftsong"
+	culture = high_elf
+}		#County of Tranquil Shore and Sunsail Ruler
+6040 = {
+	name = "Goldleaf"
+	culture = high_elf
+}		#County of Pallaroth Ruler
+6041 = {
+	name = "Summerdrake"
+	culture = high_elf
+}		#County of Luminvale Ruler
+6042 = {
+	name = "Hawkspear"
+	culture = high_elf
+}		#County of Cherrygrove Ruler
+6043 = {
+	name = "Summerwing"
+	culture = high_elf
+}		#County of Fairbreeze Ruler - Owns Duchy of Fairbreeze
+6044 = {
+	name = "Skycaller"
+	culture = high_elf
+}		#County of Duskwither Ruler
+6045 = {
+	name = "Suncaller"
+	culture = high_elf
+}		#County of Farstrider's Retreat Ruler - Owns Duchy of Eversong
+6046 = {
+	name = "Goldenlight"
+	culture = high_elf
+}		#County of Shepard's Gate Rulers
+6047 = {
+	name = "Dawnrunner"
+	culture = high_elf
+}		#County of Glintwater Rulers
+6048 = {
+	name = "Dawnhearth"
+	culture = high_elf
+}		#County of Porcelcnas Rulers
+6049 = {
+	name = "Goldenhearth"
+	culture = high_elf
+}		#County of Arcanus Rulers
+6050 = {
+	name = "Duskbringer"
+	culture = high_elf
+}		#County of Falconwing Rulers
+6051 = {
+	name = "Cloudbreaker"
+	culture = high_elf
+}		#County of Magister's Terrace Rulers
+6052 = {
+	name = "Cloudringer"
+	culture = high_elf
+}		#County of Sun's Reach Rulers
+6053 = {
+	name = "Cloudstrafe"
+	culture = high_elf
+}		#County of Silverisle Rulers
+6054 = {
+	name = "Duskhallow"
+	culture = high_elf
+}		#Sunspire Duchy
+6055 = {
+	name = "Fireheart"
+	culture = high_elf
+}		#County of Falthrien Rulers
+6056 = {
+	name = "Brightlock"
+	culture = high_elf
+}		#County of Sun's Crossing Rulers
+6057 = {
+	name = "Whitedawn"
+	culture = high_elf
+}		#Dathremar Shrine Barony
+6059 = {
+	name="Salonar"
+	culture = high_elf
+}		#Grand Magister of Belore - Duchy of Quel'Danas
+6060 = {
+	name="Greatmorn"
+	culture = high_elf
+}
+

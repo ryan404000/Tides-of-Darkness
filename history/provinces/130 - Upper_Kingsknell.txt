@@ -1,0 +1,13 @@
+# 130 - Upper Kingsknell
+
+# County Title
+title = c_upper_kingsknell
+
+# Settlements
+max_settlements = 5
+b_upper_kingsknell = castle
+
+culture = lordaeronian
+religion = old_ways
+
+# History

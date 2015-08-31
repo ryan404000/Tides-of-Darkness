@@ -1,0 +1,15 @@
+# 289 - Strahnbrad
+
+# County Title
+title = c_strahnbrad
+
+# Settlements
+max_settlements = 6
+
+b_strahnbrad = castle 
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

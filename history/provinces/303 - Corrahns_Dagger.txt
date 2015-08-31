@@ -1,0 +1,15 @@
+# 303 - Corrahn's Dagger
+
+# County Title
+title = c_corrahns_dagger
+
+# Settlements
+max_settlements = 5
+
+b_corrahns_dagger = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

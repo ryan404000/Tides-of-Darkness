@@ -1,0 +1,12 @@
+# 170 - Tannerdale
+# County Title
+title = c_tannerdale
+
+# Settlements
+max_settlements = 4
+b_tannerdale = castle
+
+culture = amani
+religion = loa
+
+# History

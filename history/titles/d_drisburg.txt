@@ -1,0 +1,20 @@
+3835.1.1={
+	holder = 173
+}
+3870.1.1={
+	holder = 172
+}
+3926.1.1={
+	holder = 171
+}
+3959.1.1={
+	holder = 170
+}
+3988.1.1={
+	holder = 169
+	liege = k_kultiras
+}
+4026.5.2={
+	holder = 300
+	liege = k_kultiras
+}

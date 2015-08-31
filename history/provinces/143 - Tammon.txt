@@ -1,0 +1,14 @@
+# 143 - Tammon
+
+# County Title
+title = c_tammon
+
+# Settlements
+max_settlements = 5
+b_tammon = castle
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

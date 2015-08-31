@@ -1,0 +1,14 @@
+# 244 - Timberswell
+
+# County Title
+title = c_timberswell
+
+# Settlements
+max_settlements = 4
+b_timberswell = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

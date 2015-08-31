@@ -1,0 +1,15 @@
+# 286 - Setimbough
+
+# County Title
+title = c_setimbough
+
+# Settlements
+max_settlements = 5
+
+b_setimbough = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

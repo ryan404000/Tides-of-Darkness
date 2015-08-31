@@ -1,0 +1,15 @@
+# 84 - Autumn's Axe
+
+# County Title
+title = c_autumns_axe
+
+# Settlements
+max_settlements = 5
+
+b_autumns_axe = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

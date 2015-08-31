@@ -1,0 +1,14 @@
+# 275 - Low Arathor
+
+# County Title
+title = c_low_arathor
+
+# Settlements
+max_settlements = 4
+b_low_arathor = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

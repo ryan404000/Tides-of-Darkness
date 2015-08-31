@@ -1,0 +1,14 @@
+# 284 - Aesbrahd
+
+# County Title
+title = c_aesbrahd
+
+# Settlements
+max_settlements = 3
+b_aesbrahd = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

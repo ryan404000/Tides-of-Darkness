@@ -1,0 +1,13 @@
+# 299 - Dunn Vell
+
+# County Title
+title = c_dunn_vell
+
+# Settlements
+max_settlements = 3
+b_dunn_vell = castle
+
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

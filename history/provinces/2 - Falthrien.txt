@@ -1,0 +1,18 @@
+# 2 - Falthrien
+
+# County Title
+title = c_falthrien
+
+# Settlements
+max_settlements = 4
+b_falthrien = castle
+b_quelalthar = city
+b_falthrien_academy = temple
+b_darailien = city
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

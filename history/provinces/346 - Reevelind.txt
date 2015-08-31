@@ -1,0 +1,15 @@
+# 346 - Reevelind
+
+# County Title
+title = c_reevelind
+
+# Settlements
+max_settlements = 3
+b_reevelind = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History
+

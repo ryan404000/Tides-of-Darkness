@@ -1,0 +1,456 @@
+301 = {
+	name="Runeweaver"
+	culture = dalaranian
+}
+302 = {
+	name="Brightcaster"
+	culture = dalaranian
+}
+303 = {
+	name="Rathincord"
+	culture = dalaranian
+}
+304 = {
+	name="Celestein"
+	culture = dalaranian
+}
+305 = {
+	name="Meadow"
+	culture = dalaranian
+}
+306 = {
+	name="Dorcleed"
+	culture = dalaranian
+}
+307 = {
+	name="Cain"
+	culture = dalaranian
+}
+308 = {
+	name="Surle"
+	culture = dalaranian
+}
+309 = {
+	name="Beren"
+	culture = dalaranian
+}
+310 = {
+	name="Penscribe"
+	culture = dalaranian
+}
+5021 = {
+	name="Evanor"
+	culture = dalaranian
+}
+5022 = {
+	name="Preston"
+	culture = dalaranian
+}
+5023 = {
+	name="Anzim"
+	culture = dalaranian
+}
+5024 = {
+	name="Allistarj"
+	culture = dalaranian
+}
+5025 = {
+	name="Mostuejaus"
+	culture = dalaranian
+}
+5026 = {
+	name="Xintor"
+	culture = dalaranian
+}
+5028 = {
+	name="Panouse"
+	culture = dalaranian
+}
+5029 = {
+	name="Tournemire"
+	culture = dalaranian
+}
+5030 = {
+	name="Flinthus"
+	culture = dalaranian
+}
+5031 = {
+	name="Laveauz"
+	culture = dalaranian
+}
+5032 = {
+	name="Beauvau"
+	culture = dalaranian
+}
+5034 = {
+	name="Kohl"
+	culture = dalaranian
+}
+5035 = {
+	name="Tohl"
+	culture = dalaranian
+}
+5036 = {
+	name="Rohl"
+	culture = dalaranian
+}
+5037 = {
+	name="Kol"
+	culture = dalaranian
+}
+5038 = {
+	name="Gol"
+	culture = dalaranian
+}
+5039 = {
+	name="Kaul"
+	culture = dalaranian
+}
+5040 = {
+	name="Luminrath"
+	culture = dalaranian
+}
+5041 = {
+	name="Dathric"
+	culture = dalaranian
+}
+5043 = {
+	name="Cathric"
+	culture = dalaranian
+}
+5044 = {
+	name="Del"
+	culture = dalaranian
+}
+5045 = {
+	name="Bel"
+	culture = dalaranian
+}
+5046 = {
+	name="Nu"
+	culture = dalaranian
+}
+5047 = {
+	name="Na"
+	culture = dalaranian
+}
+5048 = {
+	name="Mo"
+	culture = dalaranian
+}
+5049 = {
+	name="Wu"
+	culture = dalaranian
+}
+5050 = {
+	name="Tu"
+	culture = dalaranian
+}
+5051 = {
+	name="Ha"
+	culture = dalaranian
+}
+5052 = {
+	name="Ba"
+	culture = dalaranian
+}
+5053 = {
+	name="Belmara"
+	culture = dalaranian
+}
+5054 = {
+	name="Netherwane"
+	culture = dalaranian
+}
+5055 = {
+	name="Alturus"
+	culture = dalaranian
+}
+5056 = {
+	name="Varwyn"
+	culture = dalaranian
+}
+5057 = {
+	name="Vargoth"
+	culture = dalaranian
+}
+5058 = {
+	name="Alvareaux"
+	culture = dalaranian
+}
+5059 = {
+	name="Cadabra"
+	culture = dalaranian
+}
+5060 = {
+	name="Drome"
+	culture = dalaranian
+}
+5061 = {
+	name="Pallin"
+	culture = dalaranian
+}
+5062 = {
+	name="Rames"
+	culture = dalaranian
+}
+5063 = {
+	name="Alstein"
+	culture = dalaranian
+}
+5064 = {
+	name="Hanners"
+	culture = dalaranian
+}
+5065 = {
+	name="Merleaux"
+	culture = dalaranian
+}
+5066 = {
+	name="of the Eye"
+	culture = dalaranian
+}
+5067 = {
+	name="Violetgaze"
+	culture = dalaranian
+}
+5068 = {
+	name="Blackgaze"
+	culture = dalaranian
+}
+5069 = {
+	name="Verdengaze"
+	culture = dalaranian
+}
+5070 = {
+	name="Azuregaze"
+	culture = dalaranian
+}
+5071 = {
+	name="of the Golden Eye"
+	culture = dalaranian
+}
+5072 = {
+	name="of the Arcane Coven"
+	culture = dalaranian
+}
+5073 = {
+	name="of the Cloud Coven"
+	culture = dalaranian
+}
+5074 = {
+	name="of the Silver Order"
+	culture = dalaranian
+}
+5075 = {
+	name="of the Silver Circle"
+	culture = dalaranian
+}
+5076 = {
+	name="of the Red Order"
+	culture = dalaranian
+}
+5077 = {
+	name="of the Arcane Circle"
+	culture = dalaranian
+}
+5078 = {
+	name="of Arkan"
+	culture = dalaranian
+}
+5079 = {
+	name="of Crossharrow"
+	culture = dalaranian
+}
+5080 = {
+	name="of Beren"
+	culture = dalaranian
+}
+5081 = {
+	name="of the Dawning Isles"
+	culture = dalaranian
+}
+5082 = {
+	name="of Fenris Isle"
+	culture = dalaranian
+}
+5083 = {
+	name="of Fenris"
+	culture = dalaranian
+}
+5084 = {
+	name="of Yetiholde"
+	culture = dalaranian
+}
+5085 = {
+	name="of Harborhall"
+	culture = dalaranian
+}
+5086 = {
+	name="of Darrowhill"
+	culture = dalaranian
+}
+5087 = {
+	name="of Sofera's Fall"
+	culture = dalaranian
+}
+5088 = {
+	name="of Hillsbrad"
+	culture = dalaranian
+}
+5089 = {
+	name="of Alteron"
+	culture = dalaranian
+}
+5090 = {
+	name="of the Violet Hills"
+	culture = dalaranian
+}
+5091 = {
+	name="of Misty Shore"
+	culture = dalaranian
+}
+5092 = {
+	name="of Arcaneshroud"
+	culture = dalaranian
+}
+5093 = {
+	name="of the Tower"
+	culture = dalaranian
+}
+5094 = {
+	name="of Cross Island"
+	culture = dalaranian
+}
+5095 = {
+	name="of Dalaran"
+	culture = dalaranian
+}
+5096 = {
+	name="of the Citadel"
+	culture = dalaranian
+}
+5097 = {
+	name="Firespark"
+	culture = dalaranian
+}
+5098 = {
+	name="Gleamingstar"
+	culture = dalaranian
+}
+5099 = {
+	name="Gleamingfell"
+	culture = dalaranian
+}
+5100 = {
+	name="Iceshard"
+	culture = dalaranian
+}
+5101 = {
+	name="Maldazzar"
+	culture = dalaranian
+}
+5102 = {
+	name="Rex"
+	culture = dalaranian
+}
+5103 = {
+	name="Kassan"
+	culture = dalaranian
+}
+5104 = {
+	name="Aldamorthas"
+	culture = dalaranian
+}
+5105 = {
+	name="Dosantos"
+	culture = dalaranian
+}
+5106 = {
+	name="Adon"
+	culture = dalaranian
+}
+5107 = {
+	name="Arcanus"
+	culture = dalaranian
+}
+5108 = {
+	name="Donathan"
+	culture = dalaranian
+}
+5109 = {
+	name="Yurias"
+	culture = dalaranian
+}
+5110 = {
+	name="Odelic"
+	culture = dalaranian
+}
+5111 = {
+	name="Odellon"
+	culture = dalaranian
+}
+5112 = {
+	name="Mumplina"
+	culture = dalaranian
+}
+5113 = {
+	name="Firegleam"
+	culture = dalaranian
+}
+5114 = {
+	name="Arcanegleam"
+	culture = dalaranian
+}
+5115 = {
+	name="Icegleam"
+	culture = dalaranian
+}
+5116 = {
+	name="Gleamingspell"
+	culture = dalaranian
+}
+5117 = {
+	name="Glintercast"
+	culture = dalaranian
+}
+6000 = {
+	name="Goldbrilliance"
+	culture = dalaranian
+}
+6001 = {
+	name="Glitterhelm"
+	culture = dalaranian
+}
+6002 = {
+	name="Argaleus"
+	culture = dalaranian
+}
+6003 = {
+	name="Tiare"
+	culture = dalaranian
+}
+6005 = {
+	name="Finster"
+	culture = dalaranian
+}
+6006 = {
+	name="Arcaisme"
+	culture = dalaranian
+}
+6007 = {
+	name="Glitterwand"
+	culture = dalaranian
+}
+6008 = {
+	name="Tasserel"
+	culture = dalaranian
+}
+6009 = {
+	name="Urom"
+	culture = dalaranian
+}
+6010 = {
+	name="Xylem"
+	culture = dalaranian
+}

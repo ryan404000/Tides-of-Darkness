@@ -1,0 +1,26 @@
+bookmark = {
+	name = "BM_THE_UNIFICATION_OF_ARATHOR"
+	desc = "BM_THE_UNIFICATION_OF_ARATHOR_DESC"
+	date = "4001.1.1"
+	
+	character = 1 # Thoradin Lothar the Great
+	character = 230 # Bronn King of the Dwarves
+	character = 84 
+	
+}
+
+bookmark = {
+	name = "BM_SPLITTING_OF_AN_EMPIRE"
+	desc = "BM_SPLITTING_OF_AN_EMPIRE_DESC"
+	date = "5681.1.1"
+	
+	character = 104 # Alderic Future King of Gilneas
+	character = 295 # Liam Trollbane Emperor of Arathi
+	
+}
+bookmark = {
+	name = "BM_THE_SECOND_WAR"
+	desc = "BM_THE_SECOND_WAR_DESC"
+	date = "6800.1.1"
+	
+}

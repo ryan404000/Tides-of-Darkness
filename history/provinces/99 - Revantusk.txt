@@ -1,0 +1,14 @@
+# 99 - Revantusk
+
+# County Title
+title = c_revantusk
+
+# Settlements
+max_settlements = 5
+b_revantusk = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

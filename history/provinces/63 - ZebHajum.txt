@@ -1,0 +1,14 @@
+# 63 - Zeb'Hajum
+
+# County Title
+title = c_zebhajum
+
+# Settlements
+max_settlements = 4
+b_zebhajum = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

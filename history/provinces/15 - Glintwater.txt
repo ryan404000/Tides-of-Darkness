@@ -1,0 +1,14 @@
+# 15 - Glintwater
+
+# County Title
+title = c_glintwater
+
+# Settlements
+max_settlements = 4
+b_glintwater = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

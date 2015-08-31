@@ -1,0 +1,15 @@
+# 332 - Duskmist
+
+# County Title
+title = c_duskmist
+
+# Settlements
+max_settlements = 5
+
+b_duskmist = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

@@ -1,0 +1,14 @@
+# 56 - South Elrendar
+
+# County Title
+title = c_south_elrendar
+
+# Settlements
+max_settlements = 6
+b_south_elrendar = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

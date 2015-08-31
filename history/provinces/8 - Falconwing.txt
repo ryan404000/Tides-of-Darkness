@@ -1,0 +1,20 @@
+# 8 - Falconwing
+
+# County Title
+title = c_falconwing
+
+# Settlements
+max_settlements = 7
+b_falconwing = castle
+b_fethsway = temple
+b_dawninglane = city
+b_huntress_of_the_sun = temple
+b_falconperch = castle
+b_brightwing_grove = temple
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

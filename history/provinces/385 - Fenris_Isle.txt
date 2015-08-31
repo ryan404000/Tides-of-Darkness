@@ -1,0 +1,15 @@
+# 385 - Fenris Isle
+
+# County Title
+title = c_fenris_isle
+
+# Settlements
+max_settlements = 4
+
+b_fenris_isle = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

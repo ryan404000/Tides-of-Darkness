@@ -1,0 +1,14 @@
+# 334 - Cotter Rock
+
+# County Title
+title = c_cotter_rock
+
+# Settlements
+max_settlements = 3
+b_cotter_rock = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

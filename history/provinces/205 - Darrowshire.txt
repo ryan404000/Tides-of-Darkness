@@ -1,0 +1,14 @@
+# 205 - Darrowshire
+
+# County Title
+title = c_darrowshire
+
+# Settlements
+max_settlements = 6
+b_darrowshire = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

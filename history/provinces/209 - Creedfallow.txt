@@ -1,0 +1,14 @@
+# 209 - Creedfallow
+
+# County Title
+title = c_creedfallow
+
+# Settlements
+max_settlements = 4
+b_creedfallow = castle
+
+#Misc
+religion = loa
+culture = vilebranch
+
+# History

@@ -1,0 +1,14 @@
+# 139 - North Brill
+
+# County Title
+title = c_north_brill
+
+# Settlements
+max_settlements = 5
+b_north_brill = castle
+
+#Misc
+religion = church_of_the_holy_light
+culture = lordaeronian
+
+# History

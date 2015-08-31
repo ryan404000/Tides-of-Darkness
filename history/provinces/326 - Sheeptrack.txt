@@ -1,0 +1,14 @@
+# 326 - Sheeptrack
+
+# County Title
+title = c_sheeptrack
+
+# Settlements
+max_settlements = 4
+b_sheeptrack = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

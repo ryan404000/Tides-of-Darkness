@@ -1,0 +1,14 @@
+# 195 - Ryefiefs
+
+# County Title
+title = c_ryefiefs
+
+# Settlements
+max_settlements = 4
+b_ryefiefs = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

@@ -1,0 +1,55 @@
+######Dalaran Independent Groups#####
+
+162= {
+	name="Jacque"
+	dynasty=5076    #of the Red Order
+	religion="church_of_the_holy_light"
+	culture="dalaranian"
+
+	3973.7.12 = {
+		birth="3973.7.12"
+	}
+	4001.1.1 = {
+		wealth=42
+	}
+}
+163= {
+	name="Landazar"
+	dynasty=5058    #Alvareaux
+	religion="church_of_the_holy_light"
+	culture="dalaranian"
+
+	3975.7.12 = {
+		birth="3975.7.12"
+	}
+	4001.1.1 = {
+		wealth=42
+	}
+}
+164= {
+	name="Phin"
+	dynasty=5038    #Gol
+	religion="church_of_the_holy_light"
+	culture="dalaranian"
+
+	3980.7.12 = {
+		birth="3980.7.12"
+	}
+	4001.1.1 = {
+		wealth=42
+	}
+}
+165= {
+	name="Solanda"
+	female=yes
+	dynasty=5113    #Firegleam
+	religion="church_of_the_holy_light"
+	culture="dalaranian"
+
+	3983.3.11 = {
+		birth="3983.3.11"
+	}
+	4001.1.1 = {
+		wealth=42
+	}
+}

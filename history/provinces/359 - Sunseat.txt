@@ -1,0 +1,14 @@
+# 359 - Sunseat
+
+# County Title
+title = c_sunseat
+
+# Settlements
+max_settlements = 4
+b_sunseat = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History

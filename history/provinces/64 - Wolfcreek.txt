@@ -1,0 +1,15 @@
+# 64 - Wolfcreek
+
+# County Title
+title = c_wolfcreek
+
+# Settlements
+max_settlements = 6
+b_wolfcreek = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History
+

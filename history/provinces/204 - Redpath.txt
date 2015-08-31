@@ -1,0 +1,15 @@
+# 204 - Redpath
+
+# County Title
+title = c_redpath
+
+# Settlements
+max_settlements = 3
+b_redpath = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

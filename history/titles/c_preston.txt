@@ -1,0 +1,7 @@
+3960.1.1 = {
+	holder = 196
+}
+3990.1.1 = {
+	holder = 197
+	liege = d_thondroril
+}

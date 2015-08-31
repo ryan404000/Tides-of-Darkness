@@ -1,0 +1,15 @@
+# 294 - Chillwind Basin
+
+# County Title
+title = c_chillwind_basin
+
+# Settlements
+max_settlements = 4
+
+b_chillwind_basin = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

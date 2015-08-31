@@ -1,0 +1,43 @@
+#########################
+##Racial and Cultural Traits ##
+##Written by Ryan P########
+#########################
+
+dwarven = {
+   	health = 15.0	
+	opposites = { elf }
+    opposite_opinion = -5
+  	same_opinion = 20	
+	martial = 2
+	inherit_chance = 100	
+    stewardship = 3
+	customizer = yes
+	command_modifier = {
+		terrain = mountain
+	}
+	ai_ambition = -15 #Influences the AI's desire for expansion, primarily affecting the likelihood of wanting to declare war.
+    ai_rationality = 20 #Influences the way the AI makes choices, such as whether the AI will compare its own levy size with its enemy levy size if it wants to go to war.
+    ai_honor = 45 #Influences the likelihood the AI will honor relationships and alliances, and the chance of attacking despite such relations. Also affects its likelihood of joining plots.
+}
+elf = {
+   	health = 10.0	    
+	opposites = { dwarven }
+    opposite_opinion = -5
+    same_opinion = 5	
+	diplomacy = 2
+	stewardship = 2
+	inherit_chance = 100	
+    fertility = -0.5
+	health = 50
+    immortal = yes
+	customizer = yes
+	ruler_designer_cost = -20	
+    command_modifier = {
+		terrain = forest
+	}
+
+    ai_ambition = -15 #Influences the AI's desire for expansion, primarily affecting the likelihood of wanting to declare war.
+    ai_rationality = 20 #Influences the way the AI makes choices, such as whether the AI will compare its own levy size with its enemy levy size if it wants to go to war.
+    ai_honor = 45 #Influences the likelihood the AI will honor relationships and alliances, and the chance of attacking despite such relations. Also affects its likelihood of joining plots.
+
+}

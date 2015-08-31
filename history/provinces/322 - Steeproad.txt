@@ -1,0 +1,13 @@
+# 322 - Steeproad
+# County Title
+title = c_steeproad
+
+# Settlements
+max_settlements = 3
+b_steeproad = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

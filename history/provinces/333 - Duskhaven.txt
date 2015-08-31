@@ -1,0 +1,14 @@
+# 333 - Duskhaven
+
+# County Title
+title = c_duskhaven
+
+# Settlements
+max_settlements = 6
+b_duskhaven = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

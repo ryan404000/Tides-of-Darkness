@@ -1,0 +1,15 @@
+# 38 - Zeb'sora
+
+# County Title
+title = c_zebsora
+
+# Settlements
+max_settlements = 5
+b_zebsora = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History
+

@@ -1,0 +1,1397 @@
+1 = {
+	name="Elfbreaker"
+	culture = amani
+}
+24 = {
+	name="Elfslayer"
+	culture = amani
+}
+25 = {
+	name="Armripper"
+	culture = amani
+}
+26 = {
+	name="Dullaxe"
+	culture = amani
+}
+27 = {
+	name="Trollmight"
+	culture = amani
+}
+28 = {
+	name="Bloodrung"
+	culture = amani
+}
+29 = {
+	name="Ta'jinor"
+	culture = amani
+}
+30 = {
+	name="Ute'jinor"
+	culture = amani
+}
+31 = {
+	name="Shak'yajin"
+	culture = amani
+}
+32 = {
+	name="Elvengore"
+	culture = amani
+}
+33 = {
+	name="Earstringer"
+	culture = amani
+}
+34 = {
+	name="Mulkaru"
+	culture = amani
+}
+35 = {
+	name="Volazzor"
+	culture = vilebranch
+}
+36 = {
+	name="Warpbranch"
+	culture = amani
+}
+37 = {
+	name="Skullholder"
+	culture = amani
+}
+38 = {
+	name="Dal'soru"
+	culture = amani
+}
+39 = {
+	name="Thorg"
+	culture = amani
+}
+40 = {
+	name="Tuskrender"
+	culture = amani
+}
+41 = {
+	name="Mossbranch"
+	culture = amani
+}
+42 = {
+	name="Axehoarder"
+	culture = amani
+}
+43 = {
+	name="Warderblood"
+	culture = amani
+}
+44 = {
+	name="Tuskwound"
+	culture = vilebranch
+}
+45 = {
+	name="Vilerunner"
+	culture = vilebranch
+}
+46 = {
+	name="Melaxx"
+	culture = vilebranch
+}
+47 = {
+	name="Greenwyrm"
+	culture = vilebranch
+}
+48 = {
+	name="Trollshadow"
+	culture = vilebranch
+}
+49 = {
+	name="Torntusk"
+	culture = vilebranch
+}
+50 = {
+	name="Wokenblood"
+	culture = vilebranch
+}
+51 = {
+	name="Rendrun"
+	culture = vilebranch
+}
+52 = {
+	name="Foultroll"
+	culture = vilebranch
+}
+53 = {
+	name="Witherbark"
+	culture = witherbark
+}
+54 = {
+	name="Maji'ko"
+	culture = witherbark
+}
+55 = {
+	name="Witherbellow"
+	culture = witherbark
+}
+56 = {
+	name="Trollcoven"
+	culture = witherbark
+}
+57 = {
+	name="Moji'kaz"
+	culture = witherbark
+}
+58 = {
+	name="Witherfall"
+	culture = witherbark
+}
+59 = {
+	name="Wartree"
+	culture = witherbark
+}
+60 = {
+	name="Horsebreaker"
+	culture = witherbark
+}
+61 = {
+	name="Horsedefiler"
+	culture = witherbark
+}
+62 = {
+	name="Enj'ekkim"
+	culture = witherbark
+}
+111 = {
+	name="Earstealer"
+	culture = vilebranch
+}
+112 = {
+	name="Warpbranch"
+	culture = vilebranch
+}
+113 = {
+	name="Tuskshatterer"
+	culture = vilebranch
+}
+114 = {
+	name="Gorak'zul"
+	culture = vilebranch
+}
+132 = {
+	name="Tuskward"
+	culture = vilebranch
+}
+133 = {
+	name="Earstinger"
+	culture = amani
+}
+134 = {
+	name="Benttusk"
+	culture = amani
+}
+135 = {
+	name="Skulking"
+	culture = amani
+}
+136 = {
+	name="Delai'zan"
+	culture = amani
+}
+137 = {
+	name="az Amanoxi"
+	culture = amani
+}
+138 = {
+	name="az Zun'akilo"
+	culture = amani
+}
+139 = {
+	name = "az Jinth'reluk"
+	culture = amani
+}
+140 = {
+	name="az Tor'Watha"
+	culture = amani
+}
+141 = {
+	name="az Zeb'Sora"
+	culture = amani
+}
+142 = {
+	name="az Zeb'Nowa"
+	culture = amani
+}
+143 = {
+	name="az Uta-Tek"
+	culture = amani
+}
+144 = {
+	name="az Nalorakk"
+	culture = amani
+}
+145 = {
+	name="az Halazzi"
+	culture = amani
+}
+146 = {
+	name="az Abassi"
+	culture = amani
+}
+147 = {
+	name="az Agol'gazu"
+	culture = amani
+}
+148 = {
+	name="az A'drazul"
+	culture = amani
+}
+149 = {
+	name="az Amandazar"
+	culture = amani
+}
+150 = {
+	name="az Zul'Mashar"
+	culture = amani
+}
+151 = {
+	name="az Dal'Mashu"
+	culture = amani
+}
+152 = {
+	name="az Tokk'Alor"
+	culture = amani
+}
+153 = {
+	name="az Zeb'Olgam"
+	culture = amani
+}
+154 = {
+	name="az Bot'rogg"
+	culture = amani
+}
+155 = {
+	name="az Yor'ungo"
+	culture = amani
+}
+156 = {
+	name="az Zeb'Waba"
+	culture = amani
+}
+157 = {
+	name="az Hir'Guron"
+	culture = amani
+}
+158 = {
+	name="az Agol'Watha"
+	culture = vilebranch
+}
+159 = {
+	name="az Agol'Nemor"
+	culture = vilebranch
+}
+160 = {
+	name="az Shaol'Watha"
+	culture = vilebranch
+}
+161 = {
+	name="az Enthallor"
+	culture = vilebranch
+}
+162 = {
+	name="az Zun'Kree"
+	culture = vilebranch
+}
+163 = {
+	name="az Zun'Watha"
+	culture = vilebranch
+}
+164 = {
+	name="az Zul'Nallor"
+	culture = vilebranch
+}
+165 = {
+	name="az Gur'Zundra"
+	culture = vilebranch
+}
+166 = {
+	name="az Gahzrak"
+	culture = vilebranch
+}
+167 = {
+	name="az Waniwona"
+	culture = vilebranch
+}
+168 = {
+	name="az Hiri'Watha"
+	culture = witherbark
+}
+169 = {
+	name="az Jinth'Watha"
+	culture = witherbark
+}
+170 = {
+	name="az Jintha'Alor"
+	culture = witherbark
+}
+171 = {
+	name="az Emer'Watha"
+	culture = witherbark
+}
+172 = {
+	name="az Shadra'Alor"
+	culture = witherbark
+}
+173 = {
+	name="az Kon'Watha"
+	culture = witherbark
+}
+175 = {
+	name="az Withervale"
+	culture = witherbark
+}
+176 = {
+	name="az Zul'Taz"
+	culture = witherbark
+}
+298 = {
+	name="Dax'intha"
+	culture = vilebranch
+}
+299 = {
+	name="Jinatai"
+	culture = vilebranch
+}
+300 = {
+	name="Manslayer"
+	culture = vilebranch
+}
+809 = {
+	name="Warbander"
+	culture = witherbark
+}
+810 = {
+	name="Warbringer"
+	culture = witherbark
+}
+811 = {
+	name="Spearlord"
+	culture = witherbark
+}
+812 = {
+	name="Hatefowler"
+	culture = witherbark
+}
+813 = {
+	name="Hateshroud"
+	culture = witherbark
+}
+814 = {
+	name="Tuskenstab"
+	culture = witherbark
+}
+815 = {
+	name="Gorefall"
+	culture = witherbark
+}
+816 = {
+	name="Manslayer"
+	culture = witherbark
+}
+817 = {
+	name="Wardrummer"
+	culture = witherbark
+}
+818 = {
+	name="Withertusk"
+	culture = witherbark
+}
+819 = {
+	name = "Witherwarrior"
+	culture = witherbark
+}
+1002 = {
+	name="Witherswing"
+	culture = witherbark
+}
+1003 = {
+	name="Witherstulker"
+	culture = witherbark
+}
+1004 = {
+	name="Witherhulk"
+	culture = witherbark
+}
+1005 = {
+	name="Witherthorn"
+	culture = witherbark
+}
+1007 = {
+	name="Shadra'bakk"
+	culture = witherbark
+}
+1008 = {
+	name="Shadra'bekk"
+	culture = witherbark
+}
+1009 = {
+	name="Shadra'laij"
+	culture = witherbark
+}
+1010 = {
+	name="Hexcloud"
+	culture = witherbark
+}
+1011 = {
+	name="Hexsmite"
+	culture = witherbark
+}
+1012 = {
+	name="Hexfather"
+	culture = witherbark
+}
+1013 = {
+	name="Hexbringer"
+	culture = witherbark
+}
+1014 = {
+	name="Hexcaster"
+	culture = witherbark
+}
+1015 = {
+	name="Hexmaster"
+	culture = witherbark
+}
+1016 = {
+	name="Canopystalker"
+	culture = witherbark
+}
+1017 = {
+	name="Withermoss"
+	culture = witherbark
+}
+1018 = {
+	name="Branchrunner"
+	culture = witherbark
+}
+1019 = {
+	name="Branchstalker"
+	culture = witherbark
+}
+1020 = {
+	name="Zagga"
+	culture = witherbark
+}
+1021 = {
+	name="Zag'mala"
+	culture = witherbark
+}
+1022 = {
+	name="Zag'ajla"
+	culture = witherbark
+}
+1023 = {
+	name="Worgorh"
+	culture = witherbark
+}
+1024 = {
+	name="Galogga"
+	culture = witherbark
+}
+1025 = {
+	name="Yorra"
+	culture = witherbark
+}
+1026 = {
+	name="Jorra"
+	culture = witherbark
+}
+1029 = {
+	name="Horrea"
+	culture = witherbark
+}
+1030 = {
+	name="Norrea"
+	culture = witherbark
+}
+1031 = {
+	name="Hai'watna"
+	culture = witherbark
+}
+1032 = {
+	name="Mith'rethis"
+	culture = witherbark
+}
+1033 = {
+	name="Retherokk"
+	culture = witherbark
+}
+1034 = {
+	name="Halu'orra"
+	culture = witherbark
+}
+1035 = {
+	name="Halu'rokk"
+	culture = witherbark
+}
+1036 = {
+	name="Halai"
+	culture = witherbark
+}
+1037 = {
+	name="Ja'alai"
+	culture = witherbark
+}
+1038 = {
+	name="Boz'jamai"
+	culture = witherbark
+}
+1040 = {
+	name="Bog'yorra"
+	culture = witherbark
+}
+1042 = {
+	name="Boz'jokra"
+	culture = witherbark
+}
+1043 = {
+	name="Bog'rethis"
+	culture = witherbark
+}
+1044 = {
+	name="Spearroar"
+	culture = witherbark
+}
+1045 = {
+	name="Spearcrier"
+	culture = witherbark
+}
+1046 = {
+	name="Wor'jexra"
+	culture = witherbark
+}
+1047 = {
+	name="Wor'wani"
+	culture = witherbark
+}
+1048 = {
+	name="Wor'bajai"
+	culture = witherbark
+}
+1049 = {
+	name="Wor'beijex"
+	culture = witherbark
+}
+1050 = {
+	name="Galax'jai"
+	culture = witherbark
+}
+1052 = {
+	name="Gorja"
+	culture = witherbark
+}
+1053 = {
+	name = "Yorja"
+	culture = witherbark
+}
+1054 = {
+	name = "Jorsjanax"
+	culture = witherbark
+}
+1055 = {
+	name = "Korx"
+	culture = witherbark
+}
+1056 = {
+	name = "Torx"
+	culture = witherbark
+}
+1144 = {
+	name="Sorjax"
+	culture = witherbark
+}
+
+1150 = {
+	name = "E'jorax"
+	culture = witherbark
+}
+
+1151 = {
+	name = "Ata'bekkor"
+	culture = witherbark
+}
+
+1152 = {
+	name = "Ata'rethix"
+	culture = witherbark
+}
+
+1153 = {
+	name = "Elfshatterer"
+	culture = witherbark
+}
+
+1154 = {
+	name = "Spinespearer"
+	culture = witherbark
+}
+1155 = {
+	name = "Bonebracer"
+	culture = witherbark
+}
+1156 = {
+	name = "Gorga"
+	culture = witherbark
+}
+1158 = {
+	name = "Haga'etox"
+	culture = witherbark
+}
+1161 = {
+	name = "Ilkkar'etox"
+	culture = witherbark
+}
+1162 = {
+	name = "Bonestringer"
+	culture = witherbark
+}
+1163 = {
+	name = "Bonestalker"
+	culture = witherbark
+}
+1164 = {
+	name = "Woodslunker"
+	culture = witherbark
+}
+1166 = {
+	name = "Lesla'jai"
+	culture = witherbark
+}
+1200 = {
+	name="Alajao"
+	culture = witherbark
+}
+1201 = {
+	name="Ba'majai"
+	culture = witherbark
+}
+1202 = {
+	name="Ja'josser"
+	culture = witherbark
+}
+1203 = {
+	name="Ilkkorex"
+	culture = witherbark
+}
+1204 = {
+	name="Jaggax"
+	culture = witherbark
+}
+1205 = {
+	name="Ikk'jinpax"
+	culture = witherbark
+}
+1206 = {
+	name="Lod'bexokk"
+	culture = witherbark
+}
+1207 = {
+	name="Lod'haxxor"
+	culture = witherbark
+}
+1208 = {
+	name="Saltwither"
+	culture = witherbark
+}
+1687 = {
+	name="Wetwither"
+	culture = witherbark
+}
+2000 = {
+	name="Redwither"
+	culture = witherbark
+}
+2001 = {
+	name="Olin'jax"
+	culture = witherbark
+}
+2002 = {
+	name="Bol'janor"
+	culture = witherbark
+}
+2003 = {
+	name="Snakeslunker"
+	culture = witherbark
+}
+2004 = {
+	name="Tumaiji"
+	culture = witherbark
+}
+2005 = {
+	name="Tormej"
+	culture = witherbark
+}
+2006 = {
+	name="Ahor'mamex"
+	culture = witherbark
+}
+2007 = {
+	name="Ahor'orak"
+	culture = witherbark
+}
+2008 = {
+	name="Tex'jinor"
+	culture = witherbark
+}
+2009 = {
+	name="Bot'jinor"
+	culture = witherbark
+}
+2010 = {
+	name="Tax'jinor"
+	culture = witherbark
+}
+2011 = {
+	name="Axewarrior"
+	culture = vilebranch
+}
+2012 = {
+	name="Jaxei"
+	culture = vilebranch
+}
+2013 = {
+	name="Jaxus"
+	culture = vilebranch
+}
+2014 = {
+	name="Jan'jazax"
+	culture = vilebranch
+}
+2015 = {
+	name="Hir'joraz"
+	culture = vilebranch
+}
+2016 = {
+	name="Tol'joraz"
+	culture = vilebranch
+}
+2017 = {
+	name="Ong'joraz"
+	culture = vilebranch
+}
+2018 = {
+	name="Akkon'jex"
+	culture = vilebranch
+}
+2019 = {
+	name="Akkon'jax"
+	culture = vilebranch
+}
+2020 = {
+	name="Akkon'tai"
+	culture = vilebranch
+}
+2021 = {
+	name="Akkon'taj"
+	culture = vilebranch
+}
+2022 = {
+	name="Hon'jorex"
+	culture = vilebranch
+}
+2023 = {
+	name="Jexorus"
+	culture = vilebranch
+}
+2024 = {
+	name="Raaxorus"
+	culture = vilebranch
+}
+2025 = {
+	name="Talai'oruk"
+	culture = vilebranch
+}
+2026 = {
+	name="Jalai'oruk"
+	culture = vilebranch
+}
+2027 = {
+	name="Jeslai'oru"
+	culture = vilebranch
+}
+2028 = {
+	name="Sorlai'oru"
+	culture = vilebranch
+}
+2029 = {
+	name="Jor"
+	culture = vilebranch
+}
+2030 = {
+	name="Onn"
+	culture = vilebranch
+}
+2031 = {
+	name="Unn"
+	culture = vilebranch
+}
+2032 = {
+	name="Inax"
+	culture = vilebranch
+}
+2033 = {
+	name="Ranaax"
+	culture = vilebranch
+}
+2034 = {
+	name="Panaax"
+	culture = vilebranch
+}
+2035 = {
+	name="Konnaxin"
+	culture = vilebranch
+}
+2036 = {
+	name="Vilewar"
+	culture = vilebranch
+}
+2037 = {
+	name="Spikerunner"
+	culture = vilebranch
+}
+2038 = {
+	name="Spikebranch"
+	culture = vilebranch
+}
+2039 = {
+	name="Thornreaver"
+	culture = vilebranch
+}
+2040 = {
+	name="Thornbreaker"
+	culture = vilebranch
+}
+2041 = {
+	name="Thorncrusher"
+	culture = vilebranch
+}
+2042 = {
+	name="Thornbranch"
+	culture = vilebranch
+}
+2043 = {
+	name="Tox'alari"
+	culture = vilebranch
+}
+2044 = {
+	name="Jant'alari"
+	culture = vilebranch
+}
+2045 = {
+	name="Jont'alari"
+	culture = vilebranch
+}
+2046 = {
+	name="Iss'alari"
+	culture = vilebranch
+}
+2047 = {
+	name="Oss'alari"
+	culture = vilebranch
+}
+2050 = {
+	name="Boscraxx"
+	culture = vilebranch
+}
+3092 = {
+	name="Tollohex"
+	culture = vilebranch
+}
+3093 = {
+	name="Kroth"
+	culture = vilebranch
+}
+3094 = {
+	name="Uroth"
+	culture = vilebranch
+}
+3100 = {
+	name="Laxx'alari"
+	culture = vilebranch
+}
+3101 = {
+	name="Krothex"
+	culture = vilebranch
+}
+3102 = {
+	name="Krothax"
+	culture = vilebranch
+}
+3103 = {
+	name="Urothex"
+	culture = vilebranch
+}
+3104 = {
+	name="Urothax"
+	culture = vilebranch
+}
+3105 = {
+	name="Gazangrasp"
+	culture = vilebranch
+}
+3106 = {
+	name="Gazangrown"
+	culture = vilebranch
+}
+3107 = {
+	name="Gaz'wexxai"
+	culture = vilebranch
+}
+3108 = {
+	name="Mox'gazor"
+	culture = vilebranch
+}
+3109 = {
+	name="Mox'texar"
+	culture = vilebranch
+}
+3110 = {
+	name="Mox'klaxxor"
+	culture = vilebranch
+}
+3111 = {
+	name="Witherborn"
+	culture = vilebranch
+}
+3112 = {
+	name="Greatwither"
+	culture = vilebranch
+}
+3113 = {
+	name="Poorwither"
+	culture = vilebranch
+}
+3117 = {
+	name="Yondwither"
+	culture = vilebranch
+}
+3119 = {
+	name="Mossbark"
+	culture = vilebranch
+}
+3099 = {
+	name="Mossfather"
+	culture = vilebranch
+}
+3098 = {
+	name="Mossbrother"
+	culture = vilebranch
+}
+3097 = {
+	name="Mossrun"
+	culture = vilebranch
+}
+3138 = {
+	name="Elfboiler"
+	culture = vilebranch
+}
+3114 = {
+	name="Elfnibbler"
+	culture = vilebranch
+}
+3115 = {
+	name="Elfknawer"
+	culture = vilebranch
+}
+3116 = {
+	name="Mossrender"
+	culture = vilebranch
+}
+3096 = {
+	name="Knollreaver"
+	culture = vilebranch
+}
+3118 = {
+	name="Knollcrusher"
+	culture = vilebranch
+}
+3095 = {
+	name="Knollrender"
+	culture = vilebranch
+}
+3120 = {
+	name="Knollwretch"
+	culture = vilebranch
+}
+3121 = {
+	name="Vilebleeder"
+	culture = vilebranch
+}
+3122 = {
+	name="Krazzal"
+	culture = vilebranch
+}
+3123 = {
+	name="Krazzilak"
+	culture = vilebranch
+}
+3124 = {
+	name="Halu'kal"
+	culture = vilebranch
+}
+3125 = {
+	name="Dalu'kal"
+	culture = vilebranch
+}
+3126 = {
+	name="Dax'lexx"
+	culture = vilebranch
+}
+3127 = {
+	name="Dox'lexx"
+	culture = vilebranch
+}
+3128 = {
+	name="Dox'claxx"
+	culture = vilebranch
+}
+3129 = {
+	name="Vilebludgeon"
+	culture = vilebranch
+}
+3130 = {
+	name="Elfblugeon"
+	culture = vilebranch
+}
+3131 = {
+	name="Sol'exxor"
+	culture = vilebranch
+}
+3132 = {
+	name="Sol'baxxor"
+	culture = vilebranch
+}
+3133 = {
+	name="Wan'baxxor"
+	culture = vilebranch
+}
+3134 = {
+	name="Wol'exxor"
+	culture = vilebranch
+}
+3135 = { 
+	name="Sol'torpax" 
+	culture = vilebranch
+}
+3140 = {
+	name="Tol'partox"
+	culture = vilebranch
+}
+3141 = {
+	name="Rartoxx"
+	culture = vilebranch
+}
+3142 = {
+	name="Ollex'barox"
+	culture = vilebranch
+}
+3143 = {
+	name="Mossgrinder"
+	culture = vilebranch
+}
+3145 = {
+	name="Vilewanderer"
+	culture = vilebranch
+}
+3146 = {
+	name="Valoxxar"
+	culture = vilebranch
+}
+3811 = {
+	name="Olvalxor"
+	culture = vilebranch
+}
+3950 = {
+	name="Malacrass"
+	culture = amani
+}
+3951 = {
+	name="Malajax"
+	culture = amani
+}
+3952 = {
+	name="Telajorax"
+	culture = amani
+}
+3953 = {
+	name="Amanur"
+	culture = amani
+}
+4000 = {
+	name="Amanspear"
+	culture = amani
+}
+4001 = {
+	name="Amanilorn"
+	culture = amani
+}
+4002 = {
+	name="Zulu"
+	culture = amani
+}
+4003 = {
+	name="Jan'alau"
+	culture = amani
+}
+4004 = {
+	name="Jan'alai"
+	culture = amani
+}
+4005 = {
+	name="Jan'ajan"
+	culture = amani
+}
+4007 = {
+	name="Halazzi"
+	culture = amani
+}
+4008 = {
+	name="Swordbreaker"
+	culture = amani
+}
+4009 = {
+	name="Bo-Risj"
+	culture = amani
+}
+4010 = {
+	name="Bo-Unjin"
+	culture = amani
+}
+4011 = {
+	name="Tharinaj"
+	culture = amani
+}
+4012 = {
+	name="Zurojarni"
+	culture = amani
+}
+4013 = {
+	name="Kurajarni"
+	culture = amani
+}
+4014 = {
+	name="Halazjarn"
+	culture = amani
+}
+4015 = {
+	name="Talajarni"
+	culture = amani
+}
+4016 = {
+	name="Scythecleaver"
+	culture = amani
+}
+4017 = {
+	name="Skullrender"
+	culture = amani
+}
+4018 = {
+	name="Skullcrusher"
+	culture = amani
+}
+4019 = {
+	name="Elfbane"
+	culture = amani
+}
+4020 = {
+	name="Bloodhands"
+	culture = amani
+}
+4021 = {
+	name="Aman'amu"
+	culture = amani
+}
+4022 = {
+	name="Jin'Zulli"
+	culture = amani
+}
+4023 = {
+	name="Jin'Zalla"
+	culture = amani
+}
+4024 = {
+	name="Scythewander"
+	culture = amani
+}
+4025 = {
+	name="Scythemaster"
+	culture = amani
+}
+4026 = {
+	name="Trolldance"
+	culture = amani
+}
+4027 = {
+	name="Scythegrave"
+	culture = amani
+}
+4028 = {
+	name="Elfgrave"
+	culture = amani
+}
+4029 = {
+	name="Amanstalker"
+	culture = amani
+}
+4030 = {
+	name="Amanislunker"
+	culture = amani
+}
+4031 = {
+	name="Amanisulker"
+	culture = amani
+}
+4032 = {
+	name="Kazral'ai"
+	culture = amani
+}
+4033 = {
+	name="Kazripa'lai"
+	culture = amani
+}
+4034 = {
+	name="Scythestalker"
+	culture = amani
+}
+4035 = {
+	name="Scythewarrior"
+	culture = amani
+}
+4036 = {
+	name="Zos'thaxx"
+	culture = amani
+}
+4037 = {
+	name="Lex'thoxsor"
+	culture = amani
+}
+4038 = {
+	name="Tox'thexsar"
+	culture = amani
+}
+4039 = {
+	name="Dax'tortha"
+	culture = amani
+}
+4040 = {
+	name="Fex'tortha"
+	culture = amani
+}
+4041 = {
+	name="Fex'toxsar"
+	culture = amani
+}
+4042 = {
+	name="Tor'texsor"
+	culture = amani
+}
+4043 = {
+	name="Zax'thoss"
+	culture = amani
+}
+4044 = {
+	name="Zox'daxxor"
+	culture = amani
+}
+4045 = {
+	name="En'thaxxor"
+	culture = amani
+}
+4046 = {
+	name="Endax'thoss"
+	culture = amani
+}
+4047 = {
+	name="Endax'tortha"
+	culture = amani
+}
+5000 = {
+	name="Hathoraz"
+	culture = amani
+}
+5001 = {
+	name="Dorthaxor"
+	culture = amani
+}
+5002 = {
+	name="Matox'thoss"
+	culture = amani
+}
+5003 = {
+	name="Tor'ponex"
+	culture = amani
+}
+5004 = {
+	name="Kara'thoxx"
+	culture = amani
+}
+5005 = {
+	name="Kara'thoss"
+	culture = amani
+}
+5006 = {
+	name="Amanikara"
+	culture = amani
+}
+5007 = {
+	name="Amanizrak"
+	culture = amani
+}
+5008 = {
+	name="Olotexx"
+	culture = amani
+}
+5009 = {
+	name="Alotoxx"
+	culture = amani
+}
+5010 = {
+	name="Delotaxx"
+	culture = amani
+}
+5011 = {
+	name="Dolocrass"
+	culture = amani
+}
+5012 = {
+	name="Talacraxx"
+	culture = amani
+}
+5013 = {
+	name="Belacraxx"
+	culture = amani
+}
+5014 = {
+	name="Chaxxchel"
+	culture = amani
+}
+5015 = {
+	name="Daxxcholex"
+	culture = amani
+}
+5016 = {
+	name="Noroxx"
+	culture = amani
+}
+5017 = {
+	name="Toroxar"
+	culture = amani
+}
+5018 = {
+	name="Joroxar"
+	culture = amani
+}
+5019 = {
+	name="Holaxxin"
+	culture = amani
+}
+5020 = {
+	name="Nolaxxin"
+	culture = amani
+}

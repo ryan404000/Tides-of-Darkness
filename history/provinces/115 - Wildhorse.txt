@@ -1,0 +1,18 @@
+# 115 - Wildhorse
+
+# County Title
+title = c_wildhorse
+
+# Settlements
+max_settlements = 4
+b_wildhorse = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History
+
+
+
+

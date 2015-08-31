@@ -1,0 +1,14 @@
+# 145 - Lordaeron Harbor
+
+# County Title
+title = c_lordaeron_harbor
+
+# Settlements
+max_settlements = 7
+b_lordaeron_harbor = city
+
+#Misc
+religion = old_ways
+culture = lordaeronian
+
+# History

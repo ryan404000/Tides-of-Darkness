@@ -1,0 +1,20 @@
+3822.2.1={
+	holder=64
+	liege = d_chillwind	
+}
+3839.12.25={
+	holder=99
+	liege = d_chillwind
+}
+3904.9.29={
+    holder=98
+	liege = d_chillwind
+}
+3937.9.29={
+	holder=97
+	liege = d_chillwind
+}
+3968.4.18={
+	holder=6
+	liege = d_chillwind
+}

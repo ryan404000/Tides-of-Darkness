@@ -1,0 +1,14 @@
+# 347 - Berenfell
+
+# County Title
+title = c_berenfell
+
+# Settlements
+max_settlements = 4
+b_berenfell  = castle
+
+# Misc
+culture = dalaranian
+religion = old_ways
+
+# History

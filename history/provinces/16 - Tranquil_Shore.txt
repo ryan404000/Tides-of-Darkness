@@ -1,0 +1,14 @@
+# 16 - Tranquil_Shore
+
+# County Title
+title = c_tranquil_shore
+
+# Settlements
+max_settlements = 4
+b_tranquil_shore = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

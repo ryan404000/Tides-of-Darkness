@@ -1,0 +1,389 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_sunspire;Sunspire;Sunspire;Sunspire;;Sunspire;;;;;;;;;x
+c_falthrien;Falthrien;Falthrien;Falthrien;;Falthrien;;;;;;;;;x
+c_silverisle;Silverisle;Silverisle;Silverisle;;Silverisle;;;;;;;;;x
+c_sunwell_plateau;Sunwell Plateau;Sunwell Plateau;Sunwell Plateau;;Sunwell Plateau;;;;;;;;;x
+c_magisters_terrace;Magister's Terrace;Magister's Terrace;Magister's Terrace;;Magister's Terrace;;;;;;;;;x
+c_suns_reach;Sun's Reach;Sun's Reach;Sun's Reach;;Sun's Reach;;;;;;;;;x
+c_silvermoon_city;Silvermoon City;Silvermoon City;Silvermoon City;;Silvermoon City;;;;;;;;;x
+c_falconwing;Falconwing;Falconwing;Falconwing;;Falconwing;;;;;;;;;x
+c_suns_crossing;Sun's Crossing;Sun's Crossing;Sun's Crossing;;Sun's Crossing;;;;;;;;;x
+c_duskwither;Duskwither;Duskwither;Duskwither;;Duskwither;;;;;;;;;x
+c_arcanus;Arcanus;Arcanus;Arcanus;;Arcanus;;;;;;;;;x
+c_shepherds_gate;Shepherd's Gate;Shepherd's Gate;Shepherd's Gate;;Shepherd's Gate;;;;;;;;;x
+c_farstrider_retreat;Farstrider Retreat;Farstrider Retreat;Farstrider Retreat;;Farstrider Retreat;;;;;;;;;x
+c_porcelanas;Porcelanas;Porcelanas;Porcelanas;;Porcelanas;;;;;;;;;x
+c_glintwater;Glintwater;Glintwater;Glintwater;;Glintwater;;;;;;;;;x
+c_tranquil_shore;Tranquil Shore;Tranquil Shore;Tranquil Shore;;Tranquil Shore;;;;;;;;;x
+c_fairbreeze;Fairbreeze;Fairbreeze;Fairbreeze;;Fairbreeze;;;;;;;;;x
+c_sunsail;Sunsail;Sunsail;Sunsail;;Sunsail;;;;;;;;;x
+c_luminvale;Luminvale;Luminvale;Luminvale;;Luminvale;;;;;;;;;x
+c_cherrygrove;Cherrygrove;Cherrygrove;Cherrygrove;;Cherrygrove;;;;;;;;;x
+c_pallaroth;Pallaroth;Pallaroth;Pallaroth;;Pallaroth;;;;;;;;;x
+c_goldenmist;Goldenmist;Goldenmist;Goldenmist;;Goldenmist;;;;;;;;;x
+c_falithas;Falithas;Falithas;Falithas;;Falithas;;;;;;;;;x
+c_shalandis;Shalandis;Shalandis;Shalandis;;Shalandis;;;;;;;;;x
+c_shandor;Shan'dor;Shan'dor;Shan'dor;;Shan'dor;;;;;;;;;x
+c_elrendar_falls;Elrendar Falls;Elrendar Falls;Elrendar Falls;;Elrendar Falls;;;;;;;;;x
+c_elrendar_crossing;Elrendar Crossing;Elrendar Crossing;Elrendar Crossing;;Elrendar Crossing;;;;;;;;;x
+c_andaroth;An'daroth;An'daroth;An'daroth;;An'daroth;;;;;;;;;x
+c_tranquillien;Tranquillien;Tranquillien;Tranquillien;;Tranquillien;;;;;;;;;x
+c_suncrown;Suncrown;Suncrown;Suncrown;;Suncrown;;;;;;;;;x
+c_greenwood;Greenwood;Greenwood;Greenwood;;Greenwood;;;;;;;;;x
+c_thalassian_pass;Thalassian Pass;Thalassian Pass;Thalassian Pass;;Thalassian Pass;;;;;;;;;x
+c_windspire;Windspire;Windspire;Windspire;;Windspire;;;;;;;;;x
+c_windrunner;Windrunner;Windrunner;Windrunner;;Windrunner;;;;;;;;;x
+c_underlight;Underlight;Underlight;Underlight;;Underlight;;;;;;;;;x
+c_moonwood;Moonwood;Moonwood;Moonwood;;Moonwood;;;;;;;;;x
+c_drathir_valley;Drathir Valley;Drathir Valley;Drathir Valley;;Drathir Valley;;;;;;;;;x
+c_zebsora;Zeb'Sora;Zeb'Sora;Zeb'Sora;;Zeb'Sora;;;;;;;;;x
+c_zebwatha;Zeb'Watha;Zeb'Watha;Zeb'Watha;;Zeb'Watha;;;;;;;;;x
+c_torwatha;Tor'Watha;Tor'Watha;Tor'Watha;;Tor'Watha;;;;;;;;;x
+c_icemorn_peak;Icemorn Peak;Icemorn Peak;Icemorn Peak;;Icemorn Peak;;;;;;;;;x
+c_uta_tek;Uta-Tek;Uta-Tek;Uta-Tek;;Uta-Tek;;;;;;;;;x
+c_nalorakk;Nalorakk;Nalorakk;Nalorakk;;Nalorakk;;;;;;;;;x
+c_halazzi;Halazzi;Halazzi;Halazzi;;Halazzi;;;;;;;;;x
+c_north_abassi;North Abassi;North Abassi;North Abassi;;North Abassi;;;;;;;;;x
+c_south_abassi;South Abassi;South Abassi;South Abassi;;South Abassi;;;;;;;;;x
+c_maisara_hills;Maisara Hills;Maisara Hills;Maisara Hills;;Maisara Hills;;;;;;;;;x
+c_stonespear_shelf;Stonespear Shelf;Stonespear Shelf;Stonespear Shelf;;Stonespear Shelf;;;;;;;;;x
+c_hatchet_hills;Hatchet Hills;Hatchet Hills;Hatchet Hills;;Hatchet Hills;;;;;;;;;x
+c_zebtela;Zeb'Tela;Zeb'Tela;Zeb'Tela;;Zeb'Tela;;;;;;;;;x
+c_zebnowa;Zeb'Nowa;Zeb'Nowa;Zeb'Nowa;;Zeb'Nowa;;;;;;;;;x
+c_amani_pass;Amani Pass;Amani Pass;Amani Pass;;Amani Pass;;;;;;;;;x
+c_agolgazu;Agol'gazu;Agol'gazu;Agol'gazu;;Agol'gazu;;;;;;;;;x
+c_amandazar;Amandazar;Amandazar;Amandazar;;Amandazar;;;;;;;;;x
+c_sungraze_peak;Sungraze Peak;Sungraze Peak;Sungraze Peak;;Sungraze Peak;;;;;;;;;x
+c_south_elrendar;South Elrendar;South Elrendar;South Elrendar;;South Elrendar;;;;;;;;;x
+c_zulmashar;Zul'Mashar;Zul'Mashar;Zul'Mashar;;Zul'Mashar;;;;;;;;;x
+c_wathwani;Wathwani;Wathwani;Wathwani;;Wathwani;;;;;;;;;x
+c_mazraalor;Mazra'Alor;Mazra'Alor;Mazra'Alor;;Mazra'Alor;;;;;;;;;x
+c_myrungo;Myrungo;Myrungo;Myrungo;;Myrungo;;;;;;;;;x
+c_tokkalor;Tokk'Alor;Tokk'Alor;Tokk'Alor;;Tokk'Alor;;;;;;;;;x
+c_mossers_stride;Mossers Stride;Mossers Stride;Mossers Stride;;Mossers Stride;;;;;;;;;x
+c_zebhajum;Zeb'Hajum;Zeb'Hajum;Zeb'Hajum;;Zeb'Hajum;;;;;;;;;x
+c_wolfcreek;Wolfcreek;Wolfcreek;Wolfcreek;;Wolfcreek;;;;;;;;;x
+c_caer_leurenholde;Caer Leurenholde;Caer Leurenholde;Caer Leurenholde;;Caer Leurenholde;;;;;;;;;x
+c_eastwall;Eastwall;Eastwall;Eastwall;;Eastwall;;;;;;;;;x
+c_mancaster;Mancaster;Mancaster;Mancaster;;Mancaster;;;;;;;;;x
+c_garithal;Garithal;Garithal;Garithal;;Garithal;;;;;;;;;x
+c_browland;Browland;Browland;Browland;;Browland;;;;;;;;;x
+c_northdale;Northdale;Northdale;Northdale;;Northdale;;;;;;;;;x
+c_northclutch;Northclutch;Northclutch;Northclutch;;Northclutch;;;;;;;;;x
+c_brawling_hills;Brawling Hills;Brawling Hills;Brawling Hills;;Brawling Hills;;;;;;;;;x
+c_colester;Colester;Colester;Colester;;Colester;;;;;;;;;x
+c_rodwick;Rodwick;Rodwick;Rodwick;;Rodwick;;;;;;;;;x
+c_gregors_valley;Gregor's Valley;Gregor's Valley;Gregor's Valley;;Gregor's Valley;;;;;;;;;x
+c_agolwatha;Agol'watha;Agol'watha;Agol'watha;;Agol'watha;;;;;;;;x
+c_agolnemor;Agol'nemor;Agol'nemor;Agol'nemor;;Agol'nemor;;;;;;;;;x
+c_skulk_rock;Skulk Rock;Skulk Rock;Skulk Rock;;Skulk Rock;;;;;;;;;x
+c_shaolwatha;Shaol'watha;Shaol'watha;Shaol'watha;;Shaol'watha;;;;;;;;;x
+c_skulkfields;Skulkfields;Skulkfields;Skulkfields;;Skulkfields;;;;;;;;;x
+c_green_motte;Green Motte;Green Motte;Green Motte;;Green Motte;;;;;;;;;x
+c_autumns_axe;Autumn's Axe;Autumn's Axe;Autumn's Axe;;Autumn's Axe;;;;;;;;;x
+c_seradine_gorge;Seradine Gorge;Seradine Gorge;Seradine Gorge;;Seradine Gorge;;;;;;;;;x
+c_dragon_heights;Dragon Heights;Dragon Heights;Dragon Heights;;Dragon Heights;;;;;;;;;x
+c_zinalor;Zin'alor;Zin'alor;Zin'alor;;Zin'alor;;;;;;;;;x
+c_serapath;Serapath;Serapath;Serapath;;Serapath;;;;;;;;;x
+c_natoril;Natoril;Natoril;Natoril;;Natoril;;;;;;;;;x
+c_enthallor;Enthallor;Enthallor;Enthallor;;Enthallor;;;;;;;;;x
+c_aerie_peak;Aerie Peak;Aerie Peak;Aerie Peak;;Aerie Peak;;;;;;;;;x
+c_solgans_hope;Solgan's Hope;Solgan's Hope;Solgan's Hope;;Solgan's Hope;;;;;;;;;x
+c_aerie_gap;Aerie Gap;Aerie Gap;Aerie Gap;;Aerie Gap;;;;;;;;;x
+c_zunkree;Zun'kree;Zun'kree;Zun'kree;;Zun'kree;;;;;;;;;x
+c_gurzundra;Gurzundra;Gurzundra;Gurzundra;;Gurzundra;;;;;;;;;x
+c_zulnallor;Zul'Nallor;Zul'Nallor;Zul'Nallor;;Zul'Nallor;;;;;;;;;x
+c_gahzrak;Gahzrak;Gahzrak;Gahzrak;;Gahzrak;;;;;;;;;x
+c_waniwona;Waniwona;Waniwona;Waniwona;;Waniwona;;;;;;;;;x
+c_revan_cays;Revan Cays;Revan Cays;Revan Cays;;Revan Cays;;;;;;;;;x
+c_axewash;Axewash;Axewash;Axewash;;Axewash;;;;;;;;;x
+c_revantusk;Revantusk;Revantusk;Revantusk;;Revantusk;;;;;;;;;x
+c_lowtusks;Lowtusks;Lowtusks;Lowtusks;;Lowtusks;;;;;;;;;x
+c_knollmarch;Knollmarch;Knollmarch;Knollmarch;;Knollmarch;;;;;;;;;x
+c_bloodmarch;Bloodmarch;Bloodmarch;Bloodmarch;;Bloodmarch;;;;;;;;;x
+c_hiriwatha;Hiri'watha;Hiri'watha;Hiri'watha;;Hiri'watha;;;;;;;;;x
+c_shaolekk;Shaol'ekk;Shaol'ekk;Shaol'ekk;;Shaol'ekk;;;;;;;;;x
+c_green_downs;Green Downs;Green Downs;Green Downs;;Green Downs;;;;;;;;;x
+c_jinthwatha;Jinth'watha;Jinth'watha;Jinth'watha;;Jinth'watha;;;;;;;;;x
+c_jinthaalor;Jintha'Alor;Jintha'Alor;Jintha'Alor;;Jintha'Alor;;;;;;;;;x
+c_zebongo;Zeb'Ongo;Zeb'Ongo;Zeb'Ongo;;Zeb'Ongo;;;;;;;;;x
+c_emerwatha;Emer'watha;Emer'watha;Emer'watha;;Emer'watha;;;;;;;;;x
+c_shadraalor;Shadra'Alor;Shadra'Alor;Shadra'Alor;;Shadra'Alor;;;;;;;;;x
+c_shadrub;Shadrub;Shadrub;Shadrub;;Shadrub;;;;;;;;;x
+c_konwatha;Kon'watha;Kon'watha;Kon'watha;;Kon'watha;;;;;;;;;x
+c_withervale;Withervale;Withervale;Withervale;;Withervale;;;;;;;;;x
+c_plowtusks;Plowtusks;Plowtusks;Plowtusks;;Plowtusks;;;;;;;;;x
+c_wildhorse;Wildhorse;Wildhorse;Wildhorse;;Wildhorse;;;;;;;;;x
+c_trolltills;Trolltills;Trolltills;Trolltills;;Trolltills;;;;;;;;;x
+c_zultaz;Zul'Taz;Zul'Taz;Zul'Taz;;Zul'Taz;;;;;;;;;x
+c_lights_rest;Light's Rest;Light's Rest;Light's Rest;;Light's Rest;;;;;;;;;x
+c_monastic_highlands;Monastic Highlands;Monastic Highlands;Monastic Highlands;;Monastic Highlands;;;;;;;;;x
+c_graniteshelf;Graniteshelf;Graniteshelf;Graniteshelf;;Graniteshelf;;;;;;;;;x
+c_venomweb;Venomweb;Venomweb;Venomweb;;Venomweb;;;;;;;;;x
+c_knightsfield;Knightsfield;Knightsfield;Knightsfield;;Knightsfield;;;;;;;;;x
+c_balnir;Balnir;Balnir;Balnir;;Balnir;;;;;;;;;x
+c_kingsgrant;Kingsgrant;Kingsgrant;Kingsgrant;;Kingsgrant;;;;;;;;;x
+c_fellicents_hold;Fellicent's Hold;Fellicent's Hold;Fellicent's Hold;;Fellicent's Hold;;;;;;;;;x
+c_vandermar;Vandermar;Vandermar;Vandermar;;Vandermar;;;;;;;;;x
+c_violet_marsh;Violet Marsh;Violet Marsh;Violet Marsh;;Violet Marsh;;;;;;;;;x
+c_alterange;Alterange;Alterange;Alterange;;Alterange;;;;;;;;;x
+c_lower_kingsknell;Lower Kingsknell;Lower Kingsknell;Lower Kingsknell;;Lower Kingsknell;;;;;;;;;x
+c_upper_kingsknell;Upper Kingsknell;Upper Kingsknell;Upper Kingsknell;;Upper Kingsknell;;;;;;;;;x
+c_tourneyfield;Tourneyfield;Tourneyfield;Tourneyfield;;Tourneyfield;;;;;;;;;x
+c_walnutwood;Walnutwood;Walnutwood;Walnutwood;;Walnutwood;;;;;;;;;x
+c_alastrenas;Alastrenas;Alastrenas;Alastrenas;;Alastrenas;;;;;;;;;x
+c_calston;Calston;Calston;Calston;;Calston;;;;;;;;;x
+c_brightwater_lake;Brightwater Lake;Brightwater Lake;Brightwater Lake;;Brightwater Lake;;;;;;;;;x
+c_derrington;Derrington;Derrington;Derrington;;Derrington;;;;;;;;;x
+c_eidres_watch;Eidre's Watch;Eidre's Watch;Eidre's Watch;;Eidre's Watch;;;;;;;;;x
+c_luthien;Luthien;Luthien;Luthien;;Luthien;;;;;;;;;x
+c_north_brill;North Brill;North Brill;North Brill;;North Brill;;;;;;;;;x
+c_garthsport;Garthsport;Garthsport;Garthsport;;Garthsport;;;;;;;;;x
+c_pointe;Pointe;Pointe;Pointe;;Pointe;;;;;;;;;x
+c_north_haven;North Haven;North Haven;North Haven;;North Haven;;;;;;;;;x
+c_tammon;Tammon;Tammon;Tammon;;Tammon;;;;;;;;;x
+c_dartchill;Dartchill;Dartchill;Dartchill;;Dartchill;;;;;;;;;x
+c_lordaeron_harbor;Lordaeron Harbor;Lordaeron Harbor;Lordaeron Harbor;;Lordaeron Harbor;;;;;;;;;x
+c_capital_city;Lordaeron;Lordaeron;Lordaeron;;Lordaeron;;;;;;;;;x
+c_north_lordamere;North Lordamere;North Lordamere;North Lordamere;;North Lordamere;;;;;;;;;x
+c_south_brill;South Brill;South Brill;South Brill;;South Brill;;;;;;;;;x
+c_copperdell;Copperdell;Copperdell;Copperdell;;Copperdell;;;;;;;;;x
+c_westaeron;Westaeron;Westaeron;Westaeron;;Westaeron;;;;;;;;;x
+c_valor_harbor;Valor Harbor;Valor Harbor;Valor Harbor;;Valor Harbor;;;;;;;;;x
+c_tiran_motte;Tiran Motte;Tiran Motte;Tiran Motte;;Tiran Motte;;;;;;;;;x
+c_bellforge;Bellforge;Bellforge;Bellforge;;Bellforge;;;;;;;;;x
+c_brill;Brill;Brill;Brill;;Brill;;;;;;;;;x
+c_brills_fiefs;Brill's Fiefs;Brill's Fiefs;Brill's Fiefs;;Brill's Fiefs;;;;;;;;;x
+c_coldhearth;Coldhearth;Coldhearth;Coldhearth;;La Coldhearth;;;;;;;;;x
+c_oakchalice;Oakchalice;Oakchalice;Oakchalice;;Oakchalice;;;;;;;;;x
+c_knellcrest;Knellcrest;Knellcrest;Knellcrest;;Knellcrest;;;;;;;;;x
+c_northtides_run;Northtide's Run;Northtide's Run;Northtide's Run;;Northtide's Run;;;;;;;;;x
+c_averass;Averass;Averass;Averass;;Averass;;;;;;;;;x
+c_greathollow;Greathollow;Greathollow;Greathollow;;Greathollow;;;;;;;;;x
+c_sepulcher;Sepulcher;Sepulcher;Sepulcher;;Sepulcher;;;;;;;;;x
+c_garrs_mill;Garr's Mill;Garr's Mill;Garr's Mill;;Garr's Mill;;;;;;;;;x
+c_winnsower;Winnsower;Winnsower;Winnsower;;Winnsower;;;;;;;;;x
+c_grainland;Grainland;Grainland;Grainland;;Grainland;;;;;;;;;x
+c_bevenland;Bevenland;Bevenland;Bevenland;;Bevenland;;;;;;;;;x
+c_casterwich;Casterwich;Casterwich;Casterwich;;Casterwich;;;;;;;;;x
+c_stratholme;Stratholme;Stratholme;Stratholme;;Stratholme;;;;;;;;;x
+c_mount_stratos;Mount Stratos;Mount Stratos;Mount Stratos;;Mount Stratos;;;;;;;;;x
+c_tannerdale;Tannerdale;Tannerdale;Tannerdale;;Tannerdale;;;;;;;;;x
+c_rivonholde;Rivonholde;Rivonholde;Rivonholde;;Rivonholde;;;;;;;;;x
+c_stonnell;Stonnell;Stonnell;Stonnell;;Stonnell;;;;;;;;;x
+c_cavern_heights;Cavern Heights;Cavern Heights;Cavern Heights;;Cavern Heights;;;;;;;;;x
+c_hearthglen;Hearthglen;Hearthglen;Hearthglen;;Hearthglen;;;;;;;;;x
+c_hearths_descent;Hearth's Descent;Hearth's Descent;Hearth's Descent;;Hearth's Descent;;;;;;;;;x
+c_raltenford;Raltenford;Raltenford;Raltenford;;Raltenford;;;;;;;;;x
+c_westking;Westking;Westking;Westking;;Westking;;;;;;;;;x
+c_eastking;Eastking;Eastking;Eastking;;Eastking;;;;;;;;;x
+c_blackwood_hills;Blackwood Hills;Blackwood Hills;Blackwood Hills;;Blackwood Hills;;;;;;;;;x
+c_irongem;Irongem;Irongem;Irongem;;Irongem;;;;;;;;;x
+c_hillchurch;Hillchurch;Hillchurch;Hillchurch;;Hillchurch;;;;;;;;;x
+c_northpass_hill;Northpass Hill;Northpass Hill;Northpass Hill;;Northpass Hill;;;;;;;;;x
+c_ivanth_fen;Ivanth Fen;Ivanth Fen;Ivanth Fen;;Ivanth Fen;;;;;;;;;x
+c_ire_vigil;Ire Vigil;Ire Vigil;Ire Vigil;;Ire Vigil;;;;;;;;;x
+c_timberbrook;Timberbrook;Timberbrook;Timberbrook;;Timberbrook;;;;;;;;;x
+c_adorric;Adorric;Adorric;Adorric;;Adorric;;;;;;;;;x
+c_quellithien;Quel'Lithien;Quel'Lithien;Quel'Lithien;;Quel'Lithien;;;;;;;;;x
+c_preston;Preston;Preston;Preston;;Preston;;;;;;;;;x
+c_greenriver;Greenriver;Greenriver;Greenriver;;Greenriver;;;;;;;;;x
+c_thondroril_falls;Thondroril Falls;Thondroril Falls;Thondroril Falls;;Thondroril Falls;;;;;;;;;x
+c_marrisvale;Marrisvale;Marrisvale;Marrisvale;;Marrisvale;;;;;;;;;x
+c_matthidan;Matthidan;Matthidan;Matthidan;;Matthidan;;;;;;;;;x
+c_tasser;Tasser;Tasser;Tasser;;Tasser;;;;;;;;;x
+c_crestan_hold;Crestan Hold;Crestan Hold;Crestan Hold;;Crestan Hold;;;;;;;;;x
+c_ryefiefs;Ryefiefs;Ryefiefs;Ryefiefs;;Ryefiefs;;;;;;;;;x
+c_sorrow_hill;Sorrow Hill;Sorrow Hill;Sorrow Hill;;Sorrow Hill;;;;;;;;;x
+c_redhill;Redhill;Redhill;Redhill;;Redhill;;;;;;;;;x
+c_chillsmouth;Chillsmouth;Chillsmouth;Chillsmouth;;Chillsmouth;;;;;;;;;x
+c_crowsburg;Crowsburg;Crowsburg;Crowsburg;;Crowsburg;;;;;;;;;x
+c_ravines_rush;Ravines Rush;Ravines Rush;Ravines Rush;;Ravines Rush;;;;;;;;;x
+c_caer_darrow;Caer Darrow;Caer Darrow;Caer Darrow;;Caer Darrow;;;;;;;;;x
+c_bronzetithe;Bronzetithe;Bronzetithe;Bronzetithe;;Bronzetithe;;;;;;;;;x
+c_kaithdock;Kaithdock;Kaithdock;Kaithdock;;Kaithdock;;;;;;;;;x
+c_redpath;Redpath;Redpath;Redpath;;Redpath;;;;;;;;;x
+c_darrowshire;Darrowshire;Darrowshire;Darrowshire;;Darrowshire;;;;;;;;;x
+c_crownguard;Crownguard;Crownguard;Crownguard;;Crownguard;;;;;;;;;x
+c_shuckford;Shuckford;Shuckford;Shuckford;;Shuckford;;;;;;;;;x
+c_creedfallow;Creedfallow;Creedfallow;Creedfallow;;Creedfallow;;;;;;;;;x
+c_aerie_mountains;Aerie Mountains;Aerie Mountains;Aerie Mountains;;Aerie Mountains;;;;;;;;;x
+c_corins_crossing;Corin's Crossing;Corin's Crossing;Corin's Crossing;;Corin's Crossing;;;;;;;;;x
+c_gardenfield;Gardenfield;Gardenfield;Gardenfield;;Gardenfield;;;;;;;;;x
+c_mereldar;Mereldar;Mereldar;Mereldar;;Mereldar;;;;;;;;;x
+c_harewood_hills;Harewood Hills;Harewood Hills;Harewood Hills;;Harewood Hills;;;;;;;;;x
+c_tyrs_hand;Tyr's Hand;Tyr's Hand;Tyr's Hand;;Tyr's Hand;;;;;;;;;x
+c_ironsheer;Ironsheer;Ironsheer;Ironsheer;;Ironsheer;;;;;;;;;x
+c_stratheaune;Stratheaune;Stratheaune;Stratheaune;;Stratheaune;;;;;;;;;x
+c_lights_hope;Light's Hope;Light's Hope;Light's Hope;;Light's Hope;;;;;;;;;x
+c_harewood;Harewood;Harewood;Harewood;;Harewood;;;;;;;;;x
+c_redburg;Redburg;Redburg;Redburg;;Redburg;;;;;;;;;x
+c_browdale;Browdale;Browdale;Browdale;;Browdale;;;;;;;;;x
+c_highreach;Highreach;Highreach;Highreach;;Highreach;;;;;;;;;x
+c_calvor;Calvor;Calvor;Calvor;;Calvor;;;;;;;;;x
+c_havenshire;Havenshire;Havenshire;Havenshire;;Havenshire;;;;;;;;;x
+c_lightsbeacon;Lightsbeacon;Lightsbeacon;Lightsbeacon;;Lightsbeacon;;;;;;;;;x
+c_lights_point;Light's Point;Light's Point;Light's Point;;Light's Point;;;;;;;;;x
+c_stoneshroud;Stoneshroud;Stoneshroud;Stoneshroud;;Stoneshroud;;;;;;;;;x
+c_tyrs_bay;Tyr's Bay;Tyr's Bay;Tyr's Bay;;Tyr's Bay;;;;;;;;;x
+c_tyrs_clasp;Tyr's Clasp;Tyr's Clasp;Tyr's Clasp;;Tyr's Clasp;;;;;;;;;x
+c_kings_harbor;King's Harbor;King's Harbor;King's Harbor;;King's Harbor;;;;;;;;;x
+c_stronghold_isle;Stronghold Isle;Stronghold Isle;Stronghold Isle;;Stronghold Isle;;;;;;;;;x
+c_drollard;Drollard;Drollard;Drollard;;Drollard;;;;;;;;;x
+c_andorhal;Andorhal;Andorhal;Andorhal;;Andorhal;;;;;;;;;x
+c_riverlock;Riverlock;Riverlock;Riverlock;;Riverlock;;;;;;;;;x
+c_upper_andor;Upper Andor;Upper Andor;Upper Andor;;Upper Andor;;;;;;;;;x
+c_lower_andor;Lower Andor;Lower Andor;Lower Andor;;Lower Andor;;;;;;;;;x
+c_andor;Andor;Andor;Andor;;Andor;;;;;;;;;x
+c_bainridge;Bainridge;Bainridge;Bainridge;;Bainridge;;;;;;;;;x
+c_shadetrack;Shadetrack;Shadetrack;Shadetrack;;Shadetrack;;;;;;;;;x
+c_arborknoll;Arborknoll;Arborknoll;Arborknoll;;Arborknoll;;;;;;;;;x
+c_bakersville;Bakersville;Bakersville;Bakersville;;Bakersville;;;;;;;;;x
+c_northridge;Northridge;Northridge;Northridge;;Northridge;;;;;;;;;x
+c_mardenspring;Mardenspring;Mardenspring;Mardenspring;;Mardenspring;;;;;;;;;x
+c_timberswell;Timberswell;Timberswell;Timberswell;;Timberswell;;;;;;;;;x
+c_dumah_hold;Dumah Hold;Dumah Hold;Dumah Hold;;Dumah Hold;;;;;;;;;x
+c_redpine_dell;Redpine Dell;Redpine Dell;Redpine Dell;;Redpine Dell;;;;;;;;;x
+c_redham;Redham;Redham;Redham;;Redham;;;;;;;;;x
+c_weepinghill;Weepinghill;Weepinghill;Weepinghill;;Weepinghill;;;;;;;;;x
+c_writhingtree;Writhingtree;Writhingtree;Writhingtree;;Writhingtree;;;;;;;;;x
+c_princehill;Princehill;Princehill;Princehill;;Princehill;;;;;;;;;x
+c_gahrron;Gahrron;Gahrron;Gahrron;;Gahrron;;;;;;;;;x
+c_thondale;Thondale;Thondale;Thondale;;Thondale;;;;;;;;;x
+c_hearthhold;Hearthhold;Hearthhold;Hearthhold;;Hearthhold;;;;;;;;;x
+c_strom;Strom;Strom;Strom;;Strom;;;;;;;;;x
+c_whitestone;Whitestone;Whitestone;Whitestone;;Whitestone;;;;;;;;;x
+c_arathifold;Arathifold;Arathifold;Arathifold;;Arathifold;;;;;;;;;x
+c_thordir;Thordir;Thordir;Thordir;;Thordir;;;;;;;;;x
+c_tarnishrock;Tarnishrock;Tarnishrock;Tarnishrock;;Tarnishrock;;;;;;;;;x
+c_faldir_cove;Faldir Cove;Faldir Cove;Faldir Cove;;Faldir Cove;;;;;;;;;x
+c_amaren_rise;Amaren Rise;Amaren Rise;Amaren Rise;;Amaren Rise;;;;;;;;;x
+c_endarth_vice;Endarth Vice;Endarth Vice;Endarth Vice;;Endarth Vice;;;;;;;;;x
+c_manorsfield;Manorsfield;Manorsfield;Manorsfield;;Manorsfield;;;;;;;;;x
+c_hinterroads;Hinterroads;Hinterroads;Hinterroads;;Hinterroads;;;;;;;;;x
+c_stocksfield;Stocksfield;Stocksfield;Stocksfield;;Stocksfield;;;;;;;;;x
+c_twicepatch;Twicepatch;Twicepatch;Twicepatch;;Twicepatch;;;;;;;;;x
+c_thedge;Thedge;Thedge;Thedge;;Thedge;;;;;;;;;x
+c_arusthilde;Arusthilde;Arusthilde;Arusthilde;;Arusthilde;;;;;;;;;x
+c_tyrenn;Tyrenn;Tyrenn;Tyrenn;;Tyrenn;;;;;;;;;x
+c_thandor;Thandor;Thandor;Thandor;;Thandor;;;;;;;;;x
+c_fallowhand;Fallowhand;Fallowhand;Fallowhand;;Fallowhand;;;;;;;;;x
+c_hence;Hence;Hence;Hence;;Hence;;;;;;;;;x
+c_thalstads_hold;Thalstad's Hold;Thalstad's Hold;Thalstad's Hold;;Thalstad's Hold;;;;;;;;;x
+c_ridingplains;Ridingplains;Ridingplains;Ridingplains;;Ridingplains;;;;;;;;;x
+c_equindare;Equindare;Equindare;Equindare;;Equindare;;;;;;;;;x
+c_low_arathor;Low Arathor;Low Arathor;Low Arathor;;Low Arathor;;;;;;;;;x
+c_great_arathor;Great Arathor;Great Arathor;Great Arathor;;Great Arathor;;;;;;;;;x
+c_thorvan;Thorvan;Thorvan;Thorvan;;Thorvan;;;;;;;;;x
+c_pledgestone;Pledgestone;Pledgestone;Pledgestone;;Pledgestone;;;;;;;;;x
+c_arathi_basin;Arathi Basin;Arathi Basin;Arathi Basin;;Arathi Basin;;;;;;;;;x
+c_esoradin;Esoradin;Esoradin;Esoradin;;Esoradin;;;;;;;;;x
+c_ganthor;Ganthor;Ganthor;Ganthor;;Ganthor;;;;;;;;;x
+c_westwall;Westwall;Westwall;Westwall;;Westwall;;;;;;;;;x
+c_alterac_city;Alterac City;Alterac City;Alterac City;;Alterac City;;;;;;;;;x
+c_aesbrahd;Aesbrahd;Aesbrahd;Aesbrahd;;Aesbrahd;;;;;;;;;x
+c_vallis;Vallis;Vallis;Vallis;;Vallis;;;;;;;;;x
+c_setimbough;Setimbough;Setimbough;Setimbough;;Setimbough;;;;;;;;;x
+c_greatfount;Greatfount;Greatfount;Greatfount;;Greatfount;;;;;;;;;x
+c_benenbrad;Benenbrad;Benenbrad;Benenbrad;;Benenbrad;;;;;;;;;x
+c_strahnbrad;Strahnbrad;Strahnbrad;Strahnbrad;;Strahnbrad;;;;;;;;;x
+c_orenhall;Orenhall;Orenhall;Orenhall;;Orenhall;;;;;;;;;x
+c_perenholdt;Perenholdt;Perenholdt;Perenholdt;;Perenholdt;;;;;;;;;x
+c_verdinn_hills;Verdinn Hills;Verdinn Hills;Verdinn Hills;;Verdinn Hills;;;;;;;;;x
+c_jurthir;Jurthir;Jurthir;Jurthir;;Jurthir;;;;;;;;;x
+c_chillwind_basin;Chillwind Basin;Chillwind Basin;Chillwind Basin;;Chillwind Basin;;;;;;;;;x
+c_chillwind_point;Chillwind Point;Chillwind Point;Chillwind Point;;Chillwind Point;;;;;;;;;x
+c_south_chillwind;South Chillwind;South Chillwind;South Chillwind;;South Chillwind;;;;;;;;;x
+c_ravenholdt;Ravenholdt;Ravenholdt;Ravenholdt;;Ravenholdt;;;;;;;;;x
+c_alterie;Alterie;Alterie;Alterie;;Alterie;;;;;;;;;x
+c_dunn_vell;Dunn Vell;Dunn Vell;Dunn Vell;;Dunn Vell;;;;;;;;;x
+c_tarren_mill;Tarren Mill;Tarren Mill;Tarren Mill;;Tarren Mill;;;;;;;;;x
+c_nethander;Nethander;Nethander;Nethander;;Nethander;;;;;;;;;x
+c_durnholde;Durnholde;Durnholde;Durnholde;;Durnholde;;;;;;;;;x
+c_corrahns_dagger;Corrahn's Dagger;Corrahn's Dagger;Corrahn's Dagger;;Corrahn's Dagger;;;;;;;;;x
+c_durnenfield;Durnenfield;Durnenfield;Durnenfield;;Durnenfield;;;;;;;;;x
+c_alterac_valley;Alterac Valley;Alterac Valley;Alterac Valley;;Alterac Valley;;;;;;;;;x
+c_gallowcorner;Gallowcorner;Gallowcorner;Gallowcorner;;Gallowcorner;;;;;;;;;x
+c_gavins_nave;Gavin's Nave;Gavin's Nave;Gavin's Nave;;Gavin's Nave;;;;;;;;;x
+c_juroon;Juroon;Juroon;Juroon;;Juroon;;;;;;;;;x
+c_southshore;Southshore;Southshore;Southshore;;Southshore;;;;;;;;;x
+c_hasic;Hasic;Hasic;Hasic;;Hasic;;;;;;;;;x
+c_thondroril_delta;Thondroril Delta;Thondroril Delta;Thondroril Delta;;Thondroril Delta;;;;;;;;;x
+c_dandreds_fold;Dandred's Fold;Dandred's Fold;Dandred's Fold;;Dandred's Fold;;;;;;;;;x
+c_uplands;Uplands;Uplands;Uplands;;Uplands;;;;;;;;;x
+c_lordamere_pass;Lordamere Pass;Lordamere Pass;Lordamere Pass;;Lordamere Pass;;;;;;;;;x
+c_mistshore;Mistshore;Mistshore;Mistshore;;Mistshore;;;;;;;;;x
+c_gilneas;Gilneas;Gilneas;Gilneas;;Gilneas;;;;;;;;;x
+c_greyforth;Greyforth;Greyforth;Greyforth;;Greyforth;;;;;;;;;x
+c_deepmoor;Deepmoor;Deepmoor;Deepmoor;;Deepmoor;;;;;;;;;x
+c_stormglen;Stormglen;Stormglen;Stormglen;;Stormglen;;;;;;;;;x
+c_blackwald;Blackwald;Blackwald;Blackwald;;Blackwald;;;;;;;;;x
+c_ettindwell;Ettindwell;Ettindwell;Ettindwell;;Ettindwell;;;;;;;;;x
+c_steeproad;Steeproad;Steeproad;Steeproad;;Steeproad;;;;;;;;;x
+c_ashbury;Ashbury;Ashbury;Ashbury;;Ashbury;;;;;;;;;x
+c_waldenholde;Waldenholde;Waldenholde;Waldenholde;;Waldenholde;;;;;;;;;x
+c_tempests_reach;Tempest's Reach;Tempest's Reach;Tempest's Reach;;Tempest's Reach;;;;;;;;;x
+c_sheeptrack;Sheeptrack;Sheeptrack;Sheeptrack;;Sheeptrack;;;;;;;;;x
+c_godwynn;Godwynn;Godwynn;Godwynn;;Godwynn;;;;;;;;;x
+c_silverlaine;Silverlaine;Silverlaine;Silverlaine;;Silverlaine;;;;;;;;;x
+c_pyrewood;Pyrewood;Pyrewood;Pyrewood;;Pyrewood;;;;;;;;;x
+c_southtides_run;Southtide's Run;Southtide's Run;Southtide's Run;;Southtide's Run;;;;;;;;;x
+c_oldmarch_farthing;Oldmarch Farthing;Oldmarch Farthing;Oldmarch Farthing;;Oldmarch Farthing;;;;;;;;;x
+c_duskmist;Duskmist;Duskmist;Duskmist;;Duskmist;;;;;;;;;x
+c_duskhaven;Duskhaven;Duskhaven;Duskhaven;;Duskhaven;;;;;;;;;x
+c_cotter_rock;Cotter Rock;Cotter Rock;Cotter Rock;;Cotter Rock;;;;;;;;;x
+c_greyreef;Greyreef;Greyreef;Greyreef;;Greyreef;;;;;;;;;x
+c_gilneawood;Gilneawood;Gilneawood;Gilneawood;;Gilneawood;;;;;;;;;x
+c_birchrock;Birchrock;Birchrock;Birchrock;;Birchrock;;;;;;;;;x
+c_bitehold;Bitehold;Bitehold;Bitehold;;Bitehold;;;;;;;;;x
+c_adericshire;Adericshire;Adericshire;Adericshire;;Adericshire;;;;;;;;;x
+c_wellwick;Wellwick;Wellwick;Wellwick;;Wellwick;;;;;;;;;x
+c_archell;Archell;Archell;Archell;;Archell;;;;;;;;;x
+c_emberstone;Emberstone;Emberstone;Emberstone;;Emberstone;;;;;;;;;x
+c_northgate;Northgate;Northgate;Northgate;;Northgate;;;;;;;;;x
+c_liners_tide;Liner's Tide;Liner's Tide;Liner's Tide;;Liner's Tide;;;;;;;;;x
+c_garnetwash;Garnetwash;Garnetwash;Garnetwash;;Garnetwash;;;;;;;;;x
+c_reevelind;Reevelind;Reevelind;Reevelind;;Reevelind;;;;;;;;;x
+c_berenfell;Berenfell;Berenfell;Berenfell;;Berenfell;;;;;;;;;x
+c_everskill;Everskill;Everskill;Everskill;;Everskill;;;;;;;;;x
+c_crowroad;Crowroad;Crowroad;Crowroad;;Crowroad;;;;;;;;;x
+c_ambermill;Ambermill;Ambermill;Ambermill;;Ambermill;;;;;;;;;x
+c_caer_oltharn;Caer Oltharn;Caer Oltharn;Caer Oltharn;;Caer Oltharn;;;;;;;;;x
+c_boralus;Boralus;Boralus;Boralus;;Boralus;;;;;;;;;x
+c_moores_brace;Moore's Brace;Moore's Brace;Moore's Brace;;Moore's Brace;;;;;;;;;x
+c_shiprun_shore;Shiprun Shore;Shiprun Shore;Shiprun Shore;;Shiprun Shore;;;;;;;;;x
+c_tiras_alrin;Tiras Alrin;Tiras Alrin;Tiras Alrin;;Tiras Alrin;;;;;;;;;x
+c_irontrade;Irontrade;Irontrade;Irontrade;;Irontrade;;;;;;;;;x
+c_drisburg;Drisburg;Drisburg;Drisburg;;Drisburg;;;;;;;;;x
+c_kul_ithor;Kul Ithor;Kul Ithor;Kul Ithor;;Kul Ithor;;;;;;;;;x
+c_sunseat;Sunseat;Sunseat;Sunseat;;Sunseat;;;;;;;;;x
+c_trollcove;Trollcove;Trollcove;Trollcove;;Trollcove;;;;;;;;;x
+c_swan_harbor;Swan Harbor;Swan Harbor;Swan Harbor;;Swan Harbor;;;;;;;;;x
+c_purgation;Purgation;Purgation;Purgation;;Purgation;;;;;;;;;x
+c_pontpros;Pontpros;Pontpros;Pontpros;;Pontpros;;;;;;;;;x
+c_bardport;Bardport;Bardport;Bardport;;Bardport;;;;;;;;;x
+c_crestfall;Crestfall;Crestfall;Crestfall;;Crestfall;;;;;;;;;x
+c_glassfathom;Glassfathom;Glassfathom;Glassfathom;;Glassfathom;;;;;;;;;x
+c_azurelode;Azurelode;Azurelode;Azurelode;;Azurelode;;;;;;;;;x
+c_loomrush;Loomrush;Loomrush;Loomrush;;Loomrush;;;;;;;;;x
+c_tol_barad;Tol Barad;Tol Barad;Tol Barad;;Tol Barad;;;;;;;;;x
+c_rustberg;Rustberg;Rustberg;Rustberg;;Rustberg;;;;;;;;;x
+c_new_boralus;New Boralus;New Boralus;New Boralus;;New Boralus;;;;;;;;;x
+c_mooreport;Mooreport;Mooreport;Mooreport;;Mooreport;;;;;;;;;x
+c_tol_hern;Tol Hern;Tol Hern;Tol Hern;;Tol Hern;;;;;;;;;x
+c_dalaran;Dalaran;Dalaran;Dalaran;;Dalaran;;;;;;;;;x
+c_arcaneshroud;Arcaneshroud;Arcaneshroud;Arcaneshroud;;Arcaneshroud;;;;;;;;;x
+c_mistymere;Mistymere;Mistymere;Mistymere;;Mistymere;;;;;;;;;x
+c_violet_hills;Violet Hills;Violet Hills;Violet Hills;;Violet Hills;;;;;;;;;x
+c_alteron;Alteron;Alteron;Alteron;;Alteron;;;;;;;;;x
+c_hillsbrad;Hillsbrad;Hillsbrad;Hillsbrad;;Hillsbrad;;;;;;;;;x
+c_soferas_fall;Sofera's Fall;Sofera's Fall;Sofera's Fall;;Sofera's Fall;;;;;;;;;x
+c_darrowhill;Darrowhill;Darrowhill;Darrowhill;;Darrowhill;;;;;;;;;x
+c_harborhall;Harborhall;Harborhall;Harborhall;;Harborhall;;;;;;;;;x
+c_yetiholde;Yetiholde;Yetiholde;Yetiholde;;Yetiholde;;;;;;;;;x
+c_dawning_isles;Dawning Isles;Dawning Isles;Dawning Isles;;Dawning Isles;;;;;;;;;x
+c_fenris_isle;Fenris Isle;Fenris Isle;Fenris Isle;;Fenris Isle;;;;;;;;;x
+c_beren;Beren;Beren;Beren;;Beren;;;;;;;;;x
+c_crossharrow;Crossharrow;Crossharrow;Crossharrow;;Crossharrow;;;;;;;;;x
+c_arkan;Arkan;Arkan;Arkan;;Arkan;;;;;;;;;x
+c_khaz_modan;Khaz Modan;Khaz Modan;Khaz Modan;;Khaz Modan;;;;;;;;;x

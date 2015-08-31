@@ -1,0 +1,17 @@
+# 126 - Vandermar
+
+# County Title
+title = c_vandermar
+
+# Settlements
+max_settlements = 6
+b_vandermar = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History
+
+
+

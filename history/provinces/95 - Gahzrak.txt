@@ -1,0 +1,13 @@
+# 95 - Gahzrak
+
+# County Title
+title = c_gahzrak
+
+# Settlements
+max_settlements = 5
+b_gahzrak = castle
+
+culture = vilebranch
+religion = loa
+
+# History

@@ -1,0 +1,14 @@
+# 85 - Zin'alor
+
+# County Title
+title = c_zinalor
+
+# Settlements
+max_settlements = 4
+b_zinalor = castle
+
+# Misc
+culture = vilebranch
+religion = loa
+
+# History

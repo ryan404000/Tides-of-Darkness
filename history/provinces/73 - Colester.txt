@@ -1,0 +1,14 @@
+# 73 - Colester
+
+# County Title
+title = c_colester
+
+# Settlements
+max_settlements = 5
+b_colester = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

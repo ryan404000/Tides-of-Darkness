@@ -1,0 +1,12 @@
+# 57 - Zul'Mashar
+title = c_zulmashar
+
+# Settlements
+max_settlements = 5
+b_zulmashar = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History

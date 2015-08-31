@@ -1,0 +1,14 @@
+# 321 - Ettindwell
+
+# County Title
+title = c_ettindwell
+
+# Settlements
+max_settlements = 3
+b_ettindwell = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

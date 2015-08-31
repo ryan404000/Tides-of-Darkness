@@ -1,0 +1,14 @@
+# 175 - Hearths Descent
+
+# County Title
+title = c_hearths_descent
+
+# Settlements
+max_settlements = 5
+b_hearths_descent = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

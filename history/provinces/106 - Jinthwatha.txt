@@ -1,0 +1,13 @@
+# 106 - Jinth'watha
+# County Title
+title = c_jinthwatha
+
+# Settlements
+max_settlements = 6
+b_jinthwatha = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

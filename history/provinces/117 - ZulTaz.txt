@@ -1,0 +1,14 @@
+# 117 - Zul'Taz
+
+# County Title
+title = c_zultaz
+
+# Settlements
+max_settlements = 6
+b_zultaz = castle
+
+# Misc
+culture = witherbark
+religion = loa
+
+# History

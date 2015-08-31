@@ -1,0 +1,70 @@
+# 7 - Silvermoon City
+
+# County Title
+title = c_silvermoon_city
+
+# Settlements
+max_settlements = 7
+b_silvermoon_city = castle
+b_court_of_the_sun = castle
+b_the_bazaar = city
+b_sunfury_spire = castle
+b_the_royal_exchange = city
+b_farstrider_square = city
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+
+4000.1.1 = {
+	b_silvermoon_city = ca_wall_1
+	b_silvermoon_city = ca_wall_2
+	b_silvermoon_city = ca_town_1
+	b_silvermoon_city = ca_town_2
+	b_silvermoon_city = ca_town_3
+	b_silvermoon_city = ca_town_4
+	b_silvermoon_city = ca_town_5
+	b_silvermoon_city = ca_keep_1
+	b_silvermoon_city = ca_keep_2
+	b_silvermoon_city = ca_keep_3
+	b_silvermoon_city = ca_shipyard_1
+	b_silvermoon_city = ca_shipyard_2
+	b_silvermoon_city = ca_barracks_1
+	b_silvermoon_city = ca_barracks_2
+	b_silvermoon_city = ca_barracks_3
+	b_silvermoon_city = ca_barracks_4
+	b_silvermoon_city = ca_training_grounds_1
+	b_silvermoon_city = ca_culture_high_elf_1
+	b_silvermoon_city = ca_culture_high_elf_2
+	b_silvermoon_city = ca_culture_high_elf_3
+	b_silvermoon_city = ca_culture_high_elf_4
+	b_court_of_thesun = ca_wall_1
+	b_court_of_thesun = ca_wall_2
+	b_court_of_thesun = ca_town_1
+	b_court_of_thesun = ca_town_2
+	b_court_of_thesun = ca_town_3
+	b_court_of_thesun = ca_keep_1
+	b_sunfury_spire = ca_culture_high_elf_1
+	b_sunfury_spire = ca_culture_high_elf_2
+	b_sunfury_spire = ca_culture_high_elf_3
+	b_sunfury_spire = ca_culture_high_elf_4
+	b_sunfury_spire = ca_wall_1
+	b_sunfury_spire = ca_town_1
+	b_sunfury_spire = ca_town_2
+	b_the_bazaar = ct_marketplace_1
+	b_the_bazaar = ct_marketplace_2
+	b_the_bazaar = ct_marketplace_3
+	b_the_bazaar = ct_university_1
+	b_the_royal_exchange = ct_marketplace_1
+	b_the_royal_exchange = ct_marketplace_2
+	b_the_royal_exchange = ct_marketplace_3
+	b_the_royal_exchange = ct_marketplace_4
+	b_the_royal_exchange = ct_university_1
+	b_farstrider_square = tp_wall_1
+	b_farstrider_square = tp_wall_2
+	b_farstrider_square = tp_monastery_1
+	b_farstrider_square = tp_monastery_2
+	b_farstrider_square = tp_barracks_1
+}

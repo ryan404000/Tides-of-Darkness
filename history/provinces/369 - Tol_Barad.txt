@@ -1,0 +1,14 @@
+# 369 - Tol Barad
+
+# County Title
+title = c_tol_barad
+
+# Settlements
+max_settlements = 5
+b_tol_barad = castle
+
+# Misc
+culture = tirasian
+religion = church_of_the_holy_light
+
+# History 

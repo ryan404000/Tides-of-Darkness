@@ -1,0 +1,14 @@
+# 163 - Garr's Mill
+
+# County Title
+title = c_garrs_mill
+
+# Settlements
+max_settlements = 5
+b_garrs_mill = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

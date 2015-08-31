@@ -1,0 +1,16 @@
+# 53 - Agol'gazu
+
+# County Title
+title = c_agolgazu
+
+# Settlements
+max_settlements = 5
+b_agolgazu = castle
+
+# Misc
+culture = amani
+religion = loa
+
+# History
+
+ 

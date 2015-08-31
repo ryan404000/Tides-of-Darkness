@@ -1,0 +1,14 @@
+# 302 - Durnholde
+
+# County Title
+title = c_durnholde
+
+# Settlements
+max_settlements = 5
+b_durnholde = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

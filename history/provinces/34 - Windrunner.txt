@@ -1,0 +1,15 @@
+# 34 - Windrunner
+
+# County Title
+title = c_windrunner
+
+# Settlements
+max_settlements = 6
+b_windrunner = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

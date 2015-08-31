@@ -1,0 +1,13 @@
+# 335 - Greyreef
+
+# County Title
+title = c_greyreef
+# Settlements
+max_settlements = 3
+b_greyreef = castle
+
+# Misc
+culture = tirasian
+religion = old_ways
+
+# History

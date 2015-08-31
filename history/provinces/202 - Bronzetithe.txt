@@ -1,0 +1,14 @@
+# 202 - Bronzetithe
+
+# County Title
+title = c_bronzetithe
+
+# Settlements
+max_settlements = 4
+b_bronzetithe = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

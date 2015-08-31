@@ -1,0 +1,15 @@
+# 297 - Ravenholdt
+
+# County Title
+title = c_ravenholdt
+
+# Settlements
+max_settlements = 5
+
+b_ravenholdt = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

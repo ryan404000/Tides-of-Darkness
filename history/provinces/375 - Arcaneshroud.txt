@@ -1,0 +1,14 @@
+# 375 - Arcaneshroud
+
+# County Title
+title = c_arcaneshroud
+
+# Settlements
+max_settlements = 4
+b_arcaneshroud = castle
+
+# Misc
+culture = dalaranian
+religion = church_of_the_holy_light
+
+# History

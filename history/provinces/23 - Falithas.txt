@@ -1,0 +1,15 @@
+# 23 - Falithas
+
+# County Title
+title = c_falithas
+
+# Settlements
+max_settlements = 4
+b_falithas = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
+

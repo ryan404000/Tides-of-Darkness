@@ -1,0 +1,14 @@
+# 162 - Sepulcher
+
+# County Title
+title = c_sepulcher
+
+# Settlements
+max_settlements = 6
+b_sepulcher = temple
+
+# Misc
+culture = lordaeronian
+religion = old_ways
+
+# History

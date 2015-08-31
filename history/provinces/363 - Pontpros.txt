@@ -1,0 +1,14 @@
+# 363 - Pontpros
+
+# County Title
+title = c_pontpros
+
+# Settlements
+max_settlements = 3
+b_pontpros = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

@@ -1,0 +1,14 @@
+# 20 - Cherrygrove
+
+# County Title
+title = c_cherrygrove
+
+# Settlements
+max_settlements = 4
+b_cherrygrove = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History

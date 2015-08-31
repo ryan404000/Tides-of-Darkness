@@ -1,0 +1,14 @@
+# 366 - Glassfathom
+
+# County Title
+title = c_glassfathom
+
+# Settlements
+max_settlements = 4
+b_glassfathom = castle
+
+# Misc
+culture = gilnean
+religion = church_of_the_holy_light
+
+# History

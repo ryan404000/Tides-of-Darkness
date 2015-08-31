@@ -1,0 +1,17 @@
+# 260 - Amaren Rise
+
+# County Title
+title = c_amaren_rise
+
+# Settlements
+max_settlements = 3
+b_amaren_rise = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History
+
+
+

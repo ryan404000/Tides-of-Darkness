@@ -1,0 +1,15 @@
+# 300 - Tarren Mill
+
+# County Title
+title = c_tarren_mill
+
+# Settlements
+max_settlements = 6
+
+b_tarren_mill = castle
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

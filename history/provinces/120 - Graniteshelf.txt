@@ -1,0 +1,14 @@
+# 120 - Graniteshelf
+
+# County Title
+title = c_graniteshelf
+
+# Settlements
+max_settlements = 4
+b_graniteshelf = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

@@ -1,0 +1,14 @@
+# 190 - Thondroril Falls
+
+# County Title
+title = c_thondroril_falls
+
+# Settlements
+max_settlements = 4
+b_thondroril_falls = castle
+
+# Misc
+culture = lordaeronian
+religion = church_of_the_holy_light
+
+# History

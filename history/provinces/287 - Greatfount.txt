@@ -1,0 +1,15 @@
+# 287 - Greatfount
+
+# County Title
+title = c_greatfount
+
+# Settlements
+max_settlements = 3
+
+b_greatfount = castle
+
+# Misc
+culture = alteraci
+religion = church_of_the_holy_light
+
+# History

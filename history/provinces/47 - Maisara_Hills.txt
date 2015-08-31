@@ -1,0 +1,12 @@
+# 47 - Maisara Hills
+
+# County Title
+title = c_maisara_hills
+# Settlements
+max_settlements = 4
+b_maisara_hills = castle
+
+# Misc
+culture = amani
+religion = loa
+

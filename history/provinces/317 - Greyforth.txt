@@ -1,0 +1,15 @@
+# 317 - Greyforth
+
+# County Title
+title = c_greyforth
+
+# Settlements
+max_settlements = 5
+
+b_greyforth = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

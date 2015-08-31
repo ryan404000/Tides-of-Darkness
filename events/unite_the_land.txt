@@ -1,0 +1,79 @@
+#############################################
+#
+# Court Event Series
+#
+# Event ID 
+#
+#############################################
+
+character_event = {
+	id = 107000
+	desc = EVTDESC107000 #Unite the Tribes
+	picture = GFX_evt_spymaster
+	
+	is_triggered_only = yes
+	
+	min_age = 25
+	only_playable = no
+	prisoner = no
+	only_men = yes
+	
+	trigger = {
+		religion = church_of_the_holy_light
+		is_landed = yes
+		is_ruler = yes
+		war = no		
+		tier = king
+		is_liege_of = c_strom
+	}
+	
+	option = {
+		name = "EVTOPTA107000" #Unite the Tribes
+		add_claim = c_tarren_mill
+		add_claim = c_southshore
+		add_claim = c_hasic
+		add_claim = c_durnholde
+		add_claim = c_nethander
+		add_claim = c_juroon
+		add_claim = c_durnenfield
+		wealth = 200
+		}
+	option = {
+		name = "EVTOPTA107001" #We do not wish to join this war
+		prestige = -50
+	}
+}
+
+character_event = {
+	id = 107001
+	desc = EVTDESC107001 #Quel'thalas calls for aid
+	picture = GFX_evt_spymaster
+	
+	is_triggered_only = yes
+	
+	min_age = 25
+	only_playable = no
+	prisoner = no
+	only_men = yes
+	
+	trigger = {
+		religion = belore
+		is_landed = yes
+		is_ruler = yes
+		war = yes		
+		tier = king
+		is_liege_of = k_quelthalas
+	}
+	
+	option = {
+		name = "EVTOPTA38000" # Go to the moneylenders - Favorable terms
+		trigger = {
+			stewardship = 8
+			}
+		wealth = 200
+		character_event = { id = 38001 days = 1825 tooltip = EVTTOOLTIP38001 }
+		set_character_flag = loan_taken
+		clr_character_flag = loan_refused
+		}
+	
+}

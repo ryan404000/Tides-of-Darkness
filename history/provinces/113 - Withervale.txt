@@ -1,0 +1,13 @@
+# 113 - Withervale
+
+# County Title
+title = c_withervale
+
+# Settlements
+max_settlements = 6
+b_withervale = castle
+
+culture = witherbark
+religion = loa
+
+# History

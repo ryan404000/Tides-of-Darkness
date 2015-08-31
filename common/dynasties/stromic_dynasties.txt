@@ -1,0 +1,468 @@
+189 = {
+	name="Lothar"
+	culture = stromic
+}		#King of Strom
+190 = {
+	name="Estrand"
+	culture = stromic
+}
+191 = {
+	name="Amaren"
+	culture = stromic
+}
+192 = {
+	name="Pelnord"
+	culture = stromic
+}
+193 = {
+	name="Trollbane"
+	culture = stromic
+}		#Later Kings of Strom
+195 = {
+	name="Varangir"
+	culture = stromic
+}
+197 = {
+	name="Greatvalor"
+	culture = stromic
+}
+198 = {
+	name="Arustern"
+	culture = stromic
+}
+199 = {
+	name="Wrynn"
+	culture = stromic
+}		#Future Kings of Stormwind
+200 = {
+	name="Honorcall"
+	culture = stromic
+}
+201 = {
+	name="Thesslocke"
+	culture = stromic
+}
+202 = {
+	name="Innward"
+	culture = stromic
+}
+220 = {
+	name="of Strom"
+	culture = stromic
+}
+221 = {
+	name="of Whitestone"
+	culture = stromic
+}
+222 = {
+	name="of arthifold"
+	culture = stromic
+}
+223 = {
+	name="of Thordir"
+	culture = stromic
+}
+224 = {
+	name="of Tarnishrock"
+	culture = stromic
+}
+225 = {
+	name="of Endarth Vice"
+	culture = stromic
+}
+226 = {
+	name="of Faldir"
+	culture = stromic
+}
+227 = {
+	name="of Northfold"
+	culture = stromic
+}
+228 = {
+	name="of Thedge"
+	culture = stromic
+}
+229 = {
+	name="of Manorsfield"
+	culture = stromic
+}
+230 = {
+	name="of Hintherroads"
+	culture = stromic
+}
+231 = {
+	name="of Twicepatch"
+	culture = stromic
+}
+232 = {
+	name="of Stocksfield"
+	culture = stromic
+}
+233 = {
+	name="of Southfold"
+	culture = stromic
+}
+234 = {
+	name="of Arusthilde"
+	culture = stromic
+}
+235 = {
+	name="of Tyrenn"
+	culture = stromic
+}
+236 = {
+	name="of Thandor"
+	culture = stromic
+}
+237 = {
+	name="of Fallowhand"
+	culture = stromic
+}
+238 = {
+	name="of Riderlands"
+	culture = stromic
+}
+239 = {
+	name="of Hence"
+	culture = stromic
+}
+240 = {
+	name="of Palominn"
+	culture = stromic
+}
+241 = {
+	name="of Ridingplains"
+	culture = stromic
+}
+242 = {
+	name="of Harsedare"
+	culture = stromic
+}
+243 = {
+	name="of Thorvan"
+	culture = stromic
+}
+244 = {
+	name="of Pledgestone"
+	culture = stromic
+}
+245 = {
+	name="of Esoradin"
+	culture = stromic
+}
+246 = {
+	name="of Ganthor"
+	culture = stromic
+}
+247 = {
+	name="of Westwall"
+	culture = stromic
+}
+311 = {
+	name="Andyr"
+	culture = stromic
+}
+312 = {
+	name="Evondall"
+	culture = stromic
+}
+313 = {
+	name="Meredall"
+	culture = stromic
+}
+314 = {
+	name="Hemdall"
+	culture = stromic
+}
+315 = {
+	name="Balordall"
+	culture = stromic
+}
+316 = {
+	name="Melordall"
+	culture = stromic
+}
+317 = {
+	name="Byridall"
+	culture = stromic
+}
+318 = {
+	name="Jonndall"
+	culture = stromic
+}
+319 = {
+	name="Stromword"
+	culture = stromic
+}
+320 = {
+	name="Stromwarden"
+	culture = stromic
+}
+321 = {
+	name="Stromstern"
+	culture = stromic
+}
+322 = {
+	name="Stromlance"
+	culture = stromic
+}
+323 = {
+	name="Stromkin"
+	culture = stromic
+}
+324 = {
+	name="Arathkind"
+	culture = stromic
+}
+325 = {
+	name="Trollrend"
+	culture = stromic
+}
+326 = {
+	name="Riderford"
+	culture = stromic
+}
+328 = {
+	name="Tyrward"
+	culture = stromic
+}
+327 = {
+	name="Durand"
+	culture = stromic
+}
+329 = {
+	name="Leder"
+	culture = stromic
+}
+330 = {
+	name="Nials"
+	culture = stromic
+}
+331 = {
+	name="Callow"
+	culture = stromic
+}
+332 = {
+	name="Dallow"
+	culture = stromic
+}
+333 = {
+	name="Mollow"
+	culture = stromic
+}
+334 = {
+	name="Arallow"
+	culture = stromic
+}
+335 = {
+	name="Edollow"
+	culture = stromic
+}
+336 = {
+	name="Karwn"
+	culture = stromic
+}
+337 = {
+	name="Earwn"
+	culture = stromic
+}
+338 = {
+	name="Yarwn"
+	culture = stromic
+}
+339 = {
+	name="Nevlin"
+	culture = stromic
+}
+340 = {
+	name="Westlin"
+	culture = stromic
+}
+341 = {
+	name="Eastlin"
+	culture = stromic
+}
+342 = {
+	name="Norrlin"
+	culture = stromic
+}
+343 = {
+	name="Sorrlin"
+	culture = stromic
+}
+344 = {
+	name="Valorcall"
+	culture = stromic
+}
+345 = {
+	name="Valorreach"
+	culture = stromic
+}
+346 = {
+	name="Honorworth"
+	culture = stromic
+}
+347 = {
+	name="Honorborn"
+	culture = stromic
+}
+348 = {
+	name="Valorborn"
+	culture = stromic
+}
+349 = {
+	name="Honorcall"
+	culture = stromic
+}
+350 = {
+	name="Valorworth"
+	culture = stromic
+}
+351 = {
+	name="Valiantcall"
+	culture = stromic
+}
+352 = {
+	name="Valiantborn"
+	culture = stromic
+}
+353 = {
+	name="Montrose"
+	culture = stromic
+}
+354 = {
+	name="Montbellar"
+	culture = stromic
+}
+355 = {
+	name="Montthorad"
+	culture = stromic
+}
+356 = {
+	name="Monthen"
+	culture = stromic
+}
+357 = {
+	name="Montbane"
+	culture = stromic
+}
+358 = {
+	name="Monreen"
+	culture = stromic
+}
+359 = {
+	name="Lothian"
+	culture = stromic
+}
+360 = {
+	name="Selgorm"
+	culture = stromic
+}
+361 = {
+	name="Adelard"
+	culture = stromic
+}		#County of Fallowhand
+362 = {
+	name="Segard"
+	culture = stromic
+}		#County of Arusthilde
+363 = {
+	name="Aran"
+	culture = stromic
+}		#County of Westwall
+364 = {
+	name="Erlgadin"
+	culture = stromic
+}		#County of Ganthor
+365 = {
+	name="Erlmontan"
+	culture = stromic
+}		#County of Esoradin and Duchy of Esoradin
+366 = {
+	name="Erlthorin"
+	culture = stromic
+}		#County of Faldir Cove and Duchy of Faldir
+367 = {
+	name="Pithorgadin"
+	culture = stromic
+}		#County of Endarth Vice
+368 = {
+	name="Tergadin"
+	culture = stromic
+}		#County of Amaren Rise
+369 = {
+	name="Angadin"
+	culture = stromic
+}		#County of Whitestone
+370 = {
+	name="Ellerian"
+	culture = stromic
+}		#County of Thordir
+371 = {
+	name="Dreuger"
+	culture = stromic
+}		#County of Tarni Shrock
+372 = {
+	name="Darathan"
+	culture = stromic
+}		#County of Arathifold
+373 = {
+	name="Duron"
+	culture = stromic
+}		#County of Pledgestone
+374 = {
+	name="Isildor"
+	culture = stromic
+}		#County of Low Arathor
+375 = {
+	name="Ahlgern"
+	culture = stromic
+}		#County of Great Arathor
+376 = {
+	name="Mardh"
+	culture = stromic
+}		#County of Thorvan
+377 = {
+	name="Eglund"
+	culture = stromic
+}		#County of Arathi Basin - Duke of Arathor
+378 = {
+	name="Fieldride"
+	culture = stromic
+}		#County of Twicepatch
+379 = {
+	name="Fieldrun"
+	culture = stromic
+}		#County of Hinterroads
+380 = {
+	name="Holm"
+	culture = stromic
+}		#County of Manorsfield
+381 = {
+	name="Maciel"
+	culture = stromic
+}		#County of Stocksfield
+382 = {
+	name="Valonforth"
+	culture = stromic
+}		#County of Thedge Ruler and Duchy of Northfold Ruler
+383 = {
+	name="Dessforth"
+	culture = stromic
+}		#County of Equindare Ruler
+384 = {
+	name="Thorinforth"
+	culture = stromic
+}		#County of Hence Ruler
+653 = {
+	name="Hildagard"
+	culture = stromic
+}		#County of Ridingplains Ruler
+6065 = {
+	name="Ashvale"
+	culture = stromic
+}
+6068 = {
+	name="Talraenal"
+	culture = stromic
+}		#Duke of Riderlands and County of Palomin Owner - Change to Thalstad's Hold on Duchy and County

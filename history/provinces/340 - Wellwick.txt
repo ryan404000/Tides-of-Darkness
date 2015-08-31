@@ -1,0 +1,14 @@
+# 340 - Wellwick
+
+# County Title
+title = c_wellwick
+
+# Settlements
+max_settlements = 4
+b_wellwick = castle
+
+# Misc
+culture = gilnean
+religion = old_ways
+
+# History

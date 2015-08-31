@@ -1,0 +1,15 @@
+# 266 - Thedge
+
+# County Title
+title = c_thedge
+
+# Settlements
+max_settlements = 4
+b_thedge = castle
+
+
+# Misc
+culture = stromic
+religion = church_of_the_holy_light
+
+# History

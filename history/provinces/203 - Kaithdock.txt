@@ -1,0 +1,14 @@
+# 203 - Kaithdock
+
+# County Title
+title = c_kaithdock
+
+# Settlements
+max_settlements = 4
+b_kaithdock = castle
+
+# Misc
+culture = high_elf
+religion = belore
+
+# History
